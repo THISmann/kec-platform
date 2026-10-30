@@ -1,0 +1,20 @@
+# Routage Traefik pour kec-africa.com (priorité > catch-all solar)
+# HTTP + HTTPS : Cloudflare Full parle HTTPS à l'origine ; HTTP reste dispo.
+http:
+  routers:
+    kec-http:
+      rule: Host(`kec-africa.com`) || Host(`www.kec-africa.com`)
+      entryPoints: [web]
+      service: kec
+      priority: 200
+    kec:
+      rule: Host(`kec-africa.com`) || Host(`www.kec-africa.com`)
+      entryPoints: [websecure]
+      service: kec
+      tls: {}
+      priority: 200
+  services:
+    kec:
+      loadBalancer:
+        servers:
+          - url: http://kec-platform:80

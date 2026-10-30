@@ -1,0 +1,24 @@
+# Déploiement VPS (Traefik solar-net) — kec-africa.com
+name: kec-platform
+
+services:
+  web:
+    image: nginx:1.27-alpine
+    container_name: kec-platform
+    restart: unless-stopped
+    volumes:
+      - ./dist:/usr/share/nginx/html:ro
+      - ./deploy/nginx.conf:/etc/nginx/conf.d/default.conf:ro
+      - ./deploy/security-headers.conf:/etc/nginx/snippets/security-headers.conf:ro
+    networks:
+      - solar-net
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1/"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+
+networks:
+  solar-net:
+    external: true
+    name: solar-net
