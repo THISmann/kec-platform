@@ -1,0 +1,798 @@
+{
+  "common": {
+    "back": "Zonga",
+    "next": "Landa",
+    "close": "Kanga",
+    "delete": "Longola",
+    "remove": "Longola",
+    "loading": "Zela moke, tozali kotanda litoko…",
+    "choose": "Pona…",
+    "soon": "kala mingi te",
+    "all": "Nyonso",
+    "saveContinue": "Bomba mpe kokoba"
+  },
+  "nav": {
+    "home": "Ebandeli KEC",
+    "main": "Nzela ya libosó",
+    "program": "Programme",
+    "services": "Misala",
+    "waitingRoom": "Ndako ya kozela",
+    "connexion": "Kokota",
+    "mySpace": "Esika na ngai",
+    "menu": "Menu",
+    "language": "Monoko",
+    "homeLabel": "Ebandeli",
+    "journey": "Mobembo"
+  },
+  "footer": {
+    "mission": "Ekuke ya digital mpe ya mibeko mpo na mosali-mombongo ya Afrika. Kokela, kokomisa semba, kokola, na lisalisi.",
+    "explore": "Kotala",
+    "spaces": "Bisika",
+    "fellows": "Esika na ngai · bakiliya",
+    "kia": "Kia · ba investisseurs",
+    "team": "Ekipi ya KEC",
+    "contact": "Contact",
+    "disclaimer": "KEC epesaka sango ya mobimba mpe lisalisi; epesaka te toli ya mibeko ya moto moko na internet.",
+    "follow": "Landa biso"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "K-Enterprise Counsel · Afrika",
+      "title1": "Kompani na yo, na misisa na Afrika.",
+      "title2": "Efungwami na mokili.",
+      "lead": "Kokela, kokomisa semba mpe kokolisa kompani na yo, na lisalisi ya bato, ntalo ya polele mpe mikanda na yo ebombami na sanduku ya mibeko.",
+      "ctaWaitlist": "Kota na ndako ya kozela",
+      "ctaProgram": "Koyeba programme",
+      "waiting": "Basali-mombongo {n} bazali kozela, na kafe na maboko",
+      "scroll": "Kokita"
+    },
+    "globe": {
+      "eyebrow": "Mokili ezali kobaluka",
+      "title": "Mpe Afrika ezali na katikati.",
+      "text": "Esika nyonso ozali: New York, Berlin, Paris, Montréal, Moscou, Amsterdam, Rome… projet na yo ezwi nzela ya kozonga na ndako. KEC ekangisi diaspora mpe basali-mombongo ya mboka na mposa moko: kotonga awa, mpo na libela.",
+      "facts": {
+        "countries": "mikili ya Afrika, guichet moko",
+        "ohada": "mikili ya etando ya OHADA oyo tozali kotala",
+        "cities": "bingumba ya diaspora ekangisami",
+        "languages": "minoko ya boyambi"
+      },
+      "card": {
+        "hint": "Leka likoló to simba mboka: ekongala mpe ekomilakisa.",
+        "create": "Kokela awa",
+        "close": "Kanga karte",
+        "default": "KEC ezali kosalisa yo awa: bokeli, bokomisi semba, bolandi ya mibeko.",
+        "ohada": "Membre ya OHADA",
+        "toValidate": "Sango oyo KEC esengeli kondima"
+      },
+      "aria": "Mokili oyo obaluki, na Afrika na katikati"
+    },
+    "services": {
+      "eyebrow": "Oyo tosalaka mpo na yo",
+      "title": "Uta ndoto ekomami na kaye tii na kashe ya leta.",
+      "lead": "Plateforme ekanisami mpo na ba PME, na ekipi ya solo.",
+      "items": {
+        "create": {
+          "title": "Fungola dossier na yo",
+          "text": "Pona mboka na yo, engumba na yo, lolenge ya mibeko. Totambwisi yo litambe na litambe, devis ya mobimba elakisami liboso."
+        },
+        "formalize": {
+          "title": "Komisa semba kompani na yo",
+          "text": "Statuts, RCCM, mikanda: otondisi formulaire moko, biso tokomi mpe tolandi dossier."
+        },
+        "grow": {
+          "title": "Kolisa mosala na yo",
+          "text": "Boyekoli, bolandi sima ya bokeli mpe kokota na réseau ya ba kompani ya KEC."
+        },
+        "vault": {
+          "title": "Sanduku ya mibeko",
+          "text": "Mikanda na yo nyonso ebombami na sekele, esika moko. Compte ya kompani na certification KEC."
+        },
+        "manu": {
+          "title": "Manu AI",
+          "text": "Moyambi oyo ayambi yo moi mpe butu, atambwisi yo, mpe apesi yo na moto ya mayele ya mibeko soki esengeli."
+        },
+        "consultant": {
+          "title": "Conseiller, ntango olingi",
+          "text": "Ozali na mposa ya likanisi? Zwa rendez-vous na conseiller ya KEC mpe futa na MoMo, Orange Money to na banque."
+        }
+      }
+    },
+    "journey": {
+      "eyebrow": "Mayaka sambo na nsinga moko",
+      "title": "Mobembo SCALE 110",
+      "steps": [
+        "Botali",
+        "Boyekoli makasi",
+        "Bobongisi ya mibeko",
+        "Bokeli",
+        "Mikanda ya suka",
+        "Boyekoli sima ya bokeli",
+        "Certification KEC"
+      ]
+    },
+    "program": {
+      "eyebrow": "Programme ya liboso · SCALE 110",
+      "title": "Bisika 110. Moko te likoló.",
+      "text": "Liboso ya kobanda na monene, tozali kosalisa etuluku ya liboso ya basali-mombongo 110 na sanza 6. Moto nyonso akoki kokomisa nkombo; KEC eponi ba fellows 110 na liste ya kozela.",
+      "points": {
+        "selection": "Boponi na dossier kati ya baye bakomisi nkombo na ndako ya kozela",
+        "duration": "Sanza 6 ya incubation mpe lisalisi ya bato",
+        "certification": "Compte ya kompani na certification mpe emonanaka na suka ya programme"
+      },
+      "cta": "Nazwi tike na ngai",
+      "deadline": "Bokomisi nkombo ya liboso efungwami tii na sanza ya zomi na mibale."
+    },
+    "nostalgia": {
+      "eyebrow": "Mpo na baye bazali mosika",
+      "title": "Ndako ebosani yo te.",
+      "text": "Nsolo ya mabele sima ya mbula ya liboso. Kafe ya ntongo epai ya nkoko. Mingongo na nse ya nzete ya masolo. Okendaki kala? Kompani na yo ekoki kobotama awa, mpe kozongisa yo moke na ndako.",
+      "cta": "Kozonga na ekuke monene"
+    }
+  },
+  "waiting": {
+    "eyebrow": "Ndako ya kozela · liboso ya programme",
+    "title": "Akwaba! Fanda, tokopesa yo eloko.",
+    "manuHello": "Epai na biso na Afrika, toyambaka bato na maboko mpamba te. Olingi komela nini? Ti? Kafe? Vinu ya pembe?",
+    "manuServed": "Zwa ntango na yo mpo na kotondisa fiche, tozali na mbangu te awa.",
+    "serve": "Kopesa",
+    "coffeeAria": "Mbeki ya émail, kopo ya mabele mpe makabo ya boyambi",
+    "waitingNow": "na ndako",
+    "seats": "bisika ya programme",
+    "today": "bakomi lelo",
+    "arrived": "{name} ya {city} afandi sikoyo",
+    "formTitle": "Fiche na yo ya boyambi",
+    "formLead": "Matambe misato ya mike, na nse ya miniti misato. Sima, ozwi tike na yo.",
+    "proverbs": [
+      "Loboko moko ekangaka koki te.",
+      "Soki olingi kokende mbangu, kende yo moko; soki olingi kokende mosika, tokende elongo.",
+      "Moke moke, ndeke etongaka zumba na yango.",
+      "Motema molai ezali nzete oyo mosisa na yango ezali bololo, kasi mbuma na yango ezali elengi mingi.",
+      "Bracelet moko ebetaka te.",
+      "Na suka ya nsinga ya kala nde batongaka ya sika."
+    ],
+    "chooseDrink": "Pona oyo tokopesa yo",
+    "offerings": {
+      "coffee": "Kafe",
+      "tea": "Ti",
+      "peanuts": "Nguba ya kolamba",
+      "wine": "Vinu ya pembe",
+      "cola": "Makasu"
+    },
+    "served": {
+      "coffee": "Tala kafe na yo, ya moto.",
+      "tea": "Tala ti na yo, ya moto.",
+      "peanuts": "Tala nguba ya kolamba, ezali naino kobimisa molinga.",
+      "wine": "Tala kopo ya vinu ya pembe, ya malili.",
+      "cola": "Tala makasu: tokabolaka yango, ndenge esengeli."
+    },
+    "proverbFrom": "Lisese · {origin}",
+    "proverbAfrica": "Afrika"
+  },
+  "waitlist": {
+    "steps": {
+      "you": "Yo",
+      "project": "Projet na yo",
+      "last": "Liloba ya suka"
+    },
+    "firstName": "Nkombo",
+    "lastName": "Nkombo ya libota",
+    "email": "E-mail",
+    "phone": "Telefone / WhatsApp",
+    "phoneHint": "Mpo na koyebisa yo soki oponami.",
+    "residence": "Mboka ofandi",
+    "language": "Monoko olingi",
+    "targetCountry": "Mboka ya kokela",
+    "targetCity": "Engumba ya kokela",
+    "sector": "Secteur ya mosala",
+    "stage": "Projet na yo ekomi wapi?",
+    "summary": "Projet na yo na maloba moke",
+    "summaryHint": "Fraze moko to mibale ekoki. Esalisaka mingi mpo na boponi.",
+    "needs": "Bamposa na yo",
+    "forWhom": "Ozali kokela…",
+    "forWhomOptions": {
+      "self": "Mpo na ngai",
+      "relative": "Mpo na ndeko na mboka"
+    },
+    "channel": "Oyokaki KEC ndenge nini?",
+    "channelDetail": {
+      "fieldAgent": "Nkombo ya agent ya KEC na terrain",
+      "other": "Limbola",
+      "event": "Likambo nini?",
+      "wordOfMouth": "Nani ayebisaki yo? (soki olingi)"
+    },
+    "consentData": "Nandimi ete KEC esalela ba données na ngai mpo na kotala bosenga na ngai (engebene na mibeko ya Cameroun mpe mitinda ya RGPD).",
+    "consentMarketing": "Nalingi kozwa sango ya KEC (e-mail, SMS, WhatsApp).",
+    "submit": "Kozwa tike na ngai"
+  },
+  "ticket": {
+    "label": "Tike",
+    "title": "Esika na yo ebombami, {name}!",
+    "text": "Bozali sikoyo {total} na ndako ya kozela. Bisika {seats} kaka mpo na etuluku ya liboso: ekipi etalaka fiche moko na moko na bokebi.",
+    "next": "Bakobenga yo na e-mail mpe WhatsApp. Na ntango yango, benga ndeko oyo azali mpe na projet.",
+    "shareWhatsapp": "Kobenga na WhatsApp",
+    "shareText": "Nauti kozwa tike na ngai na ndako ya kozela ya KEC mpo na kokela kompani na ngai. Yaka tomela kafe elongo: {url}"
+  },
+  "acquisition": {
+    "linkedin": "LinkedIn",
+    "wordOfMouth": "Monoko na monoko",
+    "facebook": "Facebook",
+    "fieldAgent": "Agent ya KEC na terrain",
+    "whatsapp": "WhatsApp",
+    "tiktok": "TikTok",
+    "instagram": "Instagram",
+    "event": "Likambo",
+    "other": "Mosusu"
+  },
+  "sectors": {
+    "agri": "Bilanga mpe bobongoli ya bilei",
+    "commerce": "Mombongo",
+    "tech": "Digital mpe tech",
+    "services": "Misala mpo na ba kompani",
+    "transport": "Transport mpe logistique",
+    "construction": "Botongi",
+    "health": "Bokolongono mpe bolamu",
+    "education": "Boyekoli mpe formation",
+    "craft": "Misala ya maboko",
+    "fashion": "Bilamba mpe mode",
+    "food": "Bilei mpe restaurant",
+    "other": "Mosusu"
+  },
+  "stages": {
+    "idea": "Ezali likanisi",
+    "informal": "Nazali kosala deja (informel)",
+    "existing": "Kompani ezali, esengeli kobongisama"
+  },
+  "needs": {
+    "legal": "Mibeko",
+    "tax": "Mpako",
+    "accounting": "Comptabilité",
+    "funding": "Mbongo ya mosala",
+    "hr": "Basali",
+    "contracts": "Ba contrats",
+    "ip": "Propriété intellectuelle",
+    "commercial": "Mombongo"
+  },
+  "legalForms": {
+    "ei": "Mombongo ya moto moko",
+    "sarlu": "SARL ya moto moko",
+    "sarl": "SARL",
+    "sas": "SAS",
+    "sasu": "SASU",
+    "sa": "SA",
+    "gie": "GIE"
+  },
+  "legalFormsInfo": {
+    "ei": "Pete mpe mbangu, kasi biloko na yo moko ekangami.",
+    "sarlu": "SARL na mosangani moko: mokumba esuki na oyo otie.",
+    "sarl": "Lolenge oyo esalelamaka mingi mpo na ba PME, mosangani 1 to ebele.",
+    "sas": "Bonsomi monene na statuts, ba investisseurs balingaka yango.",
+    "sasu": "SAS na mosangani moko.",
+    "sa": "Mpo na misala minene; mibeko mingi koleka.",
+    "gie": "Lisanga mpo na kosangisa biloko kati ya ba kompani."
+  },
+  "documents": {
+    "cni": "Carte d'identité (CNI) to passeport",
+    "locationPlan": "Plan ya esika ya siège",
+    "photo": "Bafoto ya identité",
+    "criminalRecord": "Extrait ya casier judiciaire",
+    "leaseContract": "Contrat ya bail / attestation ya ndako",
+    "other": "Mokanda mosusu",
+    "statutes": "Projet ya statuts (ekomami na KEC)",
+    "hint": {
+      "cni": "Liboso mpe sima, emonanaka malamu. Foto ya telefone ekoki.",
+      "locationPlan": "Croquis to foto ya carte na bilembo.",
+      "photo": "Sima ya pembe, lolenge ya identité.",
+      "criminalRecord": "Ya sanza 3 te koleka.",
+      "leaseContract": "To attestation ya nkolo ndako.",
+      "other": "Mokanda nyonso ya ntina mpo na dossier na yo."
+    }
+  },
+  "upload": {
+    "add": "Kotinda",
+    "replace": "Kobongola",
+    "done": "{name} ekomi malamu na sanduku na yo.",
+    "limits": "Ba formats endimami: JPG, PNG, WEBP, PDF · {size} Mo koleka te · ekipi etalaka soki emonanaka malamu."
+  },
+  "status": {
+    "dossier": {
+      "draft": "Brouillon",
+      "submitted": "Etindami",
+      "in_review": "Ezali kotalama",
+      "docs_requested": "Mikanda esengami",
+      "filed": "Ekotisami",
+      "created": "Kompani ekelami"
+    },
+    "doc": {
+      "uploaded": "Esengeli kotalama",
+      "verified": "Endimami",
+      "rejected": "Esengeli kozongela"
+    },
+    "waitlist": {
+      "pending": "Ezali kozela",
+      "shortlisted": "Eponami liboso",
+      "selected": "Eponami (110)",
+      "rejected": "Eponami te"
+    },
+    "payment": {
+      "succeeded": "Efutami",
+      "pending": "Ezali kosalema",
+      "awaiting_transfer": "Virement ezali kozelama",
+      "failed": "Elongi te"
+    }
+  },
+  "milestones": {
+    "diagnostic": "Botali",
+    "training": "Boyekoli makasi",
+    "structuring": "Bobongisi ya mibeko",
+    "formalisation": "Bokeli / bokomisi semba",
+    "finalDocs": "Mikanda ya suka",
+    "postTraining": "Boyekoli sima ya bokeli",
+    "certification": "Certification"
+  },
+  "manu": {
+    "title": "Lisolo na Manu AI",
+    "open": "Solola na Manu, moyambi",
+    "dragHint": "Benda ngai mpo na kolongola ngai · finá mbala mibale likoló mpo nazonga esika na ngai",
+    "role": "Moyambi · na internet",
+    "teaserTitle": "Akwaba!",
+    "teaser": "Ngai Manu. Motuna? Nazali awa.",
+    "placeholder": "Koma nsango na yo…",
+    "send": "Tinda",
+    "typing": "Manu azali kokoma…",
+    "restart": "Lisolo ya sika",
+    "escalated": "Etindami na moto ya ekipi · eyano na ngonga 4 ya mosala",
+    "disclaimer": "Manu apesaka sango ya mobimba, ata moke te toli ya mibeko ya moto moko.",
+    "unavailable": "Nakoki koyanola te sikoyo. Mobembo na yo ekokoba ndenge moko, mpe okoki kosolola na conseiller na nzela ya barre na nse ya écran.",
+    "mic": "Loba na Manu",
+    "micStop": "Tika koloba",
+    "listening": "Nazali koyoka yo…",
+    "micUnsupported": "Koloba na mongongo ezali te na navigateur oyo.",
+    "voiceOn": "Tanga biyano na mongongo",
+    "voiceOff": "Kanga mongongo",
+    "voiceUnsupported": "Kotanga na mongongo ezali te na esaleli oyo."
+  },
+  "consultant": {
+    "barAria": "Solola na conseiller",
+    "barQuestion": "Olingi kosolola na moko ya ba conseillers na biso?",
+    "barCta": "Finá awa",
+    "eyebrow": "Ba conseillers ya KEC",
+    "lead": "Moto ya solo, oyo ayebi terrain. Pona conseiller na yo, ntango na yo, mpe futa na pete.",
+    "hour": "ngonga",
+    "who": "Na nani?",
+    "when": "Ntango nini?",
+    "what": "Ntango boni, mpe likambo nini?",
+    "duration": "Ntango",
+    "topic": "Likambo",
+    "topicPh": "Ndakisa: pacte ya basangani, boponi SARL/SAS, bail commercial…",
+    "defaultTopic": "Lisolo ya toli",
+    "pickSlot": "Pona mokolo mpe ntango oyo ezali.",
+    "summary": "{date} na {slot} · miniti {duration}",
+    "bookPay": "Kozwa rendez-vous mpe kofuta",
+    "payTitle": "Kofuta consultation",
+    "payLabel": "Consultation",
+    "confirmedTitle": "Ekangami!",
+    "confirmed": "Rendez-vous na yo na {name} endimami mokolo {date} na {slot}. Okozwa likundoli na SMS mpe WhatsApp.",
+    "speciality": {
+      "corporate": "Mibeko ya ba kompani",
+      "tax": "Mpako",
+      "investment": "Investissement mpe diaspora"
+    },
+    "request": {
+      "title": "Tokoki kosala nini mpo na yo?",
+      "lead": "Yebisa biso na mokuse likambo oyo etungisi yo; conseiller akobenga yo kala mingi te.",
+      "name": "Nkombo mpe nkombo ya libota",
+      "country": "Mboka",
+      "phone": "Telefone to WhatsApp",
+      "email": "E-mail",
+      "need": "Mposa na yo, na milongo moke",
+      "needPh": "Ndakisa: nalingi kofungola magazini na Dakar na ndeko na ngai ya mwasi oyo afandi na Bruxelles…",
+      "channel": "Olingi babenga yo ndenge nini?",
+      "channels": {
+        "whatsapp": "WhatsApp",
+        "call": "Telefone",
+        "email": "E-mail"
+      },
+      "consent": "Nandimi ete KEC esalela ba sango oyo mpo na kobenga ngai.",
+      "hint": "Eyano ya conseiller ya KEC na ngonga 24 ya mosala. Ntalo ya consultation eyebisami liboso ya likambo nyonso.",
+      "send": "Tinda bosenga na ngai",
+      "sentTitle": "Matondo, {name}!",
+      "sent": "Conseiller ya KEC akobenga yo na ngonga 24 ya mosala, na {channel}. Numéro ya bosenga: {ref}.",
+      "fellowHint": "Okoti: zwa mbala moko rendez-vous na conseiller oyo olingi.",
+      "book": "Zwa rendez-vous na conseiller"
+    }
+  },
+  "kopen": {
+    "title": "Ozali na makanisi mpo tokoma malamu?",
+    "lead": "Tika nsango awa. Liloba nyonso oyo ekoti na sanduku etangamaka na ekipi: ndenge wana nde tokolaka elongo.",
+    "category": "Lolenge ya nsango",
+    "placeholder": "Likanisi na yo, maloba na yo, oyo osepeli na yango…",
+    "contact": "E-mail to telefone na yo (soki olingi)",
+    "contactHint": "Kaka soki olingi toyanola yo.",
+    "send": "Kotia na sanduku",
+    "tooShort": "Yebisa biso mwa mingi (balettres 10 ata moke).",
+    "thanksTitle": "Matondo, tozwi yango.",
+    "thanks": "Nsango na yo ezali na sanduku. Tokotanga yango, tolaki.",
+    "anonymous": "Nkombo te",
+    "categories": {
+      "idea": "Likanisi",
+      "feature": "Fonctionnalité",
+      "content": "Makomi",
+      "praise": "Bolendisi",
+      "problem": "Mokakatano",
+      "other": "Mosusu"
+    }
+  },
+  "login": {
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "submit": "Kota",
+    "toggle": "Lakisa / bomba mot de passe",
+    "demo": "Démo:",
+    "fill": "Tondisa",
+    "notFellow": "Ozali naino kiliya ya KEC te?",
+    "joinWaitlist": "Zwa tike na yo na ndako ya kozela.",
+    "fellow": {
+      "eyebrow": "Kokota",
+      "title": "Esika na ngai",
+      "lead": "Dossier na yo, sanduku na yo, ba conseillers na yo mpe bokoli na yo, esika moko.",
+      "quote": "Mbongo-nkonga nkama moko na zomi, masolo nkama moko na zomi ya ba kompani."
+    },
+    "staff": {
+      "eyebrow": "Ekipi ya KEC",
+      "title": "Esika ya kati",
+      "lead": "Boyambi ya ba dossiers, boponi ya 110, biyano na basali-mombongo.",
+      "quote": "Sima ya dossier moko na moko, ndoto ya komema na bokebi."
+    },
+    "investor": {
+      "eyebrow": "Kia",
+      "title": "Nzela ya ba investisseurs",
+      "lead": "Landa mbala moko bokomisi nkombo mpe mbongo oyo ekoti, na telefone na yo.",
+      "quote": "Komona nzete ekoli, nkasa sima ya nkasa."
+    }
+  },
+  "app": {
+    "fellowSpace": "Esika na ngai",
+    "staffSpace": "Ekipi ya KEC",
+    "logout": "Kobima",
+    "nav": {
+      "dashboard": "Ebandeli",
+      "company": "Kompani na ngai",
+      "vault": "Sanduku",
+      "consultant": "Conseiller",
+      "payments": "Bofuti",
+      "kopen": "Kopen Mind",
+      "overview": "Botali mobimba",
+      "waitlist": "Liste ya kozela",
+      "dossiers": "Ba dossiers",
+      "inbox": "Nsango",
+      "appointments": "Ba rendez-vous",
+      "manu": "Manu AI",
+      "team": "Ekipi mpe mikumba"
+    },
+    "fellowOf": "Fellow #{n} / 110"
+  },
+  "cert": {
+    "month": "Sanza {n}",
+    "progress": "Sanza {n} na {total}",
+    "until": "certification ekanami mokolo {date}",
+    "certified": "Certifié KEC",
+    "pending": "Certification na suka ya programme",
+    "pendingLong": "Elembo ya certification efungwami na suka ya sanza 6"
+  },
+  "fellow": {
+    "dash": {
+      "eyebrow": "Okoti · esika na yo",
+      "hello": "Akwaba, {name}!",
+      "lead": "Tala esika mobembo na yo ekomi. Tozali kokende elongo, liyaka sima ya liyaka.",
+      "company": "Kompani na ngai",
+      "assignee": "Moto na yo ya kosolola: {name}",
+      "noCompany": "Obandi naino dossier na yo te.",
+      "openDossier": "Fungola dossier na ngai",
+      "vault": "Sanduku",
+      "vaultLead": "Mikanda na yo, na sekele mpe pene na yo ntango nyonso.",
+      "actionNeeded": "Esengeli kosala",
+      "openVault": "Fungola sanduku",
+      "consultant": "Conseiller",
+      "noBooking": "Rendez-vous ekanami te.",
+      "book": "Zwa rendez-vous na conseiller",
+      "payments": "Bofuti",
+      "paidOf": "efutami na {total}",
+      "history": "Tala histoire",
+      "kopen": "Likanisi mpo na kobongisa KEC? Tia yango na Kopen Mind.",
+      "celebrate": "Konokisa mbongo-nkonga",
+      "upcomingCount": "Ba rendez-vous {n} ezali koya",
+      "balanceLeft": "Etikali {amount} ya kofuta",
+      "unread": "{n} etangami te",
+      "messages": "Nsango"
+    }
+  },
+  "company": {
+    "eyebrow": "Kompani na ngai",
+    "title": "Kokela kompani na ngai",
+    "steps": {
+      "place": "Mboka mpe engumba",
+      "form": "Lolenge ya mibeko",
+      "details": "Formulaire",
+      "docs": "Mikanda",
+      "review": "Kotinda"
+    },
+    "country": "Mboka",
+    "city": "Engumba",
+    "placeLead": "Olingi kokela kompani na yo wapi? Cameroun ebandi; mikili mosusu ya OHADA ekolanda.",
+    "formLead": "Pona lolenge ya mibeko. Devis ya mobimba elakisami mbala moko, liboso ya ba données ya sekele.",
+    "formDisclaimer": "Sango ya mobimba. Mpo na koyeba lolenge oyo ebongi na yo, zwa rendez-vous na conseiller.",
+    "docsLead": "Beta foto to tinda mikanda na yo. Ekipi etalaka soki emonanaka malamu mpe eyebisi yo soki eloko esengeli kozongela.",
+    "fields": {
+      "companyName": "Nkombo ya kompani",
+      "sector": "Secteur",
+      "activity": "Mosala ya libosó (objet social)",
+      "address": "Adresse ya siège",
+      "capital": "Capital social (FCFA)",
+      "capitalHint": "Motango ya bonsomi; tokolimbola yo momesano.",
+      "manager": "Gérant / mokambi",
+      "employees": "Motango ya basali ekanami",
+      "revenue": "Chiffre d'affaires (eteni)",
+      "partners": "Basangani mpe bokaboli",
+      "partnerName": "Nkombo ya mosangani",
+      "addPartner": "Bakisa mosangani"
+    },
+    "payer": {
+      "title": "Nani afuti?",
+      "self": "Nafuti ngai moko",
+      "other": "Ndeko afuti mpo na ngai",
+      "name": "Nkombo ya mofuti",
+      "relation": "Boyokani (moboti, moninga…)"
+    },
+    "review": {
+      "place": "Esika",
+      "form": "Lolenge ya mibeko",
+      "docs": "Mikanda etindami",
+      "submittedAt": "Botindi ya suka",
+      "lead": "Soki otindi, dossier na yo ekei epai ya moto na yo ya KEC. Olandi litambe moko na moko awa, na ba dates ekanami."
+    },
+    "submit": "Tinda dossier na ngai na KEC",
+    "resubmit": "Kobongisa dossier na ngai",
+    "submitted": "Dossier etindami! Moto na yo akozongela yo noki.",
+    "titleDossier": "Dossier ya kompani na ngai",
+    "titleEdit": "Kobongola dossier na ngai",
+    "backToDossier": "Zonga na dossier"
+  },
+  "quote": {
+    "title": "Devis na yo ya mobimba",
+    "total": "Mobimba",
+    "note": "Motango ya ndakisa, ba frais ya administration ezali na kati. Likambo ya kokamwa te: devis oyo endimami liboso ya kofuta.",
+    "lines": {
+      "kecFee": "Lisalisi ya KEC",
+      "registry": "Frais ya greffe mpe RCCM",
+      "notary": "Notaire / enregistrement",
+      "publication": "Publication légale"
+    }
+  },
+  "vault": {
+    "eyebrow": "Sanduku ya mibeko",
+    "title": "Mikanda na yo ya mibeko, na kimia",
+    "lead": "Mikanda ya identité, statuts, RCCM, ba contrats: nyonso ezali na sekele mpe ezwamaka ntango nyonso.",
+    "filters": {
+      "all": "Nyonso",
+      "mine": "Mikanda na ngai",
+      "kec": "Ekomami na KEC"
+    },
+    "add": "Bakisa mokanda",
+    "empty": "Eloko te awa sikoyo.",
+    "file": "Fichier",
+    "uploaded": "Etiami mokolo",
+    "status": "Statut",
+    "reason": "Ntina",
+    "confirmDelete": "Longola « {name} » na sanduku?",
+    "deleted": "Mokanda elongolami."
+  },
+  "payment": {
+    "amount": "Motango",
+    "method": "Lolenge ya kofuta",
+    "bank": "Virement ya banque",
+    "phone": "Numéro ya Mobile Money",
+    "phoneHint": "Okozwa bosenga ya kondima na numéro oyo.",
+    "pay": "Futa {amount}",
+    "secure": "Bofuti ya kimia · reçu mbala moko · mofuti ≠ mozwi endimami",
+    "confirmOnPhone": "Ndima na telefone na yo",
+    "confirmHint": "Tia code na yo ya sekele mpo na kondima. Kokanga lininisa oyo te.",
+    "transferTitle": "Ba sango mpo na virement",
+    "beneficiary": "Mozwi",
+    "reference": "Référence ya kotia",
+    "transferHint": "Bofuti na yo ekondimama ntango ekozwama (ngonga 24 tii 72). Kobosana te kotia référence.",
+    "success": "Bofuti ezwami, matondo!",
+    "receipt": "Reçu n° {n} · référence {ref}",
+    "failed": "Bofuti elongi te. Meka lisusu to bongola lolenge ya kofuta.",
+    "card": "Carte ya banque",
+    "phoneHintDemo": "Démo: numéro oyo esuki na 00 elakisi bofuti oyo elongi te."
+  },
+  "payments": {
+    "eyebrow": "Bofuti",
+    "title": "Bofuti na ngai",
+    "history": "Histoire",
+    "empty": "Bofuti te sikoyo.",
+    "program": "Programme SCALE 110",
+    "balance": "Etikali ya kofuta",
+    "fullyPaid": "Programme efutami mobimba. Matondo!",
+    "purpose": {
+      "program": "Programme SCALE 110",
+      "consultant": "Consultation"
+    },
+    "planLead": "Programme SCALE 110: {total}, efutamaka na biteni mibale.",
+    "installments": {
+      "deposit": "Acompte (50 %)",
+      "balance": "Etikali (50 %)",
+      "partial": "Bofuti ya eteni"
+    },
+    "installmentsHint": {
+      "deposit": "Na boponi, mpo na kondima esika na yo.",
+      "balance": "Liboso ya bokomisi semba ya kompani na yo."
+    },
+    "pendingTransfer": "Virement ya {amount} ezali kozela bondimi ya ekipi.",
+    "receipt": "Reçu",
+    "fullBalance": "Etikali mobimba",
+    "installment": "Eteni",
+    "chooseAmount": "Olingi kofuta nini?",
+    "payBalance": "Futa etikali",
+    "demoHint": "Mode démonstration: numéro nyonso ya Mobile Money esalaka, longola oyo esuki na 00 (elongi te). Virement etikali « kozela » tii ekipi ya KEC endimi."
+  },
+  "kia": {
+    "live": "Mbala moko",
+    "hello": "Investisseur ya bolingo, mbote {name}.",
+    "lead": "Tala motema ya KEC ezali kobeta sikoyo: nani akoti na ndako ya kozela, mpe nini ekoti.",
+    "waitlist": "Bakomisi nkombo na liste ya kozela",
+    "today": "lelo",
+    "goal": "Mokano liboso ya ebandeli: {n}",
+    "revenue": "Ezwami",
+    "potential": "Makoki ya etuluku ya liboso: {amount}",
+    "fellows": "ba fellows baponami",
+    "payments": "bofuti ezwami",
+    "diaspora": "diaspora",
+    "week": "bakomisi nkombo poso oyo",
+    "trend": "Bokomisi nkombo · mikolo 30",
+    "channels": "Bauti wapi?",
+    "feed": "Makambo ya sika",
+    "enableNotif": "Fungola ba alertes",
+    "feedSignup": "{name} ({city}, uta {residence}) akoti na ndako ya kozela",
+    "feedPayment": "Bofuti ezwami: {amount} na {method}",
+    "newSignup": "Nkombo ya sika: {name} · {city}",
+    "newPayment": "Mbongo ekoti: {amount}",
+    "newFellow": "{name} akoti na 110!",
+    "mockNote": "Mode démonstration: bakomisi nkombo ya ndakisa bazali koya segonde nyonso. Fungola ndako ya kozela na onglet mosusu mpo na komona bakomisi nkombo na yo moko awa.",
+    "fullName": "Kia · KEC Invest Again"
+  },
+  "validation": {
+    "required": "Esika oyo esengeli.",
+    "email": "Adresse e-mail ezali malamu te.",
+    "phone": "Numéro ezali malamu te (ndakisa +237 6XX XXX XXX).",
+    "consent": "Bondimi na yo esengeli mpo na kotala bosenga na yo.",
+    "city": "Pona engumba.",
+    "legalForm": "Pona lolenge ya mibeko.",
+    "shares": "Bokaboli esengeli kokoma 100 % (sikoyo {n} %)."
+  },
+  "errors": {
+    "generic": "Oups, likambo moko esimbi malamu te. Meka lisusu na mwa ntango.",
+    "network": "Connexion ezali malamu te. Tala réseau na yo mpe meka lisusu.",
+    "invalidCredentials": "E-mail to mot de passe ezali malamu te.",
+    "sessionExpired": "Session na yo esili, kota lisusu.",
+    "alreadyRegistered": "Adresse oyo ezali deja na ndako ya kozela. Esika na yo ebombami!",
+    "fileTooLarge": "Fichier ezali monene mingi.",
+    "fileType": "Format endimami te (JPG, PNG, WEBP to PDF).",
+    "invalidPhone": "Numéro ya Mobile Money ezali malamu te.",
+    "cohortFull": "Bisika 110 nyonso epesami deja. Longola esika moko liboso ya kopesa mosusu.",
+    "alreadyMember": "Adresse oyo ezali deja na ekipi.",
+    "lastAdmin": "Ekoki te: esengeli ata administrateur moko ya mosala.",
+    "accountDisabled": "Compte oyo ekangami. Solola na administrateur ya KEC."
+  },
+  "notFound": {
+    "text": "Mbongo-nkonga ezwi lokasa oyo te.",
+    "cta": "Zonga na ndako"
+  },
+  "inbox": {
+    "eyebrow": "Nsango",
+    "title": "Nsango na ngai",
+    "lead": "Masolo na yo na ekipi ya KEC, ba conseillers na yo mpe Manu. Eyano ya moto na ngonga {h} ya mosala.",
+    "new": "Nsango ya sika",
+    "filters": {
+      "all": "Nyonso",
+      "open": "Ezali kosalema",
+      "closed": "Ekangami"
+    },
+    "kinds": {
+      "manu": "Manu AI",
+      "consultant": "Conseiller",
+      "dossier": "Dossier na ngai",
+      "payment": "Bofuti",
+      "support": "Lisalisi",
+      "consultation": "Bosenga ya consultation"
+    },
+    "status": {
+      "open": "Esengeli kosalema",
+      "pending": "Eyano etindami",
+      "closed": "Ekangami"
+    },
+    "priority": {
+      "normal": "Normal",
+      "high": "Ya ntina",
+      "urgent": "Noki"
+    },
+    "handledBy": "Elandami na {name}",
+    "unassignedFellow": "Ekipi ekoyanola yo noki",
+    "pickOne": "Pona lisolo na ngambo ya mwasi, to komela biso.",
+    "empty": "Lisolo te sikoyo. Komela biso, tokoyanola yo na ngonga 4 ya mosala.",
+    "kindLabel": "Likambo",
+    "subject": "Motó ya likambo",
+    "message": "Nsango na yo",
+    "composeHint": "Limbola motuna na yo na milongo moke: soki ezali polele, eyano eyaka noki.",
+    "created": "Nsango etindami. Tokozongela yo noki.",
+    "send": "Tinda",
+    "replyPh": "Koma eyano na yo…",
+    "notePh": "Note ya kati, fellow amonaka te…",
+    "internalNote": "Note ya kati",
+    "addNote": "Bakisa note",
+    "hint": "Entrée mpo na kotinda · Maj + Entrée mpo na molongo ya sika",
+    "closedNotice": "Lisolo ekangami. Koma mpo na kofungola yango lisusu."
+  },
+  "booking": {
+    "mine": "Ba rendez-vous na ngai",
+    "book": "Kozwa",
+    "today": "Lelo",
+    "join": "Kokota",
+    "summary": "Compte rendu",
+    "refund": {
+      "credit": "Avoir ya {amount} etiami na compte na yo",
+      "refund": "Bozongisi ya {amount}"
+    },
+    "cancelledReason": "Ntina: {reason}",
+    "mode": {
+      "visio": "Visioconférence",
+      "phone": "Telefone",
+      "office": "Na bureau ya KEC (Douala)"
+    },
+    "modeLabel": "Lolenge",
+    "notesLabel": "Ba sango mpo na conseiller",
+    "notesHint": "Contexte, mikanda ozali na yango, mituna ya sikisiki… (soki olingi)",
+    "status": {
+      "awaiting_payment": "Ezali kozela bofuti",
+      "confirmed": "Endimami",
+      "completed": "Esili",
+      "cancelled": "Elongolami"
+    },
+    "statUpcoming": "Ezali koya",
+    "statDone": "Esalemi",
+    "statHours": "Ngonga ya toli",
+    "statSpent": "Etiami",
+    "upcoming": "Ba rendez-vous ezali koya",
+    "history": "Histoire",
+    "noUpcoming": "Rendez-vous ekanami te. Zwa ntango oyo olingi.",
+    "noHistory": "Rendez-vous ya kala te.",
+    "payNow": "Futa {amount}",
+    "cancel": "Longola",
+    "cancelTitle": "Longola rendez-vous oyo?",
+    "cancelUnpaid": "Rendez-vous oyo efutami te: ekolongolama kaka.",
+    "cancelFree": "Koleka ngonga 24 liboso ya rendez-vous: {amount} ezongi mobimba na compte na yo.",
+    "cancelLate": "Na nse ya ngonga 24 liboso ya rendez-vous: 50 % etikali, {amount} ezongi na compte na yo.",
+    "cancelReason": "Ntina ya kolongola",
+    "confirmCancel": "Ndima kolongola",
+    "cancelled": "Rendez-vous elongolami.",
+    "policy": "Kolongola ya ofele tii ngonga {h} liboso ya rendez-vous; sima, 50 % etikali. Motango oyo ezongi ekoki kosalelama na consultation na yo ya sima.",
+    "seeMine": "Tala ba rendez-vous na ngai"
+  },
+  "dossier": {
+    "yourContact": "Moto na yo ya kosolola",
+    "expected": "Bokeli ekanami pene na {date}",
+    "assigningSoon": "Okozwa moto ya kosolola noki.",
+    "milestones": "Mayaka sambo",
+    "progress": "Matambe {n} / {total} esili",
+    "doneAt": "esalemi {date}",
+    "dueAt": "ekanami {date}",
+    "declared": "Ba sango opesi",
+    "edit": "Kobongola dossier na ngai",
+    "subSector": "Sous-secteur",
+    "createdOn": "Dossier efungwami mokolo",
+    "documents": "Mikanda ya dossier",
+    "journal": "Journal ya dossier",
+    "write": "Komela {name}",
+    "writeTeam": "Komela ekipi"
+  }
+}

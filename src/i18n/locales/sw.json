@@ -1,0 +1,798 @@
+{
+  "common": {
+    "back": "Rudi",
+    "next": "Endelea",
+    "close": "Funga",
+    "delete": "Futa",
+    "remove": "Ondoa",
+    "loading": "Subiri kidogo, tunatandika mkeka…",
+    "choose": "Chagua…",
+    "soon": "hivi karibuni",
+    "all": "Zote",
+    "saveContinue": "Hifadhi na uendelee"
+  },
+  "nav": {
+    "home": "Mwanzo KEC",
+    "main": "Urambazaji mkuu",
+    "program": "Programu",
+    "services": "Huduma",
+    "waitingRoom": "Chumba cha kusubiri",
+    "connexion": "Ingia",
+    "mySpace": "Nafasi yangu",
+    "menu": "Menyu",
+    "language": "Lugha",
+    "homeLabel": "Mwanzo",
+    "journey": "Safari"
+  },
+  "footer": {
+    "mission": "Lango la kidijitali na la kisheria la mjasiriamali wa Afrika. Kuanzisha, kurasimisha, kukua, ukiwa na msaada.",
+    "explore": "Gundua",
+    "spaces": "Nafasi",
+    "fellows": "Nafasi yangu · wateja",
+    "kia": "Kia · wawekezaji",
+    "team": "Timu ya KEC",
+    "contact": "Mawasiliano",
+    "disclaimer": "KEC inatoa taarifa za jumla na usaidizi; si ushauri wa kisheria wa mtu binafsi mtandaoni.",
+    "follow": "Tufuate"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "K-Enterprise Counsel · Afrika",
+      "title1": "Biashara yako, yenye mizizi Afrika.",
+      "title2": "Iliyo wazi kwa dunia.",
+      "lead": "Kuanzisha, kurasimisha na kukuza biashara yako, kwa usaidizi wa kibinadamu, bei za wazi na nyaraka zako salama katika kasha la kisheria.",
+      "ctaWaitlist": "Ingia chumba cha kusubiri",
+      "ctaProgram": "Gundua programu",
+      "waiting": "Wajasiriamali {n} tayari wanasubiri, kahawa mkononi",
+      "scroll": "Sogeza chini"
+    },
+    "globe": {
+      "eyebrow": "Dunia inazunguka",
+      "title": "Na Afrika iko katikati.",
+      "text": "Popote ulipo: New York, Berlin, Paris, Montreal, Moscow, Amsterdam, Roma… mradi wako unapata njia ya kurudi nyumbani. KEC inaunganisha diaspora na wajasiriamali wa ndani kuzunguka lengo moja: kujenga hapa, kwa kudumu.",
+      "facts": {
+        "countries": "nchi za Afrika, dirisha moja",
+        "ohada": "nchi za eneo la OHADA zinazolengwa",
+        "cities": "miji ya diaspora iliyounganishwa",
+        "languages": "lugha za mapokezi"
+      },
+      "card": {
+        "hint": "Elea au gusa nchi: inawaka na kujitambulisha.",
+        "create": "Anzisha hapa",
+        "close": "Funga kadi",
+        "default": "KEC inakusaidia hapa: uanzishaji, urasimishaji, ufuatiliaji wa kisheria.",
+        "ohada": "Mwanachama wa OHADA",
+        "toValidate": "Taarifa inayosubiri kuthibitishwa na KEC"
+      },
+      "aria": "Tufe la dunia linaloingiliana, likiwa na Afrika katikati"
+    },
+    "services": {
+      "eyebrow": "Tunachokufanyia",
+      "title": "Kutoka ndoto iliyoandikwa kwenye daftari hadi muhuri rasmi.",
+      "lead": "Jukwaa lililoundwa kwa biashara ndogo na za kati, likiungwa mkono na timu ya kweli.",
+      "items": {
+        "create": {
+          "title": "Fungua faili lako",
+          "text": "Chagua nchi yako, mji wako, muundo wako wa kisheria. Tunakuongoza hatua kwa hatua, makadirio kamili yakionyeshwa kwanza."
+        },
+        "formalize": {
+          "title": "Rasimisha muundo wako",
+          "text": "Katiba, RCCM, nyaraka: unajaza fomu maalum, sisi tunaandika na kufuatilia faili."
+        },
+        "grow": {
+          "title": "Kuza shughuli yako",
+          "text": "Mafunzo, ufuatiliaji baada ya usajili na kujiunga na mtandao wa makampuni ya KEC."
+        },
+        "vault": {
+          "title": "Kasha la kisheria",
+          "text": "Nyaraka zako zote zimesimbwa, mahali pamoja. Akaunti ya kampuni iliyothibitishwa na KEC."
+        },
+        "manu": {
+          "title": "Manu AI",
+          "text": "Mpokeaji wageni anayekukaribisha mchana na usiku, anakuelekeza, na kumkabidhi mtaalamu wa sheria inapohitajika."
+        },
+        "consultant": {
+          "title": "Mshauri, wakati unaotaka",
+          "text": "Unahitaji maoni? Weka miadi na mshauri wa KEC na ulipe kwa MoMo, Orange Money au uhamisho."
+        }
+      }
+    },
+    "journey": {
+      "eyebrow": "Lulu saba kwenye uzi mmoja",
+      "title": "Safari ya SCALE 110",
+      "steps": [
+        "Uchunguzi",
+        "Mafunzo ya kina",
+        "Muundo wa kisheria",
+        "Usajili",
+        "Nyaraka za mwisho",
+        "Mafunzo baada ya usajili",
+        "Uthibitisho wa KEC"
+      ]
+    },
+    "program": {
+      "eyebrow": "Programu ya majaribio · SCALE 110",
+      "title": "Nafasi 110. Hakuna zaidi.",
+      "text": "Kabla ya uzinduzi mkubwa, tunasaidia kundi la kwanza la wajasiriamali 110 kwa miezi 6. Kila mtu anaweza kujiandikisha; KEC inachagua fellows 110 kutoka orodha ya kusubiri.",
+      "points": {
+        "selection": "Uteuzi kwa faili kati ya waliojiandikisha katika chumba cha kusubiri",
+        "duration": "Miezi 6 ya kulelewa na usaidizi wa kibinadamu",
+        "certification": "Akaunti ya kampuni iliyothibitishwa na inayoonekana mwishoni mwa programu"
+      },
+      "cta": "Nachukua tiketi yangu",
+      "deadline": "Usajili wa awali umefunguliwa hadi Desemba."
+    },
+    "nostalgia": {
+      "eyebrow": "Kwa walio mbali",
+      "title": "Nyumbani hawajakusahau.",
+      "text": "Harufu ya udongo baada ya mvua ya kwanza. Kahawa ya asubuhi kwa bibi. Sauti chini ya mti wa mazungumzo. Umeondoka muda mrefu? Biashara yako inaweza kuzaliwa hapa, na kukurudisha nyumbani kidogo.",
+      "cta": "Rudi kupitia mlango mkubwa"
+    }
+  },
+  "waiting": {
+    "eyebrow": "Chumba cha kusubiri · kabla ya majaribio",
+    "title": "Akwaba! Keti, tunakuletea kitu.",
+    "manuHello": "Kwetu Afrika, hatupokei watu mikono mitupu. Unakunywa nini? Chai? Kahawa? Mvinyo mweupe?",
+    "manuServed": "Chukua muda wako kujaza fomu, hatuna haraka hapa.",
+    "serve": "Toa",
+    "coffeeAria": "Birika la enameli, kikombe cha udongo na zawadi za ukaribisho",
+    "waitingNow": "chumbani",
+    "seats": "nafasi za majaribio",
+    "today": "waliofika leo",
+    "arrived": "{name} kutoka {city} ameketi sasa hivi",
+    "formTitle": "Fomu yako ya mapokezi",
+    "formLead": "Hatua tatu ndogo, chini ya dakika tatu. Kisha, unapokea tiketi yako.",
+    "proverbs": [
+      "Mkono mmoja haufungi koki.",
+      "Ukitaka kwenda haraka, nenda peke yako; ukitaka kwenda mbali, twende pamoja.",
+      "Haba na haba hujaza kibaba.",
+      "Subira ni mti wenye mizizi michungu lakini matunda matamu sana.",
+      "Bangili moja hailii.",
+      "Kamba mpya husukwa kwenye ncha ya kamba ya zamani."
+    ],
+    "chooseDrink": "Chagua tunachokuletea",
+    "offerings": {
+      "coffee": "Kahawa",
+      "tea": "Chai",
+      "peanuts": "Karanga za kuchemsha",
+      "wine": "Mvinyo mweupe",
+      "cola": "Kola"
+    },
+    "served": {
+      "coffee": "Hii hapa kahawa yako, ya moto.",
+      "tea": "Hii hapa chai yako, ya moto.",
+      "peanuts": "Hizi hapa karanga za kuchemsha, bado zinatoa mvuke.",
+      "wine": "Hiki hapa kikombe cha mvinyo mweupe, baridi kabisa.",
+      "cola": "Hii hapa kola: tunaigawana, kama inavyostahili."
+    },
+    "proverbFrom": "Methali · {origin}",
+    "proverbAfrica": "Afrika"
+  },
+  "waitlist": {
+    "steps": {
+      "you": "Wewe",
+      "project": "Mradi wako",
+      "last": "Neno la mwisho"
+    },
+    "firstName": "Jina la kwanza",
+    "lastName": "Jina la ukoo",
+    "email": "Barua pepe",
+    "phone": "Simu / WhatsApp",
+    "phoneHint": "Ili kukujulisha ukichaguliwa.",
+    "residence": "Nchi unayoishi",
+    "language": "Lugha unayopendelea",
+    "targetCountry": "Nchi ya kuanzisha",
+    "targetCity": "Mji wa kuanzisha",
+    "sector": "Sekta ya shughuli",
+    "stage": "Mradi wako umefikia wapi?",
+    "summary": "Mradi wako kwa maneno machache",
+    "summaryHint": "Sentensi moja au mbili zinatosha. Inasaidia sana katika uteuzi.",
+    "needs": "Mahitaji yako",
+    "forWhom": "Unaanzisha…",
+    "forWhomOptions": {
+      "self": "Kwa ajili yangu",
+      "relative": "Kwa ndugu aliye nyumbani"
+    },
+    "channel": "Ulisikiaje kuhusu KEC?",
+    "channelDetail": {
+      "fieldAgent": "Jina la wakala wa uwanjani wa KEC",
+      "other": "Eleza",
+      "event": "Tukio gani?",
+      "wordOfMouth": "Nani alikuambia? (si lazima)"
+    },
+    "consentData": "Nakubali KEC ichakate data zangu ili kuchunguza maombi yangu (kwa mujibu wa sheria za Kamerun na kanuni za GDPR).",
+    "consentMarketing": "Nataka kupokea habari za KEC (barua pepe, SMS, WhatsApp).",
+    "submit": "Chukua tiketi yangu"
+  },
+  "ticket": {
+    "label": "Tiketi",
+    "title": "Nafasi yako imehifadhiwa, {name}!",
+    "text": "Sasa mko {total} katika chumba cha kusubiri. Nafasi {seats} tu kwa kundi la majaribio: timu inachunguza kila fomu kwa makini.",
+    "next": "Utawasiliwa kwa barua pepe na WhatsApp. Wakati huo huo, mwalike mtu wa karibu ambaye pia ana mradi.",
+    "shareWhatsapp": "Alika kwa WhatsApp",
+    "shareText": "Nimechukua tiketi yangu katika chumba cha kusubiri cha KEC ili kuanzisha biashara yangu. Njoo tunywe kahawa pamoja: {url}"
+  },
+  "acquisition": {
+    "linkedin": "LinkedIn",
+    "wordOfMouth": "Mdomo kwa mdomo",
+    "facebook": "Facebook",
+    "fieldAgent": "Wakala wa uwanjani wa KEC",
+    "whatsapp": "WhatsApp",
+    "tiktok": "TikTok",
+    "instagram": "Instagram",
+    "event": "Tukio",
+    "other": "Nyingine"
+  },
+  "sectors": {
+    "agri": "Kilimo na usindikaji",
+    "commerce": "Biashara",
+    "tech": "Dijitali na teknolojia",
+    "services": "Huduma kwa biashara",
+    "transport": "Usafiri na usafirishaji",
+    "construction": "Ujenzi",
+    "health": "Afya na ustawi",
+    "education": "Elimu na mafunzo",
+    "craft": "Ufundi",
+    "fashion": "Mitindo na nguo",
+    "food": "Mikahawa",
+    "other": "Nyingine"
+  },
+  "stages": {
+    "idea": "Ni wazo",
+    "informal": "Tayari nafanya (isiyo rasmi)",
+    "existing": "Kampuni iliyopo inayohitaji muundo"
+  },
+  "needs": {
+    "legal": "Kisheria",
+    "tax": "Kodi",
+    "accounting": "Uhasibu",
+    "funding": "Ufadhili",
+    "hr": "Rasilimali watu",
+    "contracts": "Mikataba",
+    "ip": "Haki miliki",
+    "commercial": "Biashara"
+  },
+  "legalForms": {
+    "ei": "Biashara ya mtu binafsi",
+    "sarlu": "SARL ya mtu mmoja",
+    "sarl": "SARL",
+    "sas": "SAS",
+    "sasu": "SASU",
+    "sa": "SA",
+    "gie": "GIE"
+  },
+  "legalFormsInfo": {
+    "ei": "Rahisi na haraka, lakini mali yako binafsi inahusika.",
+    "sarlu": "SARL yenye mshirika mmoja: dhima imepunguzwa kwa michango.",
+    "sarl": "Muundo wa kawaida zaidi kwa biashara ndogo na za kati, kutoka mshirika 1 hadi kadhaa.",
+    "sas": "Uhuru mkubwa katika katiba, unaopendwa na wawekezaji.",
+    "sasu": "SAS yenye mshirika mmoja.",
+    "sa": "Kwa miradi mikubwa; taratibu nzito zaidi.",
+    "gie": "Kikundi cha kushirikiana rasilimali kati ya makampuni."
+  },
+  "documents": {
+    "cni": "Kitambulisho (CNI) au pasipoti",
+    "locationPlan": "Ramani ya eneo la makao makuu",
+    "photo": "Picha za pasipoti",
+    "criminalRecord": "Cheti cha tabia njema",
+    "leaseContract": "Mkataba wa kukodisha / cheti cha makazi",
+    "other": "Nyaraka nyingine",
+    "statutes": "Rasimu ya katiba (imeandikwa na KEC)",
+    "hint": {
+      "cni": "Pande zote mbili, zinazosomeka vizuri. Picha ya simu inatosha.",
+      "locationPlan": "Mchoro au picha ya ramani yenye alama.",
+      "photo": "Mandhari nyepesi, ukubwa wa pasipoti.",
+      "criminalRecord": "Isiyozidi miezi 3.",
+      "leaseContract": "Au cheti cha mwenye nyumba.",
+      "other": "Nyaraka yoyote muhimu kwa faili lako."
+    }
+  },
+  "upload": {
+    "add": "Pakia",
+    "replace": "Badilisha",
+    "done": "{name} imefika salama kwenye kasha lako.",
+    "limits": "Fomati zinazokubalika: JPG, PNG, WEBP, PDF · upeo {size} MB · ukaguzi wa usomaji na timu."
+  },
+  "status": {
+    "dossier": {
+      "draft": "Rasimu",
+      "submitted": "Imetumwa",
+      "in_review": "Inachunguzwa",
+      "docs_requested": "Nyaraka zimeombwa",
+      "filed": "Imewasilishwa",
+      "created": "Kampuni imeanzishwa"
+    },
+    "doc": {
+      "uploaded": "Inasubiri ukaguzi",
+      "verified": "Imethibitishwa",
+      "rejected": "Irudiwe"
+    },
+    "waitlist": {
+      "pending": "Inasubiri",
+      "shortlisted": "Imeorodheshwa",
+      "selected": "Imechaguliwa (110)",
+      "rejected": "Haikuchaguliwa"
+    },
+    "payment": {
+      "succeeded": "Imelipwa",
+      "pending": "Inaendelea",
+      "awaiting_transfer": "Uhamisho unasubiriwa",
+      "failed": "Imeshindwa"
+    }
+  },
+  "milestones": {
+    "diagnostic": "Uchunguzi",
+    "training": "Mafunzo ya kina",
+    "structuring": "Muundo wa kisheria",
+    "formalisation": "Usajili / urasimishaji",
+    "finalDocs": "Nyaraka za mwisho",
+    "postTraining": "Mafunzo baada ya usajili",
+    "certification": "Uthibitisho"
+  },
+  "manu": {
+    "title": "Mazungumzo na Manu AI",
+    "open": "Zungumza na Manu, mpokeaji wageni",
+    "dragHint": "Niburute ili kunisogeza · bofya mara mbili kichwa ili nirudi mahali pangu",
+    "role": "Mpokeaji wageni · mtandaoni",
+    "teaserTitle": "Akwaba!",
+    "teaser": "Mimi ni Manu. Una swali? Niko hapa.",
+    "placeholder": "Andika ujumbe wako…",
+    "send": "Tuma",
+    "typing": "Manu anaandika…",
+    "restart": "Mazungumzo mapya",
+    "escalated": "Imepelekwa kwa mtu wa timu · jibu ndani ya saa 4 za kazi",
+    "disclaimer": "Manu anatoa taarifa za jumla, kamwe si ushauri wa kisheria wa mtu binafsi.",
+    "unavailable": "Siwezi kujibu kwa sasa. Safari yako inaendelea kama kawaida, na unaweza kuwasiliana na mshauri kupitia upau ulio chini ya skrini.",
+    "mic": "Zungumza na Manu",
+    "micStop": "Simamisha kuandika kwa sauti",
+    "listening": "Ninakusikiliza…",
+    "micUnsupported": "Kuandika kwa sauti hakupatikani kwenye kivinjari hiki.",
+    "voiceOn": "Soma majibu kwa sauti",
+    "voiceOff": "Zima sauti",
+    "voiceUnsupported": "Kusoma kwa sauti hakupatikani kwenye kifaa hiki."
+  },
+  "consultant": {
+    "barAria": "Zungumza na mshauri",
+    "barQuestion": "Unataka kuzungumza na mmoja wa washauri wetu?",
+    "barCta": "Bofya hapa",
+    "eyebrow": "Washauri wa KEC",
+    "lead": "Mtu wa kweli, anayejua hali halisi. Chagua mshauri wako, muda wako, na ulipe kwa urahisi.",
+    "hour": "saa",
+    "who": "Na nani?",
+    "when": "Lini?",
+    "what": "Muda gani, na kuhusu nini?",
+    "duration": "Muda",
+    "topic": "Mada",
+    "topicPh": "Mf.: mkataba wa washirika, chaguo SARL/SAS, kodi ya biashara…",
+    "defaultTopic": "Mahojiano ya ushauri",
+    "pickSlot": "Chagua siku na muda unaopatikana.",
+    "summary": "{date} saa {slot} · dakika {duration}",
+    "bookPay": "Weka miadi na ulipe",
+    "payTitle": "Malipo ya ushauri",
+    "payLabel": "Ushauri",
+    "confirmedTitle": "Imewekwa!",
+    "confirmed": "Miadi yako na {name} imethibitishwa tarehe {date} saa {slot}. Utapokea ukumbusho kwa SMS na WhatsApp.",
+    "speciality": {
+      "corporate": "Sheria za makampuni",
+      "tax": "Kodi",
+      "investment": "Uwekezaji na diaspora"
+    },
+    "request": {
+      "title": "Tunaweza kukufanyia nini?",
+      "lead": "Tuambie kwa ufupi kinachokusumbua; mshauri atawasiliana nawe hivi karibuni.",
+      "name": "Jina la kwanza na la ukoo",
+      "country": "Nchi",
+      "phone": "Simu au WhatsApp",
+      "email": "Barua pepe",
+      "need": "Hitaji lako, kwa mistari michache",
+      "needPh": "Mf.: nataka kufungua duka Dakar na dada yangu anayeishi Brussels…",
+      "channel": "Unapendelea kuwasiliwa vipi?",
+      "channels": {
+        "whatsapp": "WhatsApp",
+        "call": "Simu",
+        "email": "Barua pepe"
+      },
+      "consent": "Nakubali KEC itumie taarifa hizi kuwasiliana nami.",
+      "hint": "Jibu la mshauri wa KEC ndani ya saa 24 za kazi. Bei ya ushauri inaonyeshwa kabla ya ahadi yoyote.",
+      "send": "Tuma ombi langu",
+      "sentTitle": "Asante, {name}!",
+      "sent": "Mshauri wa KEC atawasiliana nawe ndani ya saa 24 za kazi, kwa {channel}. Nambari ya ombi: {ref}.",
+      "fellowHint": "Umeingia: weka miadi moja kwa moja na mshauri unayemchagua.",
+      "book": "Weka miadi na mshauri"
+    }
+  },
+  "kopen": {
+    "title": "Una mapendekezo ya kutusaidia kuboresha?",
+    "lead": "Acha ujumbe hapa. Kila neno linaloingia kwenye sanduku linasomwa na timu: ndivyo tunavyokua pamoja.",
+    "category": "Aina ya ujumbe",
+    "placeholder": "Wazo lako, maoni yako, ulichopenda…",
+    "contact": "Barua pepe au simu yako (si lazima)",
+    "contactHint": "Tu ikiwa unataka tukujibu.",
+    "send": "Weka kwenye sanduku",
+    "tooShort": "Tuambie zaidi kidogo (angalau herufi 10).",
+    "thanksTitle": "Asante, tumepokea.",
+    "thanks": "Ujumbe wako uko kwenye sanduku. Tutausoma, tunaahidi.",
+    "anonymous": "Bila jina",
+    "categories": {
+      "idea": "Wazo",
+      "feature": "Kipengele",
+      "content": "Maudhui",
+      "praise": "Pongezi",
+      "problem": "Tatizo",
+      "other": "Nyingine"
+    }
+  },
+  "login": {
+    "email": "Barua pepe",
+    "password": "Nenosiri",
+    "submit": "Ingia",
+    "toggle": "Onyesha / ficha nenosiri",
+    "demo": "Majaribio:",
+    "fill": "Jaza",
+    "notFellow": "Bado si mteja wa KEC?",
+    "joinWaitlist": "Chukua tiketi yako katika chumba cha kusubiri.",
+    "fellow": {
+      "eyebrow": "Kuingia",
+      "title": "Nafasi yangu",
+      "lead": "Faili lako, kasha lako, washauri wako na maendeleo yako, mahali pamoja.",
+      "quote": "Kauri mia moja na kumi, hadithi mia moja na kumi za makampuni."
+    },
+    "staff": {
+      "eyebrow": "Timu ya KEC",
+      "title": "Nafasi ya ndani",
+      "lead": "Mapokezi ya mafaili, uteuzi wa 110, majibu kwa wajasiriamali.",
+      "quote": "Nyuma ya kila faili, ndoto ya kubebwa kwa uangalifu."
+    },
+    "investor": {
+      "eyebrow": "Kia",
+      "title": "Njia ya wawekezaji",
+      "lead": "Fuatilia moja kwa moja usajili na malipo, kutoka kwenye simu yako.",
+      "quote": "Kuona mti ukikua, jani baada ya jani."
+    }
+  },
+  "app": {
+    "fellowSpace": "Nafasi yangu",
+    "staffSpace": "Timu ya KEC",
+    "logout": "Toka",
+    "nav": {
+      "dashboard": "Mwanzo",
+      "company": "Kampuni yangu",
+      "vault": "Kasha",
+      "consultant": "Mshauri",
+      "payments": "Malipo",
+      "kopen": "Kopen Mind",
+      "overview": "Muhtasari",
+      "waitlist": "Orodha ya kusubiri",
+      "dossiers": "Mafaili",
+      "inbox": "Ujumbe",
+      "appointments": "Miadi",
+      "manu": "Manu AI",
+      "team": "Timu na majukumu"
+    },
+    "fellowOf": "Fellow nambari {n} / 110"
+  },
+  "cert": {
+    "month": "Mwezi {n}",
+    "progress": "Mwezi {n} kati ya {total}",
+    "until": "uthibitisho unatarajiwa tarehe {date}",
+    "certified": "Imethibitishwa na KEC",
+    "pending": "Uthibitisho mwishoni mwa programu",
+    "pendingLong": "Beji ya uthibitisho inafunguliwa mwishoni mwa miezi 6"
+  },
+  "fellow": {
+    "dash": {
+      "eyebrow": "Umeingia · nafasi yako",
+      "hello": "Akwaba, {name}!",
+      "lead": "Hapa ndipo safari yako ilipofikia. Tunasonga pamoja, lulu baada ya lulu.",
+      "company": "Kampuni yangu",
+      "assignee": "Mhusika wako: {name}",
+      "noCompany": "Bado hujaanza faili lako.",
+      "openDossier": "Fungua faili langu",
+      "vault": "Kasha",
+      "vaultLead": "Nyaraka zako, zimesimbwa na daima karibu nawe.",
+      "actionNeeded": "Hatua inahitajika",
+      "openVault": "Fungua kasha",
+      "consultant": "Mshauri",
+      "noBooking": "Hakuna miadi iliyopangwa.",
+      "book": "Weka miadi na mshauri",
+      "payments": "Malipo",
+      "paidOf": "zimelipwa kati ya {total}",
+      "history": "Angalia historia",
+      "kopen": "Una wazo la kuboresha KEC? Liweke kwenye Kopen Mind.",
+      "celebrate": "Nyesha kauri",
+      "upcomingCount": "Miadi {n} ijayo",
+      "balanceLeft": "Imebaki {amount} kulipa",
+      "unread": "{n} haijasomwa",
+      "messages": "Ujumbe"
+    }
+  },
+  "company": {
+    "eyebrow": "Kampuni yangu",
+    "title": "Anzisha kampuni yangu",
+    "steps": {
+      "place": "Nchi na mji",
+      "form": "Muundo wa kisheria",
+      "details": "Fomu",
+      "docs": "Nyaraka",
+      "review": "Kutuma"
+    },
+    "country": "Nchi",
+    "city": "Mji",
+    "placeLead": "Unataka kuanzisha kampuni yako wapi? Kamerun inaanza; nchi nyingine za OHADA zitafuata.",
+    "formLead": "Chagua muundo wa kisheria. Makadirio kamili yanaonyeshwa mara moja, kabla ya data yoyote nyeti.",
+    "formDisclaimer": "Taarifa za jumla. Kujua muundo unaofaa hali yako, weka miadi na mshauri.",
+    "docsLead": "Piga picha au pakia nyaraka zako. Timu inakagua usomaji wake na kukujulisha ikiwa kitu kinahitaji kurudiwa.",
+    "fields": {
+      "companyName": "Jina la kampuni",
+      "sector": "Sekta",
+      "activity": "Shughuli kuu (madhumuni ya kampuni)",
+      "address": "Anwani ya makao makuu",
+      "capital": "Mtaji (FCFA)",
+      "capitalHint": "Kiasi chochote; tutakueleza desturi.",
+      "manager": "Meneja / kiongozi",
+      "employees": "Idadi ya wafanyakazi iliyopangwa",
+      "revenue": "Mapato (kiwango)",
+      "partners": "Washirika na mgawanyo",
+      "partnerName": "Jina la mshirika",
+      "addPartner": "Ongeza mshirika"
+    },
+    "payer": {
+      "title": "Nani analipa?",
+      "self": "Nalipa mwenyewe",
+      "other": "Ndugu analipa kwa niaba yangu",
+      "name": "Jina la mlipaji",
+      "relation": "Uhusiano (mzazi, rafiki…)"
+    },
+    "review": {
+      "place": "Mahali",
+      "form": "Muundo wa kisheria",
+      "docs": "Nyaraka zilizopakiwa",
+      "submittedAt": "Utumaji wa mwisho",
+      "lead": "Ukituma, faili lako linaenda kwa mhusika wako wa KEC. Unafuatilia kila hatua hapa, na tarehe za makadirio."
+    },
+    "submit": "Tuma faili langu kwa KEC",
+    "resubmit": "Sasisha faili langu",
+    "submitted": "Faili limetumwa! Mhusika wako atarudi kwako hivi karibuni.",
+    "titleDossier": "Faili la kampuni yangu",
+    "titleEdit": "Hariri faili langu",
+    "backToDossier": "Rudi kwenye faili"
+  },
+  "quote": {
+    "title": "Makadirio yako kamili",
+    "total": "Jumla",
+    "note": "Kiasi cha makadirio, ada za utawala zimejumuishwa. Hakuna mshangao: makadirio haya yanathibitishwa kabla ya malipo.",
+    "lines": {
+      "kecFee": "Usaidizi wa KEC",
+      "registry": "Ada za usajili na RCCM",
+      "notary": "Mthibitishaji / usajili",
+      "publication": "Tangazo la kisheria"
+    }
+  },
+  "vault": {
+    "eyebrow": "Kasha la kisheria",
+    "title": "Msingi wako wa kisheria, salama",
+    "lead": "Vitambulisho, katiba, RCCM, mikataba: kila kitu kimesimbwa na kinapatikana wakati wowote.",
+    "filters": {
+      "all": "Zote",
+      "mine": "Nyaraka zangu",
+      "kec": "Zilizoandikwa na KEC"
+    },
+    "add": "Ongeza nyaraka",
+    "empty": "Hakuna kitu hapa kwa sasa.",
+    "file": "Faili",
+    "uploaded": "Imewekwa tarehe",
+    "status": "Hali",
+    "reason": "Sababu",
+    "confirmDelete": "Futa «{name}» kutoka kwenye kasha?",
+    "deleted": "Nyaraka imefutwa."
+  },
+  "payment": {
+    "amount": "Kiasi",
+    "method": "Njia ya malipo",
+    "bank": "Uhamisho wa benki",
+    "phone": "Nambari ya Mobile Money",
+    "phoneHint": "Utapokea ombi la uthibitisho kwenye nambari hii.",
+    "pay": "Lipa {amount}",
+    "secure": "Malipo salama · risiti ya papo hapo · mlipaji ≠ mnufaika inakubalika",
+    "confirmOnPhone": "Thibitisha kwenye simu yako",
+    "confirmHint": "Ingiza nambari yako ya siri kuthibitisha. Usifunge dirisha hili.",
+    "transferTitle": "Maelezo ya uhamisho",
+    "beneficiary": "Mnufaika",
+    "reference": "Rejea ya kuandika",
+    "transferHint": "Malipo yako yatathibitishwa yanapopokelewa (saa 24 hadi 72). Kumbuka kuandika rejea.",
+    "success": "Malipo yamepokelewa, asante!",
+    "receipt": "Risiti na. {n} · rejea {ref}",
+    "failed": "Malipo hayakufanikiwa. Jaribu tena au badilisha njia ya malipo.",
+    "card": "Kadi ya benki",
+    "phoneHintDemo": "Majaribio: nambari inayoishia na 00 inaiga kushindwa kwa malipo."
+  },
+  "payments": {
+    "eyebrow": "Malipo",
+    "title": "Malipo yangu",
+    "history": "Historia",
+    "empty": "Hakuna malipo kwa sasa.",
+    "program": "Programu ya SCALE 110",
+    "balance": "Inayobaki kulipa",
+    "fullyPaid": "Programu imelipwa kikamilifu. Asante!",
+    "purpose": {
+      "program": "Programu ya SCALE 110",
+      "consultant": "Ushauri"
+    },
+    "planLead": "Programu ya SCALE 110: {total}, inalipwa kwa awamu mbili.",
+    "installments": {
+      "deposit": "Malipo ya awali (50 %)",
+      "balance": "Salio (50 %)",
+      "partial": "Malipo ya sehemu"
+    },
+    "installmentsHint": {
+      "deposit": "Wakati wa uteuzi, kuthibitisha nafasi yako.",
+      "balance": "Kabla ya urasimishaji wa kampuni yako."
+    },
+    "pendingTransfer": "Uhamisho wa {amount} unasubiri uthibitisho wa timu.",
+    "receipt": "Risiti",
+    "fullBalance": "Salio kamili",
+    "installment": "Awamu",
+    "chooseAmount": "Unataka kulipa nini?",
+    "payBalance": "Lipa salio",
+    "demoHint": "Hali ya majaribio: nambari yoyote ya Mobile Money inafanya kazi, isipokuwa zinazoishia na 00 (kushindwa kwa kuiga). Uhamisho unabaki «unasubiri» hadi uthibitisho wa timu ya KEC."
+  },
+  "kia": {
+    "live": "Moja kwa moja",
+    "hello": "Mwekezaji mpendwa, habari {name}.",
+    "lead": "Hapa kuna mapigo ya moyo ya KEC kwa wakati halisi: nani anajiunga na chumba cha kusubiri, na kinachoingia.",
+    "waitlist": "Waliojiandikisha kwenye orodha ya kusubiri",
+    "today": "leo",
+    "goal": "Lengo kabla ya uzinduzi: {n}",
+    "revenue": "Kilichopokelewa",
+    "potential": "Uwezo wa kundi la majaribio: {amount}",
+    "fellows": "fellows waliochaguliwa",
+    "payments": "malipo yaliyopokelewa",
+    "diaspora": "diaspora",
+    "week": "waliojiandikisha wiki hii",
+    "trend": "Usajili · siku 30",
+    "channels": "Wanatoka wapi?",
+    "feed": "Mtiririko wa shughuli",
+    "enableNotif": "Washa arifa",
+    "feedSignup": "{name} ({city}, kutoka {residence}) amejiunga na chumba cha kusubiri",
+    "feedPayment": "Malipo yamepokelewa: {amount} kupitia {method}",
+    "newSignup": "Usajili mpya: {name} · {city}",
+    "newPayment": "Pesa inaingia: {amount}",
+    "newFellow": "{name} anajiunga na 110!",
+    "mockNote": "Hali ya majaribio: usajili wa kuiga unaingia kila sekunde chache. Fungua chumba cha kusubiri kwenye kichupo kingine ili kuona usajili wako mwenyewe ukionekana hapa.",
+    "fullName": "Kia · KEC Invest Again"
+  },
+  "validation": {
+    "required": "Sehemu hii inahitajika.",
+    "email": "Anwani ya barua pepe si sahihi.",
+    "phone": "Nambari si sahihi (mf. +237 6XX XXX XXX).",
+    "consent": "Idhini yako inahitajika ili kuchunguza maombi yako.",
+    "city": "Chagua mji.",
+    "legalForm": "Chagua muundo wa kisheria.",
+    "shares": "Mgawanyo lazima ufikie 100 % (kwa sasa {n} %)."
+  },
+  "errors": {
+    "generic": "Samahani, kuna hitilafu imetokea. Jaribu tena baada ya muda mfupi.",
+    "network": "Muunganisho si thabiti. Angalia mtandao wako na ujaribu tena.",
+    "invalidCredentials": "Barua pepe au nenosiri si sahihi.",
+    "sessionExpired": "Kipindi chako kimeisha, ingia tena.",
+    "alreadyRegistered": "Anwani hii tayari iko katika chumba cha kusubiri. Nafasi yako imehifadhiwa!",
+    "fileTooLarge": "Faili ni kubwa mno.",
+    "fileType": "Fomati haikubaliki (JPG, PNG, WEBP au PDF).",
+    "invalidPhone": "Nambari ya Mobile Money si sahihi.",
+    "cohortFull": "Nafasi 110 zote tayari zimetolewa. Achia nafasi kabla ya kutoa nyingine.",
+    "alreadyMember": "Anwani hii tayari ni sehemu ya timu.",
+    "lastAdmin": "Haiwezekani: inahitajika angalau msimamizi mmoja aliye hai.",
+    "accountDisabled": "Akaunti hii imezimwa. Wasiliana na msimamizi wa KEC."
+  },
+  "notFound": {
+    "text": "Kauri hazikupata ukurasa huu.",
+    "cta": "Rudi nyumbani"
+  },
+  "inbox": {
+    "eyebrow": "Ujumbe",
+    "title": "Ujumbe wangu",
+    "lead": "Mazungumzo yako na timu ya KEC, washauri wako na Manu. Jibu la kibinadamu ndani ya saa {h} za kazi.",
+    "new": "Ujumbe mpya",
+    "filters": {
+      "all": "Zote",
+      "open": "Zinazoendelea",
+      "closed": "Zilizofungwa"
+    },
+    "kinds": {
+      "manu": "Manu AI",
+      "consultant": "Mshauri",
+      "dossier": "Faili langu",
+      "payment": "Malipo",
+      "support": "Msaada",
+      "consultation": "Ombi la ushauri"
+    },
+    "status": {
+      "open": "Inasubiri",
+      "pending": "Jibu limetumwa",
+      "closed": "Imefungwa"
+    },
+    "priority": {
+      "normal": "Kawaida",
+      "high": "Kipaumbele",
+      "urgent": "Haraka"
+    },
+    "handledBy": "Inafuatiliwa na {name}",
+    "unassignedFellow": "Timu inakujibu hivi karibuni",
+    "pickOne": "Chagua mazungumzo upande wa kushoto, au tuandikie.",
+    "empty": "Hakuna mazungumzo kwa sasa. Tuandikie, tunakujibu ndani ya saa 4 za kazi.",
+    "kindLabel": "Mada",
+    "subject": "Kichwa",
+    "message": "Ujumbe wako",
+    "composeHint": "Eleza swali lako kwa mistari michache: kadiri linavyokuwa wazi, ndivyo jibu linavyokuja haraka.",
+    "created": "Ujumbe umetumwa. Tutarudi kwako hivi karibuni.",
+    "send": "Tuma",
+    "replyPh": "Andika jibu lako…",
+    "notePh": "Maelezo ya ndani, hayaonekani kwa fellow…",
+    "internalNote": "Maelezo ya ndani",
+    "addNote": "Ongeza maelezo",
+    "hint": "Enter kutuma · Shift + Enter kwa mstari mpya",
+    "closedNotice": "Mazungumzo yamefungwa. Andika ili kuyafungua tena."
+  },
+  "booking": {
+    "mine": "Miadi yangu",
+    "book": "Weka miadi",
+    "today": "Leo",
+    "join": "Jiunge",
+    "summary": "Ripoti",
+    "refund": {
+      "credit": "Salio la {amount} limewekwa kwenye akaunti yako",
+      "refund": "Marejesho ya {amount}"
+    },
+    "cancelledReason": "Sababu: {reason}",
+    "mode": {
+      "visio": "Mkutano wa video",
+      "phone": "Simu",
+      "office": "Ofisini KEC (Douala)"
+    },
+    "modeLabel": "Namna",
+    "notesLabel": "Maelezo kwa mshauri",
+    "notesHint": "Muktadha, nyaraka ulizonazo, maswali mahususi… (si lazima)",
+    "status": {
+      "awaiting_payment": "Inasubiri malipo",
+      "confirmed": "Imethibitishwa",
+      "completed": "Imekamilika",
+      "cancelled": "Imeghairiwa"
+    },
+    "statUpcoming": "Zijazo",
+    "statDone": "Zilizofanyika",
+    "statHours": "Saa za ushauri",
+    "statSpent": "Kilichowekezwa",
+    "upcoming": "Miadi ijayo",
+    "history": "Historia",
+    "noUpcoming": "Hakuna miadi iliyopangwa. Weka muda wakati wowote unaotaka.",
+    "noHistory": "Hakuna miadi iliyopita.",
+    "payNow": "Lipa {amount}",
+    "cancel": "Ghairi",
+    "cancelTitle": "Ghairi miadi hii?",
+    "cancelUnpaid": "Miadi hii haijalipwa: itaghairiwa tu.",
+    "cancelFree": "Zaidi ya saa 24 kabla ya miadi: {amount} inarudishwa kwako kikamilifu.",
+    "cancelLate": "Chini ya saa 24 kabla ya miadi: 50 % inazuiliwa, {amount} inawekwa kwenye akaunti yako.",
+    "cancelReason": "Sababu ya kughairi",
+    "confirmCancel": "Thibitisha kughairi",
+    "cancelled": "Miadi imeghairiwa.",
+    "policy": "Kughairi bila malipo hadi saa {h} kabla ya miadi; baada ya hapo, 50 % inazuiliwa. Kiasi kilichowekwa kinaweza kutumika kwa ushauri wako ujao.",
+    "seeMine": "Angalia miadi yangu"
+  },
+  "dossier": {
+    "yourContact": "Mhusika wako",
+    "expected": "Usajili unatarajiwa karibu na {date}",
+    "assigningSoon": "Utapewa mhusika hivi karibuni.",
+    "milestones": "Lulu saba",
+    "progress": "Hatua {n} / {total} zimekamilika",
+    "doneAt": "imefanyika {date}",
+    "dueAt": "imepangwa {date}",
+    "declared": "Taarifa zilizotolewa",
+    "edit": "Hariri faili langu",
+    "subSector": "Sekta ndogo",
+    "createdOn": "Faili limefunguliwa tarehe",
+    "documents": "Nyaraka za faili",
+    "journal": "Kumbukumbu ya faili",
+    "write": "Mwandikie {name}",
+    "writeTeam": "Andikia timu"
+  }
+}

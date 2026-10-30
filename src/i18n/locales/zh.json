@@ -1,0 +1,798 @@
+{
+  "common": {
+    "back": "返回",
+    "next": "下一步",
+    "close": "关闭",
+    "delete": "删除",
+    "remove": "移除",
+    "loading": "请稍候，我们正在铺席子…",
+    "choose": "请选择…",
+    "soon": "即将推出",
+    "all": "全部",
+    "saveContinue": "保存并继续"
+  },
+  "nav": {
+    "home": "KEC 首页",
+    "main": "主导航",
+    "program": "项目",
+    "services": "服务",
+    "waitingRoom": "等候室",
+    "connexion": "登录",
+    "mySpace": "我的空间",
+    "menu": "菜单",
+    "language": "语言",
+    "homeLabel": "首页",
+    "journey": "历程"
+  },
+  "footer": {
+    "mission": "非洲创业者的数字化法律门户。创立、规范化、成长，一路有人相伴。",
+    "explore": "探索",
+    "spaces": "空间",
+    "fellows": "我的空间 · 客户",
+    "kia": "Kia · 投资人",
+    "team": "KEC 团队",
+    "contact": "联系",
+    "disclaimer": "KEC 提供一般信息和陪伴服务；不在线提供个案法律意见。",
+    "follow": "关注我们"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "K-Enterprise Counsel · 非洲",
+      "title1": "您的企业，扎根非洲。",
+      "title2": "面向世界。",
+      "lead": "创立、规范化并发展您的企业，有真人陪伴、透明的价格，您的文件安全地存放在法律保险箱中。",
+      "ctaWaitlist": "进入等候室",
+      "ctaProgram": "了解项目",
+      "waiting": "已有 {n} 位创业者手捧咖啡在等候",
+      "scroll": "向下滚动"
+    },
+    "globe": {
+      "eyebrow": "世界在转动",
+      "title": "而非洲在中心。",
+      "text": "无论您身在何处：纽约、柏林、巴黎、蒙特利尔、莫斯科、阿姆斯特丹、罗马……您的项目都能找到回家的路。KEC 把海外侨民与本地创业者凝聚在同一个目标上：在这里，长久地建设。",
+      "facts": {
+        "countries": "个非洲国家，一个窗口",
+        "ohada": "个 OHADA 区域国家在目标之中",
+        "cities": "座侨民城市已连接",
+        "languages": "种接待语言"
+      },
+      "card": {
+        "hint": "悬停或点触一个国家：它会亮起并自我介绍。",
+        "create": "在此创立",
+        "close": "关闭卡片",
+        "default": "KEC 在这里陪伴您：创立、规范化、法律跟进。",
+        "ohada": "OHADA 成员",
+        "toValidate": "待 KEC 核实的信息"
+      },
+      "aria": "以非洲为中心的互动地球仪"
+    },
+    "services": {
+      "eyebrow": "我们为您做什么",
+      "title": "从笔记本上的草图，到官方印章。",
+      "lead": "一个为中小企业打造的平台，背后是一支真正的团队。",
+      "items": {
+        "create": {
+          "title": "创建您的档案",
+          "text": "选择您的国家、城市和法律形式。我们一步步引导您，总报价提前显示。"
+        },
+        "formalize": {
+          "title": "规范化您的架构",
+          "text": "章程、RCCM、文件：您填写专用表格，我们负责起草并跟进档案。"
+        },
+        "grow": {
+          "title": "发展您的业务",
+          "text": "培训、注册后跟进，并加入 KEC 企业网络。"
+        },
+        "vault": {
+          "title": "法律保险箱",
+          "text": "您的所有文件加密存放于同一处。KEC 认证的企业账户。"
+        },
+        "manu": {
+          "title": "Manu AI",
+          "text": "一位日夜接待您的前台，为您指引方向，并在需要时交给法律专业人士。"
+        },
+        "consultant": {
+          "title": "顾问，随时为您",
+          "text": "需要专业意见？预约 KEC 顾问，并通过 MoMo、Orange Money 或转账付款。"
+        }
+      }
+    },
+    "journey": {
+      "eyebrow": "一根线上的七颗珍珠",
+      "title": "SCALE 110 历程",
+      "steps": [
+        "诊断",
+        "强化培训",
+        "法律架构",
+        "注册",
+        "最终文件",
+        "注册后培训",
+        "KEC 认证"
+      ]
+    },
+    "program": {
+      "eyebrow": "试点项目 · SCALE 110",
+      "title": "110 个名额。一个不多。",
+      "text": "在大规模启动之前，我们将用 6 个月陪伴首批 110 位创业者。任何人都可以报名；KEC 从候补名单中选出 110 名学员。",
+      "points": {
+        "selection": "从等候室报名者中按档案筛选",
+        "duration": "6 个月的孵化与真人陪伴",
+        "certification": "项目结束时获得认证且可见的企业账户"
+      },
+      "cta": "领取我的号码牌",
+      "deadline": "试点前报名开放至 12 月。"
+    },
+    "nostalgia": {
+      "eyebrow": "致远方的人",
+      "title": "家没有忘记您。",
+      "text": "第一场雨后泥土的气息。祖母家的早晨咖啡。议事树下的话语声。您离开很久了？您的企业可以在这里诞生，把您带回家一点。",
+      "cta": "从正门归来"
+    }
+  },
+  "waiting": {
+    "eyebrow": "等候室 · 试点前",
+    "title": "Akwaba！请坐，我们为您准备点什么。",
+    "manuHello": "在我们非洲，不会让客人空着手。您想喝点什么？茶？咖啡？白葡萄酒？",
+    "manuServed": "慢慢填写表格，这里不着急。",
+    "serve": "上桌",
+    "coffeeAria": "搪瓷水壶、陶土杯和迎宾礼物",
+    "waitingNow": "在等候室",
+    "seats": "个试点名额",
+    "today": "今日到达",
+    "arrived": "来自 {city} 的 {name} 刚刚入座",
+    "formTitle": "您的接待表",
+    "formLead": "三个小步骤，不到三分钟。然后您会收到号码牌。",
+    "proverbs": [
+      "一只手系不住科基。",
+      "想走得快，独自走；想走得远，一起走。",
+      "鸟儿一点一点筑起巢。",
+      "耐心是一棵根苦果甜的树。",
+      "一只手镯不会作响。",
+      "新绳子要接着旧绳子的末端来编。"
+    ],
+    "chooseDrink": "选择为您准备的饮品",
+    "offerings": {
+      "coffee": "咖啡",
+      "tea": "茶",
+      "peanuts": "水煮花生",
+      "wine": "白葡萄酒",
+      "cola": "可乐果"
+    },
+    "served": {
+      "coffee": "这是您的咖啡，热乎的。",
+      "tea": "这是您的茶，热乎的。",
+      "peanuts": "这是水煮花生，还冒着热气。",
+      "wine": "这是一杯冰镇白葡萄酒。",
+      "cola": "这是一颗可乐果：按照传统，我们一起分享。"
+    },
+    "proverbFrom": "谚语 · {origin}",
+    "proverbAfrica": "非洲"
+  },
+  "waitlist": {
+    "steps": {
+      "you": "您",
+      "project": "您的项目",
+      "last": "最后一步"
+    },
+    "firstName": "名",
+    "lastName": "姓",
+    "email": "电子邮箱",
+    "phone": "电话 / WhatsApp",
+    "phoneHint": "以便在您入选时通知您。",
+    "residence": "居住国家",
+    "language": "首选语言",
+    "targetCountry": "注册国家",
+    "targetCity": "注册城市",
+    "sector": "行业",
+    "stage": "您的项目进展到哪一步？",
+    "summary": "用几句话介绍您的项目",
+    "summaryHint": "一两句话即可。这对筛选很有帮助。",
+    "needs": "您的需求",
+    "forWhom": "您是为…创业",
+    "forWhomOptions": {
+      "self": "为自己",
+      "relative": "为国内的亲属"
+    },
+    "channel": "您是如何了解到 KEC 的？",
+    "channelDetail": {
+      "fieldAgent": "KEC 外勤代表姓名",
+      "other": "请说明",
+      "event": "哪个活动？",
+      "wordOfMouth": "谁向您介绍的？（选填）"
+    },
+    "consentData": "我同意 KEC 处理我的数据以审核我的申请（符合喀麦隆法规和 GDPR 原则）。",
+    "consentMarketing": "我希望收到 KEC 的资讯（邮件、短信、WhatsApp）。",
+    "submit": "领取我的号码牌"
+  },
+  "ticket": {
+    "label": "号码牌",
+    "title": "{name}，您的位置已保留！",
+    "text": "您现在是等候室的第 {total} 位。试点班仅有 {seats} 个名额：团队会认真审阅每一份表格。",
+    "next": "我们会通过邮件和 WhatsApp 联系您。在此期间，邀请一位同样有项目的亲友吧。",
+    "shareWhatsapp": "通过 WhatsApp 邀请",
+    "shareText": "我刚在 KEC 等候室领了号码牌，准备创办我的企业。来和我喝杯咖啡吧：{url}"
+  },
+  "acquisition": {
+    "linkedin": "LinkedIn",
+    "wordOfMouth": "口口相传",
+    "facebook": "Facebook",
+    "fieldAgent": "KEC 外勤代表",
+    "whatsapp": "WhatsApp",
+    "tiktok": "TikTok",
+    "instagram": "Instagram",
+    "event": "活动",
+    "other": "其他"
+  },
+  "sectors": {
+    "agri": "农业与农产品加工",
+    "commerce": "商贸",
+    "tech": "数字与科技",
+    "services": "企业服务",
+    "transport": "运输与物流",
+    "construction": "建筑工程",
+    "health": "健康与保健",
+    "education": "教育与培训",
+    "craft": "手工艺",
+    "fashion": "时尚与纺织",
+    "food": "餐饮",
+    "other": "其他"
+  },
+  "stages": {
+    "idea": "还是一个想法",
+    "informal": "已在经营（非正式）",
+    "existing": "现有企业需要规范化"
+  },
+  "needs": {
+    "legal": "法律",
+    "tax": "税务",
+    "accounting": "会计",
+    "funding": "融资",
+    "hr": "人力资源",
+    "contracts": "合同",
+    "ip": "知识产权",
+    "commercial": "商务"
+  },
+  "legalForms": {
+    "ei": "个体企业",
+    "sarlu": "一人 SARL",
+    "sarl": "SARL",
+    "sas": "SAS",
+    "sasu": "SASU",
+    "sa": "SA",
+    "gie": "GIE"
+  },
+  "legalFormsInfo": {
+    "ei": "简单快捷，但您的个人财产需承担责任。",
+    "sarlu": "只有一名股东的 SARL：责任以出资为限。",
+    "sarl": "中小企业最常见的形式，1 名或多名股东。",
+    "sas": "章程高度灵活，受投资者青睐。",
+    "sasu": "只有一名股东的 SAS。",
+    "sa": "适合大型项目；手续较为繁重。",
+    "gie": "企业之间共享资源的联合体。"
+  },
+  "documents": {
+    "cni": "身份证（CNI）或护照",
+    "locationPlan": "公司住所位置图",
+    "photo": "证件照",
+    "criminalRecord": "无犯罪记录证明",
+    "leaseContract": "租赁合同 / 住所证明",
+    "other": "其他文件",
+    "statutes": "章程草案（由 KEC 起草）",
+    "hint": {
+      "cni": "正反两面，清晰可读。手机拍照即可。",
+      "locationPlan": "带有参照物的草图或地图截图。",
+      "photo": "浅色背景，证件照规格。",
+      "criminalRecord": "3 个月以内开具。",
+      "leaseContract": "或房东出具的证明。",
+      "other": "对您的档案有用的任何文件。"
+    }
+  },
+  "upload": {
+    "add": "上传",
+    "replace": "替换",
+    "done": "{name} 已安全存入您的保险箱。",
+    "limits": "支持格式：JPG、PNG、WEBP、PDF · 最大 {size} MB · 由团队检查清晰度。"
+  },
+  "status": {
+    "dossier": {
+      "draft": "草稿",
+      "submitted": "已提交",
+      "in_review": "审核中",
+      "docs_requested": "需补充文件",
+      "filed": "已递交",
+      "created": "企业已成立"
+    },
+    "doc": {
+      "uploaded": "待核验",
+      "verified": "已核验",
+      "rejected": "需重新提交"
+    },
+    "waitlist": {
+      "pending": "等待中",
+      "shortlisted": "已入围",
+      "selected": "已入选（110）",
+      "rejected": "未入选"
+    },
+    "payment": {
+      "succeeded": "已付款",
+      "pending": "处理中",
+      "awaiting_transfer": "等待转账",
+      "failed": "失败"
+    }
+  },
+  "milestones": {
+    "diagnostic": "诊断",
+    "training": "强化培训",
+    "structuring": "法律架构",
+    "formalisation": "注册 / 规范化",
+    "finalDocs": "最终文件",
+    "postTraining": "注册后培训",
+    "certification": "认证"
+  },
+  "manu": {
+    "title": "与 Manu AI 对话",
+    "open": "与前台 Manu 交谈",
+    "dragHint": "拖动我即可移动 · 双击标题栏可让我回到原位",
+    "role": "前台接待 · 在线",
+    "teaserTitle": "Akwaba！",
+    "teaser": "我是 Manu。有问题吗？我在这里。",
+    "placeholder": "请输入您的消息…",
+    "send": "发送",
+    "typing": "Manu 正在输入…",
+    "restart": "新对话",
+    "escalated": "已转交团队真人 · 4 个工作小时内回复",
+    "disclaimer": "Manu 提供一般信息，绝不提供个案法律意见。",
+    "unavailable": "我暂时无法回复。您的流程照常进行，您可以通过屏幕底部的栏目联系顾问。",
+    "mic": "对 Manu 说话",
+    "micStop": "停止语音输入",
+    "listening": "我在听…",
+    "micUnsupported": "此浏览器不支持语音输入。",
+    "voiceOn": "朗读回复",
+    "voiceOff": "关闭语音",
+    "voiceUnsupported": "此设备不支持朗读。"
+  },
+  "consultant": {
+    "barAria": "与顾问交谈",
+    "barQuestion": "想和我们的顾问聊聊吗？",
+    "barCta": "点击这里",
+    "eyebrow": "KEC 顾问",
+    "lead": "一位真正了解当地情况的真人。选择您的顾问和时间，轻松付款。",
+    "hour": "小时",
+    "who": "和谁？",
+    "when": "什么时候？",
+    "what": "多长时间，关于什么？",
+    "duration": "时长",
+    "topic": "主题",
+    "topicPh": "例如：股东协议、SARL/SAS 选择、商业租约…",
+    "defaultTopic": "咨询会谈",
+    "pickSlot": "选择一个日期和可用时段。",
+    "summary": "{date} {slot} · {duration} 分钟",
+    "bookPay": "预约并付款",
+    "payTitle": "支付咨询费",
+    "payLabel": "咨询",
+    "confirmedTitle": "预约成功！",
+    "confirmed": "您与 {name} 的预约已确认：{date} {slot}。您将收到短信和 WhatsApp 提醒。",
+    "speciality": {
+      "corporate": "公司法",
+      "tax": "税务",
+      "investment": "投资与侨民"
+    },
+    "request": {
+      "title": "我们能为您做什么？",
+      "lead": "简单告诉我们您的困扰，顾问会尽快联系您。",
+      "name": "姓名",
+      "country": "国家",
+      "phone": "电话或 WhatsApp",
+      "email": "电子邮箱",
+      "need": "用几行文字描述您的需求",
+      "needPh": "例如：我想和住在布鲁塞尔的姐姐一起在达喀尔开一家店…",
+      "channel": "您希望我们如何联系您？",
+      "channels": {
+        "whatsapp": "WhatsApp",
+        "call": "电话",
+        "email": "邮件"
+      },
+      "consent": "我同意 KEC 使用这些信息与我联系。",
+      "hint": "KEC 顾问将在 24 个工作小时内回复。咨询费用会在您作出任何承诺之前告知。",
+      "send": "发送我的请求",
+      "sentTitle": "谢谢您，{name}！",
+      "sent": "KEC 顾问将在 24 个工作小时内通过{channel}联系您。请求编号：{ref}。",
+      "fellowHint": "您已登录：可直接与您选择的顾问预约时段。",
+      "book": "预约顾问"
+    }
+  },
+  "kopen": {
+    "title": "有什么建议帮助我们改进？",
+    "lead": "在这里留言。投进箱子的每一句话团队都会阅读：我们就是这样一起成长的。",
+    "category": "留言类型",
+    "placeholder": "您的想法、意见、喜欢的地方…",
+    "contact": "您的邮箱或电话（选填）",
+    "contactHint": "仅当您希望我们回复时填写。",
+    "send": "投入箱子",
+    "tooShort": "请再多说一点（至少 10 个字符）。",
+    "thanksTitle": "谢谢，已收到。",
+    "thanks": "您的留言已在箱子里。我们保证会阅读。",
+    "anonymous": "匿名",
+    "categories": {
+      "idea": "想法",
+      "feature": "功能",
+      "content": "内容",
+      "praise": "鼓励",
+      "problem": "问题",
+      "other": "其他"
+    }
+  },
+  "login": {
+    "email": "电子邮箱",
+    "password": "密码",
+    "submit": "进入",
+    "toggle": "显示 / 隐藏密码",
+    "demo": "演示：",
+    "fill": "填充",
+    "notFellow": "还不是 KEC 客户？",
+    "joinWaitlist": "到等候室领取您的号码牌。",
+    "fellow": {
+      "eyebrow": "登录",
+      "title": "我的空间",
+      "lead": "您的档案、保险箱、顾问和进度，尽在一处。",
+      "quote": "一百一十枚贝币，一百一十个企业故事。"
+    },
+    "staff": {
+      "eyebrow": "KEC 团队",
+      "title": "内部空间",
+      "lead": "接收档案、筛选 110 名学员、回复创业者。",
+      "quote": "每一份档案背后，都是一个需要悉心呵护的梦想。"
+    },
+    "investor": {
+      "eyebrow": "Kia",
+      "title": "投资人频道",
+      "lead": "在手机上实时跟踪报名和收款情况。",
+      "quote": "看着树一片叶子一片叶子地长大。"
+    }
+  },
+  "app": {
+    "fellowSpace": "我的空间",
+    "staffSpace": "KEC 团队",
+    "logout": "退出登录",
+    "nav": {
+      "dashboard": "首页",
+      "company": "我的企业",
+      "vault": "保险箱",
+      "consultant": "顾问",
+      "payments": "付款",
+      "kopen": "Kopen Mind",
+      "overview": "总览",
+      "waitlist": "候补名单",
+      "dossiers": "档案",
+      "inbox": "消息",
+      "appointments": "预约",
+      "manu": "Manu AI",
+      "team": "团队与角色"
+    },
+    "fellowOf": "学员 #{n} / 110"
+  },
+  "cert": {
+    "month": "第 {n} 个月",
+    "progress": "第 {n} 个月，共 {total} 个月",
+    "until": "预计 {date} 认证",
+    "certified": "KEC 认证",
+    "pending": "项目结束时认证",
+    "pendingLong": "6 个月结束时解锁认证徽章"
+  },
+  "fellow": {
+    "dash": {
+      "eyebrow": "已登录 · 您的空间",
+      "hello": "Akwaba，{name}！",
+      "lead": "这是您旅程的进展。我们一起前进，一颗珍珠接一颗珍珠。",
+      "company": "我的企业",
+      "assignee": "您的联系人：{name}",
+      "noCompany": "您还没有开始您的档案。",
+      "openDossier": "打开我的档案",
+      "vault": "保险箱",
+      "vaultLead": "您的文件，加密且随时可取。",
+      "actionNeeded": "需要操作",
+      "openVault": "打开保险箱",
+      "consultant": "顾问",
+      "noBooking": "没有预约。",
+      "book": "预约顾问",
+      "payments": "付款",
+      "paidOf": "已付，共 {total}",
+      "history": "查看历史",
+      "kopen": "有改进 KEC 的想法？投进 Kopen Mind 吧。",
+      "celebrate": "让贝币落下",
+      "upcomingCount": "{n} 个即将到来的预约",
+      "balanceLeft": "还需支付 {amount}",
+      "unread": "{n} 条未读",
+      "messages": "消息"
+    }
+  },
+  "company": {
+    "eyebrow": "我的企业",
+    "title": "创办我的企业",
+    "steps": {
+      "place": "国家与城市",
+      "form": "法律形式",
+      "details": "表格",
+      "docs": "文件",
+      "review": "提交"
+    },
+    "country": "国家",
+    "city": "城市",
+    "placeLead": "您想在哪里创办企业？喀麦隆率先开放；其他 OHADA 国家将陆续跟进。",
+    "formLead": "选择一种法律形式。总报价会立即显示，在填写任何敏感数据之前。",
+    "formDisclaimer": "一般信息。想知道哪种形式适合您的情况，请预约顾问。",
+    "docsLead": "拍照或上传您的文件。团队会检查清晰度，如需重新提交会通知您。",
+    "fields": {
+      "companyName": "企业名称",
+      "sector": "行业",
+      "activity": "主营业务（经营范围）",
+      "address": "公司住所地址",
+      "capital": "注册资本（FCFA）",
+      "capitalHint": "金额自定；我们会向您说明惯例。",
+      "manager": "经理 / 负责人",
+      "employees": "计划员工人数",
+      "revenue": "营业额（区间）",
+      "partners": "股东及持股比例",
+      "partnerName": "股东姓名",
+      "addPartner": "添加股东"
+    },
+    "payer": {
+      "title": "由谁付款？",
+      "self": "我自己付款",
+      "other": "亲属替我付款",
+      "name": "付款人姓名",
+      "relation": "关系（父母、朋友…）"
+    },
+    "review": {
+      "place": "地点",
+      "form": "法律形式",
+      "docs": "已上传文件",
+      "submittedAt": "最近提交",
+      "lead": "提交后，您的档案将送达您的 KEC 联系人。您可以在这里跟踪每个阶段及预计日期。"
+    },
+    "submit": "将我的档案提交给 KEC",
+    "resubmit": "更新我的档案",
+    "submitted": "档案已提交！您的联系人会很快与您联系。",
+    "titleDossier": "我的企业档案",
+    "titleEdit": "修改我的档案",
+    "backToDossier": "返回档案"
+  },
+  "quote": {
+    "title": "您的总报价",
+    "total": "合计",
+    "note": "金额为参考值，已包含行政费用。没有意外：此报价在付款前确认。",
+    "lines": {
+      "kecFee": "KEC 陪伴服务",
+      "registry": "登记处费用及 RCCM",
+      "notary": "公证 / 登记",
+      "publication": "法定公告"
+    }
+  },
+  "vault": {
+    "eyebrow": "法律保险箱",
+    "title": "您的法律基础，安全无虞",
+    "lead": "身份证件、章程、RCCM、合同：全部加密，随时可查。",
+    "filters": {
+      "all": "全部",
+      "mine": "我的文件",
+      "kec": "由 KEC 起草"
+    },
+    "add": "添加文件",
+    "empty": "这里暂时没有内容。",
+    "file": "文件",
+    "uploaded": "存入日期",
+    "status": "状态",
+    "reason": "原因",
+    "confirmDelete": "从保险箱中删除「{name}」？",
+    "deleted": "文件已删除。"
+  },
+  "payment": {
+    "amount": "金额",
+    "method": "付款方式",
+    "bank": "银行转账",
+    "phone": "Mobile Money 号码",
+    "phoneHint": "您将在此号码上收到确认请求。",
+    "pay": "支付 {amount}",
+    "secure": "安全支付 · 即时收据 · 接受付款人 ≠ 受益人",
+    "confirmOnPhone": "请在手机上确认",
+    "confirmHint": "输入您的密码以确认。请勿关闭此窗口。",
+    "transferTitle": "转账信息",
+    "beneficiary": "收款人",
+    "reference": "需注明的参考号",
+    "transferHint": "您的付款将在收到后确认（24 至 72 小时）。请务必注明参考号。",
+    "success": "已收到付款，谢谢！",
+    "receipt": "收据编号 {n} · 参考号 {ref}",
+    "failed": "付款未成功。请重试或更换付款方式。",
+    "card": "银行卡",
+    "phoneHintDemo": "演示：以 00 结尾的号码模拟付款失败。"
+  },
+  "payments": {
+    "eyebrow": "付款",
+    "title": "我的付款",
+    "history": "历史记录",
+    "empty": "暂无付款。",
+    "program": "SCALE 110 项目",
+    "balance": "待付金额",
+    "fullyPaid": "项目费用已全部付清。谢谢！",
+    "purpose": {
+      "program": "SCALE 110 项目",
+      "consultant": "咨询"
+    },
+    "planLead": "SCALE 110 项目：{total}，可分两期支付。",
+    "installments": {
+      "deposit": "定金（50 %）",
+      "balance": "尾款（50 %）",
+      "partial": "部分付款"
+    },
+    "installmentsHint": {
+      "deposit": "入选时支付，以确认您的名额。",
+      "balance": "在您的企业规范化之前支付。"
+    },
+    "pendingTransfer": "{amount} 的转账等待团队确认。",
+    "receipt": "收据",
+    "fullBalance": "全部尾款",
+    "installment": "分期",
+    "chooseAmount": "您想支付哪一项？",
+    "payBalance": "支付尾款",
+    "demoHint": "演示模式：任何 Mobile Money 号码均可用，以 00 结尾的除外（模拟失败）。转账在 KEC 团队确认前保持「待处理」状态。"
+  },
+  "kia": {
+    "live": "实时",
+    "hello": "尊敬的投资人，您好，{name}。",
+    "lead": "这是 KEC 的实时脉搏：谁进入了等候室，以及资金进账情况。",
+    "waitlist": "候补名单报名人数",
+    "today": "今日",
+    "goal": "启动前目标：{n}",
+    "revenue": "已收款",
+    "potential": "试点班潜在收入：{amount}",
+    "fellows": "已入选学员",
+    "payments": "已收付款",
+    "diaspora": "海外侨民",
+    "week": "本周报名",
+    "trend": "报名 · 30 天",
+    "channels": "他们来自哪里？",
+    "feed": "动态",
+    "enableNotif": "开启提醒",
+    "feedSignup": "{name}（{city}，来自 {residence}）进入了等候室",
+    "feedPayment": "收到付款：{amount}，通过 {method}",
+    "newSignup": "新报名：{name} · {city}",
+    "newPayment": "资金进账：{amount}",
+    "newFellow": "{name} 加入了 110！",
+    "mockNote": "演示模式：每隔几秒会出现模拟报名。在另一个标签页打开等候室，即可在此看到您自己的报名。",
+    "fullName": "Kia · KEC Invest Again"
+  },
+  "validation": {
+    "required": "此项为必填。",
+    "email": "邮箱地址无效。",
+    "phone": "号码无效（例如 +237 6XX XXX XXX）。",
+    "consent": "需要您的同意才能审核您的申请。",
+    "city": "请选择一个城市。",
+    "legalForm": "请选择一种法律形式。",
+    "shares": "持股比例合计必须为 100 %（当前 {n} %）。"
+  },
+  "errors": {
+    "generic": "哎呀，出了点问题。请稍后重试。",
+    "network": "连接不稳定。请检查网络后重试。",
+    "invalidCredentials": "邮箱或密码错误。",
+    "sessionExpired": "您的会话已过期，请重新登录。",
+    "alreadyRegistered": "该地址已在等候室中。您的位置已保留！",
+    "fileTooLarge": "文件过大。",
+    "fileType": "不支持的格式（JPG、PNG、WEBP 或 PDF）。",
+    "invalidPhone": "Mobile Money 号码无效。",
+    "cohortFull": "110 个名额已全部分配。请先释放一个名额再分配新的。",
+    "alreadyMember": "该地址已是团队成员。",
+    "lastAdmin": "无法操作：至少需要一名有效的管理员。",
+    "accountDisabled": "此账户已停用。请联系 KEC 管理员。"
+  },
+  "notFound": {
+    "text": "贝币没有找到这个页面。",
+    "cta": "回家"
+  },
+  "inbox": {
+    "eyebrow": "消息",
+    "title": "我的消息",
+    "lead": "您与 KEC 团队、顾问和 Manu 的交流。真人将在 {h} 个工作小时内回复。",
+    "new": "新消息",
+    "filters": {
+      "all": "全部",
+      "open": "进行中",
+      "closed": "已关闭"
+    },
+    "kinds": {
+      "manu": "Manu AI",
+      "consultant": "顾问",
+      "dossier": "我的档案",
+      "payment": "付款",
+      "support": "支持",
+      "consultation": "咨询请求"
+    },
+    "status": {
+      "open": "待处理",
+      "pending": "已回复",
+      "closed": "已关闭"
+    },
+    "priority": {
+      "normal": "普通",
+      "high": "优先",
+      "urgent": "紧急"
+    },
+    "handledBy": "由 {name} 跟进",
+    "unassignedFellow": "团队会很快回复您",
+    "pickOne": "在左侧选择一个对话，或给我们留言。",
+    "empty": "暂无对话。给我们留言，我们会在 4 个工作小时内回复。",
+    "kindLabel": "主题",
+    "subject": "标题",
+    "message": "您的消息",
+    "composeHint": "用几行文字描述您的问题：越具体，回复越快。",
+    "created": "消息已发送。我们会尽快回复您。",
+    "send": "发送",
+    "replyPh": "输入您的回复…",
+    "notePh": "内部备注，学员不可见…",
+    "internalNote": "内部备注",
+    "addNote": "添加备注",
+    "hint": "Enter 发送 · Shift + Enter 换行",
+    "closedNotice": "对话已关闭。发送消息即可重新打开。"
+  },
+  "booking": {
+    "mine": "我的预约",
+    "book": "预约",
+    "today": "今天",
+    "join": "加入",
+    "summary": "会谈纪要",
+    "refund": {
+      "credit": "{amount} 已存入您的账户余额",
+      "refund": "退款 {amount}"
+    },
+    "cancelledReason": "原因：{reason}",
+    "mode": {
+      "visio": "视频会议",
+      "phone": "电话",
+      "office": "KEC 办公室（杜阿拉）"
+    },
+    "modeLabel": "形式",
+    "notesLabel": "给顾问的说明",
+    "notesHint": "背景、已有文件、具体问题…（选填）",
+    "status": {
+      "awaiting_payment": "等待付款",
+      "confirmed": "已确认",
+      "completed": "已完成",
+      "cancelled": "已取消"
+    },
+    "statUpcoming": "即将到来",
+    "statDone": "已完成",
+    "statHours": "咨询小时数",
+    "statSpent": "已投入",
+    "upcoming": "即将到来的预约",
+    "history": "历史记录",
+    "noUpcoming": "没有预约。随时可以预约时段。",
+    "noHistory": "没有历史预约。",
+    "payNow": "支付 {amount}",
+    "cancel": "取消",
+    "cancelTitle": "取消此预约？",
+    "cancelUnpaid": "此预约尚未付款：将直接取消。",
+    "cancelFree": "预约前超过 24 小时：{amount} 将全额存入您的余额。",
+    "cancelLate": "预约前不足 24 小时：扣除 50 %，{amount} 存入您的余额。",
+    "cancelReason": "取消原因",
+    "confirmCancel": "确认取消",
+    "cancelled": "预约已取消。",
+    "policy": "预约前 {h} 小时内可免费取消；之后扣除 50 %。余额可用于您的下一次咨询。",
+    "seeMine": "查看我的预约"
+  },
+  "dossier": {
+    "yourContact": "您的联系人",
+    "expected": "预计 {date} 前后完成注册",
+    "assigningSoon": "很快会为您指派联系人。",
+    "milestones": "七颗珍珠",
+    "progress": "已完成 {n} / {total} 个阶段",
+    "doneAt": "完成于 {date}",
+    "dueAt": "预计 {date}",
+    "declared": "申报信息",
+    "edit": "修改我的档案",
+    "subSector": "细分行业",
+    "createdOn": "档案创建于",
+    "documents": "档案文件",
+    "journal": "档案日志",
+    "write": "写信给 {name}",
+    "writeTeam": "写信给团队"
+  }
+}

@@ -1,0 +1,200 @@
+// ─────────────────────────────────────────────────────────────
+//  KEC — styles globaux
+//  Direction artistique : bois noble, latérite, terre cuite,
+//  ivoire du cauri, olive, or. Afrique assumée et raffinée.
+// ─────────────────────────────────────────────────────────────
+
+:root {
+  /* Bois & nuit */
+  --kec-ebony: #1a110b;
+  --kec-night: #24170f;
+  --kec-walnut-deep: #3a2416;
+  --kec-walnut: #5a3a24;
+  --kec-teak: #8b5a34;
+  --kec-iroko: #a8703f;
+
+  /* Terre */
+  --kec-laterite: #a8401f;
+  --kec-terracotta: #c0612f;
+  --kec-clay: #d98a55;
+  --kec-sand: #e8c9a0;
+
+  /* Cauri & ivoire */
+  --kec-ivory: #f5ecdb;
+  --kec-cowrie: #efe3c9;
+  --kec-taupe: #b9a58b;
+
+  /* Accents */
+  --kec-gold: #d6a548;
+  --kec-gold-soft: #e9c983;
+  --kec-olive: #5f6436;
+  --kec-olive-soft: #8b8f5a;
+  --kec-indigo: #22344f;
+  --kec-cola: #9e3d35;
+  --kec-cola-light: #d07b62;
+
+  /* Sémantique */
+  --kec-bg: var(--kec-ebony);
+  --kec-surface: #2c1c12;
+  --kec-surface-2: #382417;
+  --kec-text: var(--kec-ivory);
+  --kec-text-muted: #c9b79c;
+  --kec-border: rgba(233, 201, 131, .18);
+  --kec-success: #8fa35a;
+  --kec-danger: #d0573e;
+
+  /* Typographie */
+  --font-display: 'Fraunces Variable', 'Georgia', serif;
+  --font-body: 'Manrope Variable', 'Segoe UI', system-ui, sans-serif;
+
+  /* Formes organiques */
+  --radius-sm: 10px;
+  --radius: 18px;
+  --radius-lg: 28px;
+  --radius-pebble: 42% 58% 55% 45% / 52% 44% 56% 48%;
+
+  --shadow-soft: 0 10px 30px -12px rgba(0, 0, 0, .55);
+  --shadow-glow: 0 0 0 1px rgba(214, 165, 72, .25), 0 18px 50px -18px rgba(214, 165, 72, .35);
+
+  --ease-out: cubic-bezier(.22, 1, .36, 1);
+  --ease-spring: cubic-bezier(.34, 1.56, .64, 1);
+
+  color-scheme: dark;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--kec-text);
+  background-color: var(--kec-bg);
+  @include clay-grain(.12);
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  line-height: 1.12;
+  margin: 0 0 .5em;
+  letter-spacing: -.01em;
+  font-variation-settings: 'SOFT' 100, 'WONK' 1;
+}
+h1 { font-size: clamp(2.2rem, 5.5vw, 4.4rem); }
+h2 { font-size: clamp(1.7rem, 3.6vw, 2.8rem); }
+h3 { font-size: clamp(1.2rem, 2vw, 1.5rem); }
+p { margin: 0 0 1em; }
+
+a { color: var(--kec-gold-soft); text-decoration: none; }
+a:hover { color: var(--kec-gold); }
+
+img, svg, canvas { display: block; max-width: 100%; }
+
+button { font: inherit; cursor: pointer; }
+
+:focus-visible { @include focus-ring; }
+
+::selection { background: var(--kec-terracotta); color: var(--kec-ivory); }
+
+/* ── Utilitaires ─────────────────────────────────────────── */
+.container { width: min(1200px, 100% - 2.5rem); margin-inline: auto; }
+.eyebrow {
+  display: inline-flex; align-items: center; gap: .6rem;
+  font-size: .78rem; letter-spacing: .22em; text-transform: uppercase;
+  color: var(--kec-gold-soft); font-weight: 700;
+  /* Petit cauris doré (symbole KEC) à la place du tiret : couleur héritée via un masque SVG */
+  &::before {
+    content: ''; flex-shrink: 0; width: 20px; height: 13px; background: currentColor;
+    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 13'%3E%3Cpath fill-rule='evenodd' d='M10 .5C15.5.5 19.5 3.3 19.5 6.5S15.5 12.5 10 12.5.5 9.7.5 6.5 4.5.5 10 .5zm-6 6c0 .7 1 1.3 2.2 1.1l.5-.7.6.7 1.2-.1.6-.7.6.7h1.2l.6-.7.6.7 1.2.1.6-.7.5.7C15 8.3 16 7.6 16 6.9 16 5.9 14.5 5.4 10 5.4S4 5.9 4 6.5z'/%3E%3C/svg%3E") center / contain no-repeat;
+    mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 13'%3E%3Cpath fill-rule='evenodd' d='M10 .5C15.5.5 19.5 3.3 19.5 6.5S15.5 12.5 10 12.5.5 9.7.5 6.5 4.5.5 10 .5zm-6 6c0 .7 1 1.3 2.2 1.1l.5-.7.6.7 1.2-.1.6-.7.6.7h1.2l.6-.7.6.7 1.2.1.6-.7.5.7C15 8.3 16 7.6 16 6.9 16 5.9 14.5 5.4 10 5.4S4 5.9 4 6.5z'/%3E%3C/svg%3E") center / contain no-repeat;
+    filter: drop-shadow(0 0 4px rgba(214, 165, 72, .45));
+  }
+}
+.text-muted { color: var(--kec-text-muted); }
+.text-gold { color: var(--kec-gold); }
+.serif-italic { font-family: var(--font-display); font-style: italic; font-weight: 400; }
+.sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0, 0, 0, 0); border: 0;
+}
+.grid { display: grid; gap: 1.25rem; }
+.stack > * + * { margin-top: 1rem; }
+
+/* Champs de formulaire (global : utilisés aussi hors KField) */
+.k-input {
+  width: 100%;
+  font: inherit; color: var(--kec-ivory);
+  padding: .8rem 1rem;
+  background: rgba(20, 12, 7, .55);
+  border: 1px solid rgba(233, 201, 131, .2);
+  border-radius: 14px;
+  transition: border-color .25s, box-shadow .25s, background .25s;
+  &::placeholder { color: rgba(201, 183, 156, .55); }
+  &:hover { border-color: rgba(233, 201, 131, .4); }
+  &:focus { outline: none; border-color: var(--kec-gold); box-shadow: 0 0 0 4px rgba(214, 165, 72, .15); background: rgba(20, 12, 7, .75); }
+  .has-error & { border-color: #d0573e; }
+}
+select.k-input {
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23d6a548' stroke-width='1.6' fill='none'/%3E%3C/svg%3E");
+  background-repeat: no-repeat; background-position: right 1rem center; padding-inline-end: 2.4rem;
+  [dir='rtl'] & { background-position: left 1rem center; }
+  option { background: #2c1c12; color: var(--kec-ivory); }
+}
+textarea.k-input { resize: vertical; min-height: 110px; }
+
+/* Panneau "bois verni" réutilisable */
+.wood-panel {
+  background-color: var(--kec-walnut-deep);
+  @include wood-grain(.45);
+  border: 1px solid var(--kec-border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-soft), inset 0 1px 0 rgba(255, 255, 255, .06);
+}
+
+/* Panneau "enduit de terre" */
+.clay-panel {
+  background: linear-gradient(160deg, #4a2a1a, #33200f);
+  border: 1px solid var(--kec-border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-soft);
+}
+
+/* Frise bogolan (séparateur) */
+.bogolan-divider {
+  height: 18px; border: 0; margin: 2.5rem 0; opacity: .7;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='18'%3E%3Cg fill='none' stroke='%23d6a548' stroke-width='1.4'%3E%3Cpath d='M0 9h10M38 9h10'/%3E%3Cpath d='M14 2l10 7-10 7M34 2L24 9l10 7'/%3E%3C/g%3E%3Ccircle cx='24' cy='9' r='1.6' fill='%23d6a548'/%3E%3C/svg%3E") repeat-x center;
+}
+
+/* Transitions de route */
+.page-enter-active, .page-leave-active { transition: opacity .45s var(--ease-out), transform .45s var(--ease-out); }
+.page-enter-from { opacity: 0; transform: translateY(14px); }
+.page-leave-to { opacity: 0; transform: translateY(-8px); }
+
+/* Révélation au scroll (directive v-reveal) */
+.reveal { opacity: 0; transform: translateY(28px); transition: opacity .9s var(--ease-out), transform .9s var(--ease-out); }
+.reveal.is-visible { opacity: 1; transform: none; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
+  .reveal { opacity: 1; transform: none; }
+}
+
+/* Scrollbar boisée */
+* { scrollbar-width: thin; scrollbar-color: var(--kec-teak) transparent; }
+
+/* ── Sens d'écriture : l'arabe se lit de droite à gauche ──────────────
+ * Les composants utilisent des propriétés logiques (inline-start/end) ;
+ * ici, les quelques règles globales qui dépendent de la direction. */
+[dir='rtl'] {
+  letter-spacing: 0;
+  .eyebrow, h1, h2, h3, h4 { letter-spacing: 0; }
+  body, input, textarea, button { font-family: var(--font-body), 'Noto Naskh Arabic', 'Segoe UI', Tahoma, sans-serif; }
+}

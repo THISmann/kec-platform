@@ -1,0 +1,1175 @@
+{
+  "common": {
+    "back": "Retour",
+    "next": "Suivant",
+    "close": "Fermer",
+    "delete": "Supprimer",
+    "remove": "Retirer",
+    "loading": "Un instant, on prépare la natte…",
+    "choose": "Choisir…",
+    "soon": "bientôt",
+    "all": "Tous",
+    "saveContinue": "Enregistrer et continuer"
+  },
+  "nav": {
+    "home": "Accueil KEC",
+    "main": "Navigation principale",
+    "program": "Le programme",
+    "services": "Services",
+    "waitingRoom": "Salle d'attente",
+    "connexion": "Connexion",
+    "mySpace": "Mon espace",
+    "menu": "Menu",
+    "language": "Langue",
+    "homeLabel": "Accueil",
+    "journey": "Le parcours"
+  },
+  "footer": {
+    "mission": "La porte d'entrée digitale et juridique de l'entrepreneur africain. Créer, formaliser, grandir, accompagné.",
+    "explore": "Explorer",
+    "spaces": "Espaces",
+    "fellows": "Mon espace · clients",
+    "kia": "Kia · investisseurs",
+    "team": "Équipe KEC",
+    "contact": "Contact",
+    "disclaimer": "KEC fournit des informations générales et un accompagnement ; pas de conseil juridique individualisé en ligne.",
+    "follow": "Nous suivre"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "K-Enterprise Counsel · Afrique",
+      "title1": "Votre entreprise, enracinée en Afrique.",
+      "title2": "Ouverte au monde.",
+      "lead": "Créer, formaliser puis développer votre entreprise, avec un accompagnement humain, des prix transparents et vos documents à l'abri dans un coffre-fort juridique.",
+      "ctaWaitlist": "Entrer dans la salle d'attente",
+      "ctaProgram": "Découvrir le programme",
+      "waiting": "{n} entrepreneurs attendent déjà, un café à la main",
+      "scroll": "Faire défiler"
+    },
+    "globe": {
+      "eyebrow": "Le monde tourne",
+      "title": "Et l'Afrique est au centre.",
+      "text": "Où que vous soyez : New York, Berlin, Paris, Montréal, Moscou, Amsterdam, Rome… votre projet trouve son chemin vers la maison. KEC relie la diaspora et les entrepreneurs locaux autour d'une même ambition : bâtir ici, durablement.",
+      "facts": {
+        "countries": "pays d'Afrique, un seul guichet",
+        "ohada": "pays de l'espace OHADA en ligne de mire",
+        "cities": "villes de la diaspora reliées",
+        "languages": "langues d'accueil"
+      },
+      "card": {
+        "hint": "Survolez ou touchez un pays : il rougit et se présente.",
+        "create": "Créer ici",
+        "close": "Fermer la fiche",
+        "default": "KEC vous accompagne ici : création, formalisation, suivi juridique.",
+        "ohada": "Membre OHADA",
+        "toValidate": "Repère à valider par KEC"
+      },
+      "aria": "Globe terrestre interactif centré sur l'Afrique"
+    },
+    "services": {
+      "eyebrow": "Ce que nous faisons pour vous",
+      "title": "Du rêve griffonné sur un cahier au tampon officiel.",
+      "lead": "Une plateforme pensée pour les petites et moyennes entreprises, appuyée sur une vraie équipe.",
+      "items": {
+        "create": {
+          "title": "Créer votre dossier",
+          "text": "Choisissez votre pays, votre ville, votre forme juridique. On vous guide pas à pas, devis total affiché avant tout."
+        },
+        "formalize": {
+          "title": "Formaliser votre structure",
+          "text": "Statuts, RCCM, pièces : vous remplissez un formulaire dédié, nous rédigeons et suivons le dossier."
+        },
+        "grow": {
+          "title": "Développer votre activité",
+          "text": "Formation, suivi post-création et intégration au réseau d'entreprises KEC."
+        },
+        "vault": {
+          "title": "Coffre-fort juridique",
+          "text": "Tous vos documents chiffrés, au même endroit. Compte entreprise certifié KEC."
+        },
+        "manu": {
+          "title": "Manu AI",
+          "text": "Une réceptionniste qui vous accueille jour et nuit, vous oriente, et passe la main à un professionnel du droit quand il le faut."
+        },
+        "consultant": {
+          "title": "Un consultant, quand vous voulez",
+          "text": "Besoin d'un avis ? Réservez un consultant KEC et payez par MoMo, Orange Money ou virement."
+        }
+      }
+    },
+    "journey": {
+      "eyebrow": "Sept perles sur un même fil",
+      "title": "Le parcours SCALE 110",
+      "steps": [
+        "Diagnostic",
+        "Formation intensive",
+        "Structuration juridique",
+        "Création",
+        "Documents finaux",
+        "Formation post-création",
+        "Certification KEC"
+      ]
+    },
+    "program": {
+      "eyebrow": "Programme pilote · SCALE 110",
+      "title": "110 places. Pas une de plus.",
+      "text": "Avant le lancement à grande échelle, nous accompagnons une première cohorte de 110 entrepreneurs pendant 6 mois. Tout le monde peut s'inscrire ; KEC choisit les 110 fellows parmi la liste d'attente.",
+      "points": {
+        "selection": "Sélection sur dossier parmi les inscrits de la salle d'attente",
+        "duration": "6 mois d'incubation et d'accompagnement humain",
+        "certification": "Compte entreprise certifié et visible à l'issue du programme"
+      },
+      "cta": "Je prends mon ticket",
+      "deadline": "Inscriptions pré-pilote ouvertes jusqu'en décembre."
+    },
+    "nostalgia": {
+      "eyebrow": "Pour ceux qui sont loin",
+      "title": "La maison ne vous a pas oublié.",
+      "text": "L'odeur de la terre après la première pluie. Le café du matin chez la grand-mère. Les voix sous l'arbre à palabres. Vous êtes parti depuis longtemps ? Votre entreprise, elle, peut naître ici, et vous ramener un peu chez vous.",
+      "cta": "Revenir par la grande porte"
+    }
+  },
+  "waiting": {
+    "eyebrow": "Salle d'attente · pré-pilote",
+    "title": "Akwaba ! Asseyez-vous, on vous sert quelque chose.",
+    "manuHello": "Chez nous en Afrique, on ne reçoit pas les gens les mains vides. On vous prend quoi à boire ? Thé ? Café ? Vin blanc ?",
+    "manuServed": "Prenez votre temps pour remplir la fiche, on n'est pas pressés ici.",
+    "serve": "Servir",
+    "coffeeAria": "Bouilloire émaillée, tasse en terre cuite et offrandes de bienvenue",
+    "waitingNow": "dans la salle",
+    "seats": "places du pilote",
+    "today": "arrivés aujourd'hui",
+    "arrived": "{name} de {city} vient de s'asseoir",
+    "formTitle": "Votre fiche d'accueil",
+    "formLead": "Trois petites étapes, moins de trois minutes. Ensuite, vous recevez votre ticket.",
+    "proverbs": [
+      "Une seule main n'attache pas le koki.",
+      "Si tu veux aller vite, marche seul ; si tu veux aller loin, marchons ensemble.",
+      "Petit à petit, l'oiseau fait son nid.",
+      "La patience est un arbre dont la racine est amère, mais dont les fruits sont très doux.",
+      "Un seul bracelet ne tinte pas.",
+      "C'est au bout de l'ancienne corde qu'on tisse la nouvelle."
+    ],
+    "chooseDrink": "Choisir ce qu'on vous sert",
+    "offerings": {
+      "coffee": "Café",
+      "tea": "Thé",
+      "peanuts": "Arachides bouillies",
+      "wine": "Vin blanc",
+      "cola": "Cola"
+    },
+    "served": {
+      "coffee": "Voilà votre café, bien chaud.",
+      "tea": "Voilà votre thé, bien chaud.",
+      "peanuts": "Voilà des arachides bouillies, encore fumantes.",
+      "wine": "Voilà un verre de vin blanc, bien frais.",
+      "cola": "Voilà une noix de cola : on la partage, comme il se doit."
+    },
+    "proverbFrom": "Proverbe · {origin}",
+    "proverbAfrica": "Afrique"
+  },
+  "waitlist": {
+    "steps": {
+      "you": "Vous",
+      "project": "Votre projet",
+      "last": "Le mot de la fin"
+    },
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "E-mail",
+    "phone": "Téléphone / WhatsApp",
+    "phoneHint": "Pour vous prévenir si vous êtes retenu·e.",
+    "residence": "Pays de résidence",
+    "language": "Langue préférée",
+    "targetCountry": "Pays de création",
+    "targetCity": "Ville de création",
+    "sector": "Secteur d'activité",
+    "stage": "Où en est votre projet ?",
+    "summary": "Votre projet en quelques mots",
+    "summaryHint": "Une ou deux phrases suffisent. Ça aide beaucoup pour la sélection.",
+    "needs": "Vos besoins",
+    "forWhom": "Vous créez…",
+    "forWhomOptions": {
+      "self": "Pour moi",
+      "relative": "Pour un proche au pays"
+    },
+    "channel": "Comment avez-vous entendu parler de KEC ?",
+    "channelDetail": {
+      "fieldAgent": "Nom de l'agent de terrain KEC",
+      "other": "Précisez",
+      "event": "Quel évènement ?",
+      "wordOfMouth": "Qui vous en a parlé ? (facultatif)"
+    },
+    "consentData": "J'accepte que KEC traite mes données pour étudier ma candidature (conformément au cadre camerounais et aux principes RGPD).",
+    "consentMarketing": "Je souhaite recevoir les nouvelles de KEC (e-mail, SMS, WhatsApp).",
+    "submit": "Prendre mon ticket"
+  },
+  "ticket": {
+    "label": "Ticket",
+    "title": "Votre place est gardée, {name} !",
+    "text": "Vous êtes désormais {total} dans la salle d'attente. {seats} places seulement pour la cohorte pilote : l'équipe étudie chaque fiche avec attention.",
+    "next": "Vous serez contacté·e par e-mail et WhatsApp. En attendant, invitez un proche qui a aussi un projet.",
+    "shareWhatsapp": "Inviter sur WhatsApp",
+    "shareText": "Je viens de prendre mon ticket dans la salle d'attente KEC pour créer mon entreprise. Viens prendre un café avec moi : {url}"
+  },
+  "acquisition": {
+    "linkedin": "LinkedIn",
+    "wordOfMouth": "Bouche à oreille",
+    "facebook": "Facebook",
+    "fieldAgent": "Un agent de terrain KEC",
+    "whatsapp": "WhatsApp",
+    "tiktok": "TikTok",
+    "instagram": "Instagram",
+    "event": "Un évènement",
+    "other": "Autre"
+  },
+  "sectors": {
+    "agri": "Agriculture & agro-transformation",
+    "commerce": "Commerce",
+    "tech": "Numérique & tech",
+    "services": "Services aux entreprises",
+    "transport": "Transport & logistique",
+    "construction": "BTP",
+    "health": "Santé & bien-être",
+    "education": "Éducation & formation",
+    "craft": "Artisanat",
+    "fashion": "Mode & textile",
+    "food": "Restauration",
+    "other": "Autre"
+  },
+  "stages": {
+    "idea": "C'est une idée",
+    "informal": "J'exerce déjà (informel)",
+    "existing": "Entreprise existante à structurer"
+  },
+  "needs": {
+    "legal": "Juridique",
+    "tax": "Fiscal",
+    "accounting": "Comptable",
+    "funding": "Financement",
+    "hr": "RH",
+    "contracts": "Contrats",
+    "ip": "Propriété intellectuelle",
+    "commercial": "Commercial"
+  },
+  "legalForms": {
+    "ei": "Établissement individuel",
+    "sarlu": "SARL unipersonnelle",
+    "sarl": "SARL",
+    "sas": "SAS",
+    "sasu": "SASU",
+    "sa": "SA",
+    "gie": "GIE"
+  },
+  "legalFormsInfo": {
+    "ei": "Simple et rapide, mais votre patrimoine personnel est engagé.",
+    "sarlu": "Une SARL avec un seul associé : responsabilité limitée aux apports.",
+    "sarl": "La forme la plus courante pour les PME, de 1 à plusieurs associés.",
+    "sas": "Grande liberté dans les statuts, appréciée des investisseurs.",
+    "sasu": "La SAS avec un associé unique.",
+    "sa": "Pour les projets d'envergure ; formalisme plus lourd.",
+    "gie": "Groupement pour mutualiser des moyens entre entreprises."
+  },
+  "documents": {
+    "cni": "Carte d'identité (CNI) ou passeport",
+    "locationPlan": "Plan de localisation du siège",
+    "photo": "Photos d'identité",
+    "criminalRecord": "Extrait de casier judiciaire",
+    "leaseContract": "Contrat de bail / attestation d'hébergement",
+    "other": "Autre document",
+    "statutes": "Projet de statuts (rédigé par KEC)",
+    "hint": {
+      "cni": "Recto-verso, bien lisible. Une photo au téléphone suffit.",
+      "locationPlan": "Un croquis ou une capture de carte avec repères.",
+      "photo": "Fond clair, format identité.",
+      "criminalRecord": "Datant de moins de 3 mois.",
+      "leaseContract": "Ou attestation du propriétaire.",
+      "other": "Tout document utile à votre dossier."
+    }
+  },
+  "upload": {
+    "add": "Téléverser",
+    "replace": "Remplacer",
+    "done": "{name} est bien arrivé dans votre coffre-fort.",
+    "limits": "Formats acceptés : JPG, PNG, WEBP, PDF · {size} Mo maximum · contrôle de lisibilité par l'équipe."
+  },
+  "status": {
+    "dossier": {
+      "draft": "Brouillon",
+      "submitted": "Envoyé",
+      "in_review": "En instruction",
+      "docs_requested": "Pièces demandées",
+      "filed": "Déposé",
+      "created": "Entreprise créée"
+    },
+    "doc": {
+      "uploaded": "À vérifier",
+      "verified": "Vérifié",
+      "rejected": "À reprendre"
+    },
+    "waitlist": {
+      "pending": "En attente",
+      "shortlisted": "Présélectionné",
+      "selected": "Retenu (110)",
+      "rejected": "Non retenu"
+    },
+    "payment": {
+      "succeeded": "Payé",
+      "pending": "En cours",
+      "awaiting_transfer": "Virement attendu",
+      "failed": "Échoué"
+    }
+  },
+  "milestones": {
+    "diagnostic": "Diagnostic",
+    "training": "Formation intensive",
+    "structuring": "Structuration juridique",
+    "formalisation": "Création / formalisation",
+    "finalDocs": "Documents finaux",
+    "postTraining": "Formation post-création",
+    "certification": "Certification"
+  },
+  "manu": {
+    "title": "Conversation avec Manu AI",
+    "open": "Parler avec Manu, la réceptionniste",
+    "dragHint": "Glissez-moi pour me déplacer · double-clic sur l'en-tête pour revenir à ma place",
+    "role": "Réceptionniste · en ligne",
+    "teaserTitle": "Akwaba !",
+    "teaser": "Je suis Manu. Une question ? Je suis là.",
+    "placeholder": "Écrivez votre message…",
+    "send": "Envoyer",
+    "typing": "Manu écrit…",
+    "restart": "Nouvelle conversation",
+    "escalated": "Transmis à un humain de l'équipe · réponse sous 4 h ouvrées",
+    "disclaimer": "Manu donne des informations générales, jamais de conseil juridique individualisé.",
+    "unavailable": "Je n'arrive pas à répondre pour le moment. Votre parcours continue normalement, et vous pouvez joindre un consultant via la barre en bas de l'écran.",
+    "mic": "Parler à Manu",
+    "micStop": "Arrêter la dictée",
+    "listening": "Je vous écoute…",
+    "micUnsupported": "La dictée vocale n'est pas disponible sur ce navigateur.",
+    "voiceOn": "Lire les réponses à voix haute",
+    "voiceOff": "Couper la voix",
+    "voiceUnsupported": "La lecture à voix haute n'est pas disponible sur cet appareil."
+  },
+  "consultant": {
+    "barAria": "Parler à un consultant",
+    "barQuestion": "Voulez-vous parler à l'un de nos consultants ?",
+    "barCta": "Cliquez ici",
+    "eyebrow": "Consultants KEC",
+    "lead": "Un vrai humain, qui connaît le terrain. Choisissez votre conseiller, votre créneau, et payez en toute simplicité.",
+    "hour": "heure",
+    "who": "Avec qui ?",
+    "when": "Quand ?",
+    "what": "Combien de temps, et à quel sujet ?",
+    "duration": "Durée",
+    "topic": "Sujet",
+    "topicPh": "Ex. : pacte d'associés, choix SARL/SAS, bail commercial…",
+    "defaultTopic": "Entretien conseil",
+    "pickSlot": "Choisissez un jour et un créneau disponible.",
+    "summary": "{date} à {slot} · {duration} min",
+    "bookPay": "Réserver et payer",
+    "payTitle": "Paiement de la consultation",
+    "payLabel": "Consultation",
+    "confirmedTitle": "C'est réservé !",
+    "confirmed": "Votre rendez-vous avec {name} est confirmé le {date} à {slot}. Vous recevrez un rappel par SMS et WhatsApp.",
+    "speciality": {
+      "corporate": "Droit des sociétés",
+      "tax": "Fiscalité",
+      "investment": "Investissement & diaspora"
+    },
+    "request": {
+      "title": "Que pouvons-nous faire pour vous ?",
+      "lead": "Dites-nous brièvement ce qui vous préoccupe ; un consultant vous contactera sous peu.",
+      "name": "Prénom et nom",
+      "country": "Pays",
+      "phone": "Téléphone ou WhatsApp",
+      "email": "E-mail",
+      "need": "Votre besoin, en quelques lignes",
+      "needPh": "Ex. : je veux ouvrir une boutique à Dakar avec ma sœur qui vit à Bruxelles…",
+      "channel": "Comment préférez-vous être contacté ?",
+      "channels": {
+        "whatsapp": "WhatsApp",
+        "call": "Appel",
+        "email": "E-mail"
+      },
+      "consent": "J'accepte que KEC utilise ces informations pour me recontacter.",
+      "hint": "Réponse d'un consultant KEC sous 24 h ouvrées. Le tarif de la consultation vous est indiqué avant tout engagement.",
+      "send": "Envoyer ma demande",
+      "sentTitle": "Merci, {name} !",
+      "sent": "Un consultant KEC vous recontacte sous 24 h ouvrées, par {channel}. Numéro de demande : {ref}.",
+      "fellowHint": "Vous êtes connecté : réservez directement un créneau avec le consultant de votre choix.",
+      "book": "Réserver un consultant"
+    }
+  },
+  "kopen": {
+    "title": "Des suggestions à nous faire pour notre amélioration ?",
+    "lead": "Laissez un message ici. Chaque mot glissé dans la boîte est lu par l'équipe : c'est comme ça qu'on grandit ensemble.",
+    "category": "Type de message",
+    "placeholder": "Votre idée, votre remarque, votre coup de cœur…",
+    "contact": "Votre e-mail ou téléphone (facultatif)",
+    "contactHint": "Seulement si vous voulez qu'on vous réponde.",
+    "send": "Glisser dans la boîte",
+    "tooShort": "Dites-nous en un peu plus (10 caractères minimum).",
+    "thanksTitle": "Merci, c'est bien reçu.",
+    "thanks": "Votre message est dans la boîte. On le lit, promis.",
+    "anonymous": "Anonyme",
+    "categories": {
+      "idea": "Idée",
+      "feature": "Fonctionnalité",
+      "content": "Contenu",
+      "praise": "Encouragement",
+      "problem": "Problème",
+      "other": "Autre"
+    }
+  },
+  "login": {
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "submit": "Entrer",
+    "toggle": "Afficher / masquer le mot de passe",
+    "demo": "Démo :",
+    "fill": "Remplir",
+    "notFellow": "Pas encore client KEC ?",
+    "joinWaitlist": "Prenez votre ticket dans la salle d'attente.",
+    "fellow": {
+      "eyebrow": "Connexion",
+      "title": "Mon espace",
+      "lead": "Votre dossier, votre coffre-fort, vos consultants et votre progression, au même endroit.",
+      "quote": "Cent dix cauris, cent dix histoires d'entreprises."
+    },
+    "staff": {
+      "eyebrow": "Équipe KEC",
+      "title": "Espace interne",
+      "lead": "Réception des dossiers, sélection des 110, réponses aux entrepreneurs.",
+      "quote": "Derrière chaque dossier, un rêve à porter avec soin."
+    },
+    "investor": {
+      "eyebrow": "Kia",
+      "title": "Le canal des investisseurs",
+      "lead": "Suivez en direct les inscriptions et les encaissements, depuis votre téléphone.",
+      "quote": "Voir l'arbre pousser, feuille après feuille."
+    }
+  },
+  "app": {
+    "fellowSpace": "Mon espace",
+    "staffSpace": "Équipe KEC",
+    "logout": "Se déconnecter",
+    "nav": {
+      "dashboard": "Accueil",
+      "company": "Mon entreprise",
+      "vault": "Coffre-fort",
+      "consultant": "Consultant",
+      "payments": "Paiements",
+      "kopen": "Kopen Mind",
+      "overview": "Vue d'ensemble",
+      "waitlist": "Liste d'attente",
+      "dossiers": "Dossiers",
+      "inbox": "Messages",
+      "appointments": "Rendez-vous",
+      "manu": "Manu AI",
+      "team": "Équipe & rôles"
+    },
+    "fellowOf": "Fellow #{n} / 110"
+  },
+  "cert": {
+    "month": "Mois {n}",
+    "progress": "Mois {n} sur {total}",
+    "until": "certification prévue le {date}",
+    "certified": "Certifié KEC",
+    "pending": "Certification à l'issue du programme",
+    "pendingLong": "Badge de certification débloqué à la fin des 6 mois"
+  },
+  "fellow": {
+    "dash": {
+      "eyebrow": "Connexion · votre espace",
+      "hello": "Akwaba, {name} !",
+      "lead": "Voici où en est votre aventure. On avance ensemble, perle après perle.",
+      "company": "Mon entreprise",
+      "assignee": "Votre interlocutrice : {name}",
+      "noCompany": "Vous n'avez pas encore commencé votre dossier.",
+      "openDossier": "Ouvrir mon dossier",
+      "vault": "Coffre-fort",
+      "vaultLead": "Vos documents, chiffrés et toujours à portée de main.",
+      "actionNeeded": "Action requise",
+      "openVault": "Ouvrir le coffre",
+      "consultant": "Consultant",
+      "noBooking": "Aucun rendez-vous prévu.",
+      "book": "Réserver un consultant",
+      "payments": "Paiements",
+      "paidOf": "payés sur {total}",
+      "history": "Voir l'historique",
+      "kopen": "Une idée pour améliorer KEC ? Glissez-la dans Kopen Mind.",
+      "celebrate": "Faire pleuvoir des cauris",
+      "upcomingCount": "{n} rendez-vous à venir",
+      "balanceLeft": "Reste {amount} à régler",
+      "unread": "{n} non lu(s)",
+      "messages": "Messages"
+    }
+  },
+  "company": {
+    "eyebrow": "Mon entreprise",
+    "title": "Créer mon entreprise",
+    "steps": {
+      "place": "Pays & ville",
+      "form": "Forme juridique",
+      "details": "Formulaire",
+      "docs": "Pièces",
+      "review": "Envoi"
+    },
+    "country": "Pays",
+    "city": "Ville",
+    "placeLead": "Où voulez-vous créer votre entreprise ? Le Cameroun ouvre la marche ; les autres pays OHADA suivront.",
+    "formLead": "Choisissez une forme juridique. Le devis total s'affiche immédiatement, avant toute donnée sensible.",
+    "formDisclaimer": "Informations générales. Pour savoir quelle forme convient à votre situation, réservez un consultant.",
+    "docsLead": "Photographiez ou téléversez vos pièces. L'équipe contrôle leur lisibilité et vous prévient si quelque chose est à reprendre.",
+    "fields": {
+      "companyName": "Nom de l'entreprise",
+      "sector": "Secteur",
+      "activity": "Activité principale (objet social)",
+      "address": "Adresse du siège",
+      "capital": "Capital social (FCFA)",
+      "capitalHint": "Montant libre ; nous vous expliquerons les usages.",
+      "manager": "Gérant·e / dirigeant·e",
+      "employees": "Nombre de salariés prévu",
+      "revenue": "Chiffre d'affaires (tranche)",
+      "partners": "Associés et répartition",
+      "partnerName": "Nom de l'associé·e",
+      "addPartner": "Ajouter un associé"
+    },
+    "payer": {
+      "title": "Qui paie ?",
+      "self": "Je paie moi-même",
+      "other": "Un proche paie pour moi",
+      "name": "Nom du payeur",
+      "relation": "Lien (parent, ami…)"
+    },
+    "review": {
+      "place": "Lieu",
+      "form": "Forme juridique",
+      "docs": "Pièces téléversées",
+      "submittedAt": "Dernier envoi",
+      "lead": "En envoyant, votre dossier part chez votre interlocutrice KEC. Vous suivez chaque étape ici, avec des dates prévisionnelles."
+    },
+    "submit": "Envoyer mon dossier à KEC",
+    "resubmit": "Mettre à jour mon dossier",
+    "submitted": "Dossier envoyé ! Votre interlocutrice revient vers vous très vite.",
+    "titleDossier": "Mon dossier d'entreprise",
+    "titleEdit": "Modifier mon dossier",
+    "backToDossier": "Retour au dossier"
+  },
+  "quote": {
+    "title": "Votre devis total",
+    "total": "Total",
+    "note": "Montants indicatifs, frais administratifs inclus. Aucune surprise : ce devis est confirmé avant paiement.",
+    "lines": {
+      "kecFee": "Accompagnement KEC",
+      "registry": "Frais de greffe & RCCM",
+      "notary": "Notaire / enregistrement",
+      "publication": "Publication légale"
+    }
+  },
+  "vault": {
+    "eyebrow": "Coffre-fort juridique",
+    "title": "Votre base juridique, en sécurité",
+    "lead": "Pièces d'identité, statuts, RCCM, contrats : tout est chiffré et accessible à tout moment.",
+    "filters": {
+      "all": "Tout",
+      "mine": "Mes pièces",
+      "kec": "Rédigés par KEC"
+    },
+    "add": "Ajouter un document",
+    "empty": "Rien ici pour le moment.",
+    "file": "Fichier",
+    "uploaded": "Déposé le",
+    "status": "Statut",
+    "reason": "Motif",
+    "confirmDelete": "Supprimer « {name} » du coffre-fort ?",
+    "deleted": "Document supprimé."
+  },
+  "payment": {
+    "amount": "Montant",
+    "method": "Moyen de paiement",
+    "bank": "Virement bancaire",
+    "phone": "Numéro Mobile Money",
+    "phoneHint": "Vous recevrez une demande de confirmation sur ce numéro.",
+    "pay": "Payer {amount}",
+    "secure": "Paiement sécurisé · reçu immédiat · payeur ≠ bénéficiaire accepté",
+    "confirmOnPhone": "Confirmez sur votre téléphone",
+    "confirmHint": "Composez votre code secret pour valider. Ne fermez pas cette fenêtre.",
+    "transferTitle": "Coordonnées pour le virement",
+    "beneficiary": "Bénéficiaire",
+    "reference": "Référence à indiquer",
+    "transferHint": "Votre paiement sera validé à réception (24 à 72 h). Pensez à indiquer la référence.",
+    "success": "Paiement reçu, merci !",
+    "receipt": "Reçu n° {n} · référence {ref}",
+    "failed": "Le paiement n'a pas abouti. Réessayez ou changez de moyen de paiement.",
+    "card": "Carte bancaire",
+    "phoneHintDemo": "Démo : un numéro terminant par 00 simule un échec de paiement."
+  },
+  "payments": {
+    "eyebrow": "Paiements",
+    "title": "Mes paiements",
+    "history": "Historique",
+    "empty": "Aucun paiement pour l'instant.",
+    "program": "Programme SCALE 110",
+    "balance": "Reste à payer",
+    "fullyPaid": "Programme entièrement réglé. Merci !",
+    "purpose": {
+      "program": "Programme SCALE 110",
+      "consultant": "Consultation"
+    },
+    "planLead": "Programme SCALE 110 : {total}, réglable en deux tranches.",
+    "installments": {
+      "deposit": "Acompte (50 %)",
+      "balance": "Solde (50 %)",
+      "partial": "Versement partiel"
+    },
+    "installmentsHint": {
+      "deposit": "À la sélection, pour confirmer votre place.",
+      "balance": "Avant la formalisation de votre entreprise."
+    },
+    "pendingTransfer": "Virement de {amount} en attente de validation par l'équipe.",
+    "receipt": "Reçu",
+    "fullBalance": "Solde complet",
+    "installment": "Tranche",
+    "chooseAmount": "Que souhaitez-vous régler ?",
+    "payBalance": "Régler le solde",
+    "demoHint": "Mode démonstration : tout numéro Mobile Money fonctionne, sauf ceux terminant par 00 (échec simulé). Le virement reste « en attente » jusqu'à validation par l'équipe KEC."
+  },
+  "bo": {
+    "eyebrow": "Équipe KEC",
+    "overview": "Vue d'ensemble",
+    "kpi": {
+      "waitlist": "Liste d'attente",
+      "goal": "objectif {n}",
+      "selected": "Fellows retenus",
+      "shortlisted": "{n} présélectionnés",
+      "revenue": "Encaissé",
+      "payments": "{n} paiements",
+      "diaspora": "Part diaspora"
+    },
+    "tasks": {
+      "docs": "pièces à vérifier",
+      "tickets": "demandes ouvertes",
+      "suggestions": "nouvelles suggestions",
+      "seats": "places restantes",
+      "threads": "messages à traiter",
+      "bookings": "rendez-vous cette semaine",
+      "transfers": "virements à confirmer"
+    },
+    "signups30": "Inscriptions · 30 derniers jours",
+    "thisWeek": "{n} cette semaine",
+    "today": "{n} aujourd'hui",
+    "channels": "Canaux d'acquisition",
+    "cities": "Villes de création",
+    "liveSignup": "Nouvelle inscription : {name} ({city})",
+    "wl": {
+      "title": "Liste d'attente & sélection",
+      "lead": "Phase filtre : choisissez les 110 fellows de la cohorte pilote.",
+      "seatsTaken": "places attribuées",
+      "search": "Rechercher un nom, une ville, un projet…",
+      "sort": "Trier",
+      "sortScore": "Meilleur score",
+      "sortRecent": "Plus récents",
+      "sortOldest": "Premiers arrivés",
+      "cols": {
+        "name": "Candidat·e",
+        "project": "Projet",
+        "channel": "Canal",
+        "score": "Score",
+        "status": "Statut"
+      },
+      "shortlist": "Présélectionner",
+      "select": "Retenir",
+      "reject": "Écarter",
+      "registered": "Inscrit·e le",
+      "empty": "Aucun résultat.",
+      "updated": "{name} : {status}"
+    },
+    "dossiers": {
+      "title": "Dossiers de création",
+      "empty": "Aucun dossier.",
+      "status": "Statut du dossier",
+      "assignee": "Interlocuteur",
+      "certify": "Certifier le compte",
+      "uncertify": "Retirer la certification",
+      "form": "Formulaire",
+      "documents": "Pièces",
+      "verify": "Valider",
+      "reject": "Refuser",
+      "reasonPrompt": "Motif du refus (visible par l'entrepreneur) :",
+      "saved": "Dossier mis à jour.",
+      "lead": "{n} dossiers suivis · {urgent} nécessitent une action",
+      "search": "Rechercher un fellow, une entreprise, une référence…",
+      "allAssignees": "Tous les interlocuteurs",
+      "unassigned": "Sans interlocuteur",
+      "toReview": "Pièces à vérifier",
+      "diaspora": "Diaspora · {country}",
+      "requestDoc": "Demander une pièce",
+      "messages": "Écrire au fellow",
+      "tabs": {
+        "dossier": "Dossier",
+        "documents": "Pièces",
+        "milestones": "Étapes",
+        "bookings": "Rendez-vous",
+        "payments": "Paiements",
+        "notes": "Notes"
+      },
+      "reviewedBy": "vérifié par {name}",
+      "milestonesLead": "Cochez une étape quand elle est franchie : le fellow la voit immédiatement sur sa fiche.",
+      "inProgress": "en cours",
+      "notes": "Notes internes",
+      "notePh": "Note visible par l'équipe uniquement…",
+      "conversations": "Conversations liées",
+      "whichDoc": "Quelle pièce ?",
+      "requestHint": "Le dossier passe en « pièces demandées » et le fellow reçoit votre message.",
+      "requestTemplate": "Bonjour {name}, pour avancer sur votre dossier nous avons besoin de la pièce suivante : ",
+      "requested": "Demande envoyée au fellow."
+    },
+    "inbox": {
+      "title": "Messages",
+      "tickets": "Demandes",
+      "consultant": "Consultant",
+      "new": "Nouveau",
+      "replyPh": "Votre réponse à l'entrepreneur…",
+      "reply": "Répondre",
+      "replied": "Réponse envoyée.",
+      "markRead": "Marquer comme lu",
+      "plan": "Ajouter à la feuille de route",
+      "reasons": {
+        "tax": "Fiscal",
+        "social": "Social",
+        "criminal": "Pénal",
+        "litigation": "Litige",
+        "urgent": "Urgent",
+        "personalAdvice": "Conseil personnalisé",
+        "humanRequested": "Demande d'un humain",
+        "notUnderstood": "Incompréhension",
+        "booking": "Réservation",
+        "consultationRequest": "Demande de consultation"
+      },
+      "conversations": "conversations",
+      "search": "Rechercher un nom, un objet, un mot…",
+      "allKinds": "Tous les sujets",
+      "everyone": "Toute l'équipe",
+      "mine": "Les miennes",
+      "oneFellow": "fellow",
+      "breached": "{n} hors délai",
+      "openedAt": "Ouverte le {date}",
+      "priorityLabel": "Priorité",
+      "statusLabel": "Statut",
+      "addTag": "+ étiquette",
+      "context": "Contexte",
+      "visitor": "Visiteur (non connecté)",
+      "residence": "Résidence",
+      "paid": "Réglé",
+      "nextBookings": "Prochains rendez-vous",
+      "noContext": "Aucun dossier lié à cette conversation.",
+      "planned": "prévu"
+    },
+    "pipeline": {
+      "title": "Pipeline des créations",
+      "leadTime": "{n} jours en moyenne entre envoi et création",
+      "noLead": "Pas encore de création finalisée",
+      "certified": "{n} comptes certifiés"
+    },
+    "appointments": {
+      "title": "Rendez-vous consultants",
+      "lead": "Tous les rendez-vous demandés par les fellows : avec qui, quand, combien de temps, à quel sujet.",
+      "kpi": {
+        "week": "Cette semaine",
+        "today": "{n} aujourd'hui",
+        "awaiting": "En attente de paiement",
+        "needSummary": "{n} compte(s) rendu(s) à rédiger",
+        "hours": "Heures de conseil",
+        "completed": "{n} réalisés",
+        "revenue": "Chiffre consultations"
+      },
+      "byConsultant": "Par consultant",
+      "byTopic": "Par spécialité",
+      "views": {
+        "upcoming": "À venir",
+        "past": "Passés",
+        "all": "Tous"
+      },
+      "search": "Rechercher un fellow, un sujet…",
+      "allConsultants": "Tous les consultants",
+      "empty": "Aucun rendez-vous pour ces filtres.",
+      "complete": "Compte rendu",
+      "reassign": "Réassigner",
+      "openDossier": "Ouvrir le dossier",
+      "modal": {
+        "complete": "Clôturer avec un compte rendu",
+        "cancel": "Annuler le rendez-vous",
+        "reassign": "Changer de consultant"
+      },
+      "summaryHint": "Visible par le fellow dans son historique. Décisions prises, prochaines étapes.",
+      "cancelHint": "Annulation par KEC : {amount} intégralement crédités au fellow.",
+      "confirm": "Valider",
+      "saved": "Rendez-vous mis à jour."
+    },
+    "payments": {
+      "title": "Paiements",
+      "month": "{amount} sur 30 jours",
+      "consultations": "Consultations",
+      "awaiting": "Virements attendus",
+      "failed": "Échoués",
+      "toReconcile": "Virements à rapprocher",
+      "reconcileLead": "Vérifiez le relevé bancaire, puis confirmez : le fellow reçoit son reçu immédiatement.",
+      "confirm": "Confirmer",
+      "confirmed": "Virement {ref} confirmé.",
+      "failPrompt": "Motif (visible par le fellow) :",
+      "byMethod": "Par moyen de paiement",
+      "search": "Payeur, référence, n° de reçu…",
+      "cols": {
+        "date": "Date",
+        "payer": "Payeur",
+        "purpose": "Objet",
+        "method": "Moyen",
+        "amount": "Montant",
+        "status": "Statut",
+        "ref": "Référence"
+      },
+      "simulated": "paiement simulé",
+      "totalPaid": "Total encaissé"
+    },
+    "manu": {
+      "lead": "Tout ce qui se passe sur l'assistant : volumes, escalades, langues, paramètres et base de connaissances, sans redéploiement.",
+      "tabs": {
+        "report": "Rapport",
+        "settings": "Paramètres",
+        "knowledge": "Base de connaissances",
+        "logs": "Journal des échanges"
+      },
+      "period": "Période",
+      "days": "jours",
+      "kpi": {
+        "messages": "Messages reçus",
+        "sessions": "{n} conversations",
+        "autonomous": "Résolus par Manu",
+        "understood": "{n} % compris",
+        "escalated": "Escaladés à un humain",
+        "escalationRate": "{n} % des messages",
+        "humanResponse": "Réponse humaine moyenne",
+        "slaOk": "objectif < 4 h"
+      },
+      "volume": "Volume par jour",
+      "volumeHint": "Réponse en {ms} ms en moyenne · {fellow} % des messages viennent de fellows connectés",
+      "topIntents": "Sujets les plus demandés",
+      "escalations": "Motifs d'escalade",
+      "languages": "Langues",
+      "unanswered": "Messages non compris",
+      "unansweredHint": "Ajoutez des mots-clés ou une intention dans la base de connaissances pour les couvrir.",
+      "saved": "Paramètres publiés (version {v}).",
+      "kbSaved": "Base de connaissances mise à jour.",
+      "s": {
+        "identity": "Identité",
+        "displayName": "Nom affiché",
+        "tone": "Ton",
+        "tones": {
+          "warm": "Chaleureux",
+          "formal": "Formel",
+          "concise": "Concis"
+        },
+        "greeting": "Message d'accueil ({lang})",
+        "greetingHint": "Laissez vide pour le message par défaut. {'{name}'} sera remplacé par le prénom.",
+        "guardrails": "Garde-fous",
+        "guardrailsLead": "Manu ne donne jamais de conseil juridique individualisé. Choisissez les sujets qui déclenchent un passage à un humain.",
+        "extraKeywords": "Mots-clés sensibles supplémentaires",
+        "extraKeywordsHint": "Séparés par des virgules. Un message qui les contient est transmis à l'équipe.",
+        "misses": "Incompréhensions avant transfert",
+        "missesHint": "Après ce nombre de réponses non comprises, Manu passe la main à un humain.",
+        "sla": "Délai de réponse humaine (h)",
+        "slaHint": "Le cahier des charges fixe 4 h ouvrées. Au-delà, la conversation est signalée hors délai.",
+        "behaviour": "Comportement",
+        "quickReplies": "Proposer des réponses rapides",
+        "teaser": "Bulle d'invitation sur la page d'accueil",
+        "offHours": "Prévenir des horaires en dehors des heures ouvrées",
+        "degraded": "Mode dégradé (Manu indisponible, message d'excuse)",
+        "hours": "Heures ouvrées",
+        "retention": "Conservation des échanges (jours)",
+        "retentionHint": "Les journaux plus anciens sont purgés automatiquement (§7).",
+        "updatedBy": "Dernière publication par {name}, {when}",
+        "note": "Note de version",
+        "notePh": "Ex. : ajout des mots-clés douane…",
+        "discard": "Abandonner",
+        "publish": "Publier",
+        "history": "Historique des versions"
+      },
+      "k": {
+        "intents": "Intentions",
+        "lead": "Chaque intention regroupe des mots-clés et une réponse par langue. Vos modifications s'appliquent immédiatement.",
+        "keywords": "mots-clés",
+        "disabled": "désactivée",
+        "edited": "modifiée",
+        "rules": "Règles d'escalade livrées",
+        "baseKeywords": "Mots-clés de base",
+        "extraKeywords": "Mots-clés ajoutés",
+        "extraHint": "Séparés par des virgules.",
+        "response": "Réponse ({lang})",
+        "responseHint": "Laissez vide pour revenir à la réponse livrée.",
+        "disable": "Désactiver cette intention",
+        "pick": "Choisissez une intention à gauche."
+      },
+      "l": {
+        "search": "Rechercher dans les messages…",
+        "escalatedOnly": "Escaladés uniquement",
+        "when": "Quand",
+        "who": "Qui",
+        "message": "Message",
+        "intent": "Intention",
+        "page": "Page",
+        "fellow": "Fellow",
+        "visitor": "Visiteur"
+      },
+      "intents": {
+        "greeting": "Salutation",
+        "thanks": "Remerciement",
+        "human": "Demande d'un humain",
+        "program": "Programme SCALE 110",
+        "waitlist": "Liste d'attente",
+        "legalForms": "Formes juridiques",
+        "documents": "Pièces à fournir",
+        "price": "Tarifs",
+        "payment": "Paiement",
+        "timeline": "Délais",
+        "diaspora": "Diaspora",
+        "vault": "Coffre-fort",
+        "whatIsKec": "Qu'est-ce que KEC",
+        "country": "Pays couverts",
+        "kopen": "Kopen Mind",
+        "fallback": "Non compris",
+        "escalate": "Escalade",
+        "transfer": "Transfert humain",
+        "consultation": "Demande de consultation"
+      }
+    }
+  },
+  "kia": {
+    "live": "En direct",
+    "hello": "Cher investisseur, bonjour {name}.",
+    "lead": "Voici le pouls de KEC en temps réel : qui rejoint la salle d'attente, et ce qui entre.",
+    "waitlist": "Inscrits liste d'attente",
+    "today": "aujourd'hui",
+    "goal": "Objectif pré-lancement : {n}",
+    "revenue": "Encaissé",
+    "potential": "Potentiel cohorte pilote : {amount}",
+    "fellows": "fellows retenus",
+    "payments": "paiements reçus",
+    "diaspora": "diaspora",
+    "week": "inscrits cette semaine",
+    "trend": "Inscriptions · 30 jours",
+    "channels": "D'où viennent-ils ?",
+    "feed": "Fil d'activité",
+    "enableNotif": "Activer les alertes",
+    "feedSignup": "{name} ({city}, depuis {residence}) a rejoint la salle d'attente",
+    "feedPayment": "Paiement reçu : {amount} via {method}",
+    "newSignup": "Nouvelle inscription : {name} · {city}",
+    "newPayment": "L'argent entre : {amount}",
+    "newFellow": "{name} rejoint les 110 !",
+    "mockNote": "Mode démonstration : des inscriptions simulées arrivent toutes les quelques secondes. Ouvrez la salle d'attente dans un autre onglet pour voir vos propres inscriptions apparaître ici.",
+    "fullName": "Kia · KEC Invest Again"
+  },
+  "validation": {
+    "required": "Ce champ est requis.",
+    "email": "Adresse e-mail invalide.",
+    "phone": "Numéro invalide (ex. +237 6XX XXX XXX).",
+    "consent": "Votre accord est nécessaire pour étudier votre candidature.",
+    "city": "Choisissez une ville.",
+    "legalForm": "Choisissez une forme juridique.",
+    "shares": "La répartition doit faire 100 % (actuellement {n} %)."
+  },
+  "errors": {
+    "generic": "Oups, quelque chose s'est mal passé. Réessayez dans un instant.",
+    "network": "Connexion instable. Vérifiez votre réseau et réessayez.",
+    "invalidCredentials": "E-mail ou mot de passe incorrect.",
+    "sessionExpired": "Votre session a expiré, reconnectez-vous.",
+    "alreadyRegistered": "Cette adresse est déjà dans la salle d'attente. Votre place est gardée !",
+    "fileTooLarge": "Fichier trop lourd.",
+    "fileType": "Format non accepté (JPG, PNG, WEBP ou PDF).",
+    "invalidPhone": "Numéro Mobile Money invalide.",
+    "cohortFull": "Les 110 places sont déjà attribuées. Libérez une place avant d'en attribuer une nouvelle.",
+    "alreadyMember": "Cette adresse fait déjà partie de l'équipe.",
+    "lastAdmin": "Impossible : il faut au moins un administrateur actif.",
+    "accountDisabled": "Ce compte a été désactivé. Contactez un administrateur KEC."
+  },
+  "notFound": {
+    "text": "Les cauris n'ont pas trouvé cette page.",
+    "cta": "Retour à la maison"
+  },
+  "inbox": {
+    "eyebrow": "Messagerie",
+    "title": "Mes messages",
+    "lead": "Vos échanges avec l'équipe KEC, vos consultants et Manu. Réponse humaine sous {h} h ouvrées.",
+    "new": "Nouveau message",
+    "filters": {
+      "all": "Tous",
+      "open": "En cours",
+      "closed": "Clos"
+    },
+    "kinds": {
+      "manu": "Manu AI",
+      "consultant": "Consultant",
+      "dossier": "Mon dossier",
+      "payment": "Paiement",
+      "support": "Assistance",
+      "consultation": "Demande de consultation"
+    },
+    "status": {
+      "open": "À traiter",
+      "pending": "Réponse envoyée",
+      "closed": "Clos"
+    },
+    "priority": {
+      "normal": "Normal",
+      "high": "Prioritaire",
+      "urgent": "Urgent"
+    },
+    "handledBy": "Suivi par {name}",
+    "unassignedFellow": "L'équipe vous répond très vite",
+    "pickOne": "Choisissez une conversation à gauche, ou écrivez-nous.",
+    "empty": "Aucune conversation pour le moment. Écrivez-nous, on vous répond sous 4 h ouvrées.",
+    "kindLabel": "Sujet",
+    "subject": "Objet",
+    "message": "Votre message",
+    "composeHint": "Décrivez votre question en quelques lignes : plus c'est précis, plus la réponse est rapide.",
+    "created": "Message envoyé. On revient vers vous très vite.",
+    "send": "Envoyer",
+    "replyPh": "Écrivez votre réponse…",
+    "notePh": "Note interne, invisible pour le fellow…",
+    "internalNote": "Note interne",
+    "addNote": "Ajouter une note",
+    "hint": "Entrée pour envoyer · Maj + Entrée pour une nouvelle ligne",
+    "closedNotice": "Conversation close. Écrivez pour la rouvrir."
+  },
+  "booking": {
+    "mine": "Mes rendez-vous",
+    "book": "Réserver",
+    "today": "Aujourd'hui",
+    "join": "Rejoindre",
+    "summary": "Compte rendu",
+    "refund": {
+      "credit": "Avoir de {amount} crédité sur votre compte",
+      "refund": "Remboursement de {amount}"
+    },
+    "cancelledReason": "Motif : {reason}",
+    "mode": {
+      "visio": "Visioconférence",
+      "phone": "Téléphone",
+      "office": "Au bureau KEC (Douala)"
+    },
+    "modeLabel": "Format",
+    "notesLabel": "Précisions pour le consultant",
+    "notesHint": "Contexte, documents déjà en main, questions précises… (facultatif)",
+    "status": {
+      "awaiting_payment": "En attente de paiement",
+      "confirmed": "Confirmé",
+      "completed": "Terminé",
+      "cancelled": "Annulé"
+    },
+    "statUpcoming": "À venir",
+    "statDone": "Réalisés",
+    "statHours": "Heures de conseil",
+    "statSpent": "Investi",
+    "upcoming": "Prochains rendez-vous",
+    "history": "Historique",
+    "noUpcoming": "Aucun rendez-vous prévu. Réservez un créneau quand vous voulez.",
+    "noHistory": "Aucun rendez-vous passé.",
+    "payNow": "Régler {amount}",
+    "cancel": "Annuler",
+    "cancelTitle": "Annuler ce rendez-vous ?",
+    "cancelUnpaid": "Ce rendez-vous n'a pas été payé : il sera simplement annulé.",
+    "cancelFree": "Plus de 24 h avant le rendez-vous : {amount} vous est intégralement crédité.",
+    "cancelLate": "Moins de 24 h avant le rendez-vous : 50 % sont retenus, {amount} vous est crédité.",
+    "cancelReason": "Motif de l'annulation",
+    "confirmCancel": "Confirmer l'annulation",
+    "cancelled": "Rendez-vous annulé.",
+    "policy": "Annulation gratuite jusqu'à {h} h avant le rendez-vous ; au-delà, 50 % sont retenus. Le montant crédité est utilisable sur votre prochaine consultation.",
+    "seeMine": "Voir mes rendez-vous"
+  },
+  "dossier": {
+    "yourContact": "Votre interlocuteur",
+    "expected": "Création prévue vers le {date}",
+    "assigningSoon": "Un interlocuteur vous sera attribué très vite.",
+    "milestones": "Les sept perles",
+    "progress": "{n} / {total} étapes franchies",
+    "doneAt": "fait le {date}",
+    "dueAt": "prévu le {date}",
+    "declared": "Informations déclarées",
+    "edit": "Modifier mon dossier",
+    "subSector": "Sous-secteur",
+    "createdOn": "Dossier ouvert le",
+    "documents": "Pièces du dossier",
+    "journal": "Journal du dossier",
+    "write": "Écrire à {name}",
+    "writeTeam": "Écrire à l'équipe"
+  },
+  "team": {
+    "title": "Équipe & rôles",
+    "lead": "Qui fait quoi chez KEC : membres, droits par rôle, double authentification et journal des actions.",
+    "tabs": {
+      "members": "Membres",
+      "roles": "Droits par rôle",
+      "audit": "Journal d'audit"
+    },
+    "roles": {
+      "admin": "Administrateur",
+      "manager": "Responsable",
+      "agent": "Chargé(e) de dossiers",
+      "consultant": "Consultant",
+      "viewer": "Lecture seule"
+    },
+    "roleHints": {
+      "admin": "tous les droits, y compris Manu et l'équipe",
+      "manager": "pilote les dossiers, la sélection et les paiements",
+      "agent": "instruit les dossiers et répond aux fellows",
+      "consultant": "ses rendez-vous et ses conversations",
+      "viewer": "consulte sans modifier"
+    },
+    "status": {
+      "active": "Actif",
+      "invited": "Invité",
+      "disabled": "Désactivé"
+    },
+    "you": "vous",
+    "lastLogin": "Dernière connexion {when}",
+    "neverLogged": "Jamais connecté",
+    "invite": "Inviter un membre",
+    "enable": "Réactiver",
+    "disable": "Désactiver",
+    "confirmDisable": "Désactiver le compte de {name} ? La personne ne pourra plus se connecter.",
+    "roleChanged": "{name} est maintenant {role}.",
+    "invited": "Invitation envoyée.",
+    "matrixLead": "Les droits sont attachés au rôle. Un membre hérite exactement des droits de son rôle.",
+    "permission": "Droit",
+    "permissions": {
+      "viewWaitlist": "Voir la liste d'attente",
+      "selectFellows": "Sélectionner les fellows",
+      "manageDossiers": "Gérer les dossiers",
+      "reviewDocuments": "Vérifier les pièces",
+      "certify": "Certifier un compte",
+      "replyMessages": "Répondre aux messages",
+      "manageAppointments": "Gérer les rendez-vous",
+      "viewPayments": "Voir les paiements",
+      "confirmPayments": "Confirmer un virement",
+      "configureManu": "Configurer Manu AI",
+      "manageTeam": "Gérer l'équipe",
+      "viewAudit": "Lire le journal d'audit"
+    },
+    "auditLead": "Chaque action sensible est tracée : qui, quand, quoi (§12 du cahier des charges).",
+    "audit": {
+      "when": "Quand",
+      "who": "Qui",
+      "action": "Action",
+      "details": "Détails"
+    },
+    "form": {
+      "name": "Nom complet",
+      "email": "E-mail professionnel",
+      "role": "Rôle",
+      "title": "Fonction"
+    },
+    "inviteHint": "La personne recevra un e-mail pour créer son mot de passe et activer la double authentification.",
+    "sendInvite": "Envoyer l'invitation"
+  }
+}

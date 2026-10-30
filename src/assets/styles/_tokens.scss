@@ -1,0 +1,31 @@
+// ─────────────────────────────────────────────────────────────
+//  Tokens SCSS (injectés automatiquement dans chaque composant)
+//  Les couleurs vivent en variables CSS (voir main.scss) pour
+//  pouvoir être thématisées à l'exécution ; ici : breakpoints & mixins.
+// ─────────────────────────────────────────────────────────────
+
+$bp-sm: 600px;
+$bp-md: 900px;
+$bp-lg: 1200px;
+
+@mixin sm-up { @media (min-width: $bp-sm) { @content; } }
+@mixin md-up { @media (min-width: $bp-md) { @content; } }
+@mixin lg-up { @media (min-width: $bp-lg) { @content; } }
+@mixin md-down { @media (max-width: #{$bp-md - 1px}) { @content; } }
+
+// Texture de bois générée (fibres) — utilisable en background-image
+@mixin wood-grain($opacity: .35) {
+  background-image:
+    linear-gradient(180deg, rgba(255, 255, 255, .03), rgba(0, 0, 0, .15)),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='200'%3E%3Cfilter id='w'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.004 0.09' numOctaves='3' seed='7'/%3E%3CfeColorMatrix values='0 0 0 0 0.16 0 0 0 0 0.09 0 0 0 0 0.05 0 0 0 #{$opacity} 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23w)'/%3E%3C/svg%3E");
+}
+
+// Grain de terre / enduit (murs en banco)
+@mixin clay-grain($opacity: .18) {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.3 0 0 0 0 0.15 0 0 0 0 0.08 0 0 0 #{$opacity} 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+@mixin focus-ring {
+  outline: 2px solid var(--kec-gold);
+  outline-offset: 3px;
+}

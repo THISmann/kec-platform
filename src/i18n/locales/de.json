@@ -1,0 +1,1175 @@
+{
+  "common": {
+    "back": "Zurück",
+    "next": "Weiter",
+    "close": "Schließen",
+    "delete": "Löschen",
+    "remove": "Entfernen",
+    "loading": "Einen Moment, wir rollen die Matte aus…",
+    "choose": "Auswählen…",
+    "soon": "bald",
+    "all": "Alle",
+    "saveContinue": "Speichern und weiter"
+  },
+  "nav": {
+    "home": "KEC Startseite",
+    "main": "Hauptnavigation",
+    "program": "Das Programm",
+    "services": "Leistungen",
+    "waitingRoom": "Warteraum",
+    "connexion": "Anmelden",
+    "mySpace": "Mein Bereich",
+    "menu": "Menü",
+    "language": "Sprache",
+    "homeLabel": "Start",
+    "journey": "Der Weg"
+  },
+  "footer": {
+    "mission": "Das digitale und juristische Tor für afrikanische Unternehmer. Gründen, formalisieren, wachsen, begleitet.",
+    "explore": "Entdecken",
+    "spaces": "Bereiche",
+    "fellows": "Mein Bereich · Kunden",
+    "kia": "Kia · Investoren",
+    "team": "KEC-Team",
+    "contact": "Kontakt",
+    "disclaimer": "KEC bietet allgemeine Informationen und Begleitung; online erfolgt keine individuelle Rechtsberatung.",
+    "follow": "Folgen Sie uns"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "K-Enterprise Counsel · Afrika",
+      "title1": "Ihr Unternehmen, verwurzelt in Afrika.",
+      "title2": "Offen für die Welt.",
+      "lead": "Gründen, formalisieren und ausbauen, mit menschlicher Begleitung, transparenten Preisen und Ihren Dokumenten sicher im juristischen Tresor.",
+      "ctaWaitlist": "Den Warteraum betreten",
+      "ctaProgram": "Das Programm entdecken",
+      "waiting": "{n} Unternehmer warten schon, mit einem Kaffee in der Hand",
+      "scroll": "Nach unten scrollen"
+    },
+    "globe": {
+      "eyebrow": "Die Welt dreht sich",
+      "title": "Und Afrika steht im Mittelpunkt.",
+      "text": "Wo immer Sie sind: New York, Berlin, Paris, Montréal, Moskau, Amsterdam, Rom… Ihr Projekt findet den Weg nach Hause. KEC verbindet die Diaspora und lokale Unternehmer um ein gemeinsames Ziel: hier bauen, nachhaltig.",
+      "facts": {
+        "countries": "afrikanische Länder, ein einziger Schalter",
+        "ohada": "OHADA-Länder im Blick",
+        "cities": "verbundene Städte der Diaspora",
+        "languages": "Sprachen zum Empfang"
+      },
+      "card": {
+        "hint": "Fahren oder tippen Sie auf ein Land: Es wird rot und stellt sich vor.",
+        "create": "Hier gründen",
+        "close": "Karte schließen",
+        "default": "KEC begleitet Sie hier: Gründung, Formalisierung, rechtliche Betreuung.",
+        "ohada": "OHADA-Mitglied",
+        "toValidate": "Angabe von KEC zu prüfen"
+      },
+      "aria": "Interaktiver Globus mit Afrika im Zentrum"
+    },
+    "services": {
+      "eyebrow": "Was wir für Sie tun",
+      "title": "Vom Traum im Notizheft bis zum offiziellen Stempel.",
+      "lead": "Eine Plattform für kleine und mittlere Unternehmen, mit einem echten Team dahinter.",
+      "items": {
+        "create": {
+          "title": "Ihre Akte anlegen",
+          "text": "Wählen Sie Land, Stadt und Rechtsform. Wir führen Sie Schritt für Schritt, mit Gesamtangebot vorab."
+        },
+        "formalize": {
+          "title": "Ihre Struktur formalisieren",
+          "text": "Satzung, RCCM, Unterlagen: Sie füllen ein Formular aus, wir entwerfen und verfolgen die Akte."
+        },
+        "grow": {
+          "title": "Ihr Geschäft ausbauen",
+          "text": "Schulungen, Begleitung nach der Gründung und Aufnahme ins KEC-Unternehmensnetzwerk."
+        },
+        "vault": {
+          "title": "Juristischer Tresor",
+          "text": "Alle Dokumente verschlüsselt an einem Ort. KEC-zertifiziertes Unternehmenskonto."
+        },
+        "manu": {
+          "title": "Manu AI",
+          "text": "Eine Empfangsdame, die Sie Tag und Nacht begrüßt, orientiert und bei Bedarf an eine Rechtsfachperson übergibt."
+        },
+        "consultant": {
+          "title": "Ein Berater, wann Sie wollen",
+          "text": "Rat gebraucht? Buchen Sie einen KEC-Berater und zahlen Sie per MoMo, Orange Money oder Überweisung."
+        }
+      }
+    },
+    "journey": {
+      "eyebrow": "Sieben Perlen auf einem Faden",
+      "title": "Der Weg SCALE 110",
+      "steps": [
+        "Diagnose",
+        "Intensivschulung",
+        "Rechtliche Strukturierung",
+        "Gründung",
+        "Finale Dokumente",
+        "Schulung nach Gründung",
+        "KEC-Zertifizierung"
+      ]
+    },
+    "program": {
+      "eyebrow": "Pilotprogramm · SCALE 110",
+      "title": "110 Plätze. Kein einziger mehr.",
+      "text": "Vor dem großflächigen Start begleiten wir eine erste Kohorte von 110 Unternehmern 6 Monate lang. Jeder kann sich anmelden; KEC wählt die 110 Fellows aus der Warteliste aus.",
+      "points": {
+        "selection": "Auswahl anhand der Anmeldungen im Warteraum",
+        "duration": "6 Monate Inkubation und persönliche Begleitung",
+        "certification": "Zertifiziertes, sichtbares Unternehmenskonto am Programmende"
+      },
+      "cta": "Mein Ticket ziehen",
+      "deadline": "Vorpilot-Anmeldungen bis Dezember geöffnet."
+    },
+    "nostalgia": {
+      "eyebrow": "Für alle in der Ferne",
+      "title": "Die Heimat hat Sie nicht vergessen.",
+      "text": "Der Geruch der Erde nach dem ersten Regen. Der Morgenkaffee bei der Großmutter. Die Stimmen unter dem Palaverbaum. Lange weg gewesen? Ihr Unternehmen kann hier entstehen, und Sie ein Stück nach Hause bringen.",
+      "cta": "Durch die Haupttür zurückkehren"
+    }
+  },
+  "waiting": {
+    "eyebrow": "Warteraum · Vorpilot",
+    "title": "Akwaba! Setzen Sie sich, wir servieren Ihnen etwas.",
+    "manuHello": "Bei uns in Afrika empfängt man niemanden mit leeren Händen. Was darf es zu trinken sein? Tee? Kaffee? Weißwein?",
+    "manuServed": "Nehmen Sie sich Zeit für das Formular; hier hat niemand Eile.",
+    "serve": "Servieren",
+    "coffeeAria": "Emaillekanne, Tontasse und Willkommensgaben",
+    "waitingNow": "im Raum",
+    "seats": "Pilotplätze",
+    "today": "heute angekommen",
+    "arrived": "{name} aus {city} hat gerade Platz genommen",
+    "formTitle": "Ihre Willkommenskarte",
+    "formLead": "Drei kurze Schritte, weniger als drei Minuten. Danach erhalten Sie Ihr Ticket.",
+    "proverbs": [
+      "Eine Hand allein bindet den Koki nicht.",
+      "Wenn du schnell gehen willst, geh allein; wenn du weit gehen willst, geh mit anderen.",
+      "Nach und nach baut der Vogel sein Nest.",
+      "Geduld ist ein Baum mit bitterer Wurzel, aber sehr süßen Früchten.",
+      "Ein einzelner Armreif klingt nicht.",
+      "Am Ende des alten Seils flicht man das neue."
+    ],
+    "chooseDrink": "Wählen Sie, was wir Ihnen servieren",
+    "offerings": {
+      "coffee": "Kaffee",
+      "tea": "Tee",
+      "peanuts": "Gekochte Erdnüsse",
+      "wine": "Weißwein",
+      "cola": "Kolanuss"
+    },
+    "served": {
+      "coffee": "Hier ist Ihr Kaffee, schön heiß.",
+      "tea": "Hier ist Ihr Tee, schön heiß.",
+      "peanuts": "Hier sind gekochte Erdnüsse, noch dampfend.",
+      "wine": "Hier ist ein Glas Weißwein, gut gekühlt.",
+      "cola": "Hier ist eine Kolanuss: Wir teilen sie, wie es sich gehört."
+    },
+    "proverbFrom": "Sprichwort · {origin}",
+    "proverbAfrica": "Afrika"
+  },
+  "waitlist": {
+    "steps": {
+      "you": "Sie",
+      "project": "Ihr Projekt",
+      "last": "Zum Schluss"
+    },
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "email": "E-Mail",
+    "phone": "Telefon / WhatsApp",
+    "phoneHint": "Damit wir Sie bei einer Auswahl benachrichtigen können.",
+    "residence": "Wohnsitzland",
+    "language": "Bevorzugte Sprache",
+    "targetCountry": "Gründungsland",
+    "targetCity": "Gründungsstadt",
+    "sector": "Branche",
+    "stage": "Wo steht Ihr Projekt?",
+    "summary": "Ihr Projekt in wenigen Worten",
+    "summaryHint": "Ein, zwei Sätze genügen. Das hilft sehr bei der Auswahl.",
+    "needs": "Ihr Bedarf",
+    "forWhom": "Sie gründen…",
+    "forWhomOptions": {
+      "self": "Für mich",
+      "relative": "Für Angehörige in der Heimat"
+    },
+    "channel": "Wie haben Sie von KEC erfahren?",
+    "channelDetail": {
+      "fieldAgent": "Name des KEC-Außendienstmitarbeiters",
+      "other": "Bitte angeben",
+      "event": "Welche Veranstaltung?",
+      "wordOfMouth": "Wer hat es Ihnen erzählt? (optional)"
+    },
+    "consentData": "Ich bin einverstanden, dass KEC meine Daten zur Prüfung meiner Bewerbung verarbeitet (gemäß kamerunischem Recht und DSGVO-Grundsätzen).",
+    "consentMarketing": "Ich möchte Neuigkeiten von KEC erhalten (E-Mail, SMS, WhatsApp).",
+    "submit": "Mein Ticket ziehen"
+  },
+  "ticket": {
+    "label": "Ticket",
+    "title": "Ihr Platz ist reserviert, {name}!",
+    "text": "Im Warteraum sind jetzt {total} Personen. Nur {seats} Plätze in der Pilotkohorte: Das Team prüft jede Karte sorgfältig.",
+    "next": "Wir melden uns per E-Mail und WhatsApp. Laden Sie inzwischen jemanden ein, der auch ein Projekt hat.",
+    "shareWhatsapp": "Per WhatsApp einladen",
+    "shareText": "Ich habe gerade mein Ticket im KEC-Warteraum gezogen, um mein Unternehmen zu gründen. Komm auf einen Kaffee vorbei: {url}"
+  },
+  "acquisition": {
+    "linkedin": "LinkedIn",
+    "wordOfMouth": "Mundpropaganda",
+    "facebook": "Facebook",
+    "fieldAgent": "Ein KEC-Außendienstmitarbeiter",
+    "whatsapp": "WhatsApp",
+    "tiktok": "TikTok",
+    "instagram": "Instagram",
+    "event": "Eine Veranstaltung",
+    "other": "Sonstiges"
+  },
+  "sectors": {
+    "agri": "Landwirtschaft & Verarbeitung",
+    "commerce": "Handel",
+    "tech": "Digital & Tech",
+    "services": "Unternehmensdienstleistungen",
+    "transport": "Transport & Logistik",
+    "construction": "Bauwesen",
+    "health": "Gesundheit & Wohlbefinden",
+    "education": "Bildung & Schulung",
+    "craft": "Handwerk",
+    "fashion": "Mode & Textil",
+    "food": "Gastronomie",
+    "other": "Sonstiges"
+  },
+  "stages": {
+    "idea": "Es ist eine Idee",
+    "informal": "Ich arbeite bereits (informell)",
+    "existing": "Bestehendes Unternehmen strukturieren"
+  },
+  "needs": {
+    "legal": "Recht",
+    "tax": "Steuern",
+    "accounting": "Buchhaltung",
+    "funding": "Finanzierung",
+    "hr": "Personal",
+    "contracts": "Verträge",
+    "ip": "Geistiges Eigentum",
+    "commercial": "Vertrieb"
+  },
+  "legalForms": {
+    "ei": "Einzelunternehmen",
+    "sarlu": "Ein-Personen-SARL",
+    "sarl": "SARL (ähnl. GmbH)",
+    "sas": "SAS",
+    "sasu": "SASU",
+    "sa": "SA (ähnl. AG)",
+    "gie": "GIE (Interessengemeinschaft)"
+  },
+  "legalFormsInfo": {
+    "ei": "Einfach und schnell, aber Sie haften mit Ihrem Privatvermögen.",
+    "sarlu": "Eine SARL mit nur einem Gesellschafter: Haftung auf die Einlage beschränkt.",
+    "sarl": "Die häufigste Form für KMU, mit einem oder mehreren Gesellschaftern.",
+    "sas": "Große Satzungsfreiheit, bei Investoren beliebt.",
+    "sasu": "Die SAS mit einem einzigen Aktionär.",
+    "sa": "Für größere Projekte; aufwendigere Formalitäten.",
+    "gie": "Zusammenschluss, um Mittel zwischen Unternehmen zu bündeln."
+  },
+  "documents": {
+    "cni": "Personalausweis oder Reisepass",
+    "locationPlan": "Lageplan des Firmensitzes",
+    "photo": "Passfotos",
+    "criminalRecord": "Führungszeugnis",
+    "leaseContract": "Mietvertrag / Wohnbescheinigung",
+    "other": "Sonstiges Dokument",
+    "statutes": "Satzungsentwurf (von KEC erstellt)",
+    "hint": {
+      "cni": "Vorder- und Rückseite, gut lesbar. Ein Handyfoto genügt.",
+      "locationPlan": "Eine Skizze oder ein Kartenausschnitt mit Orientierungspunkten.",
+      "photo": "Heller Hintergrund, Passformat.",
+      "criminalRecord": "Nicht älter als 3 Monate.",
+      "leaseContract": "Oder eine Bescheinigung des Eigentümers.",
+      "other": "Alles, was für Ihre Akte nützlich ist."
+    }
+  },
+  "upload": {
+    "add": "Hochladen",
+    "replace": "Ersetzen",
+    "done": "{name} ist sicher in Ihrem Tresor angekommen.",
+    "limits": "Formate: JPG, PNG, WEBP, PDF · max. {size} MB · Lesbarkeit wird vom Team geprüft."
+  },
+  "status": {
+    "dossier": {
+      "draft": "Entwurf",
+      "submitted": "Eingereicht",
+      "in_review": "In Bearbeitung",
+      "docs_requested": "Unterlagen angefordert",
+      "filed": "Eingereicht bei Behörde",
+      "created": "Unternehmen gegründet"
+    },
+    "doc": {
+      "uploaded": "Zu prüfen",
+      "verified": "Geprüft",
+      "rejected": "Neu einreichen"
+    },
+    "waitlist": {
+      "pending": "Wartend",
+      "shortlisted": "Vorausgewählt",
+      "selected": "Ausgewählt (110)",
+      "rejected": "Nicht ausgewählt"
+    },
+    "payment": {
+      "succeeded": "Bezahlt",
+      "pending": "In Bearbeitung",
+      "awaiting_transfer": "Überweisung erwartet",
+      "failed": "Fehlgeschlagen"
+    }
+  },
+  "milestones": {
+    "diagnostic": "Diagnose",
+    "training": "Intensivschulung",
+    "structuring": "Rechtliche Strukturierung",
+    "formalisation": "Gründung / Formalisierung",
+    "finalDocs": "Finale Dokumente",
+    "postTraining": "Schulung nach Gründung",
+    "certification": "Zertifizierung"
+  },
+  "manu": {
+    "title": "Gespräch mit Manu AI",
+    "open": "Mit Manu, der Empfangsdame, sprechen",
+    "dragHint": "Ziehen Sie mich, um mich zu verschieben · Doppelklick auf die Kopfzeile setzt mich zurück",
+    "role": "Empfang · online",
+    "teaserTitle": "Akwaba!",
+    "teaser": "Ich bin Manu. Eine Frage? Ich bin da.",
+    "placeholder": "Ihre Nachricht…",
+    "send": "Senden",
+    "typing": "Manu schreibt…",
+    "restart": "Neues Gespräch",
+    "escalated": "An einen Menschen im Team weitergeleitet · Antwort innerhalb von 4 Geschäftsstunden",
+    "disclaimer": "Manu gibt allgemeine Informationen, niemals individuelle Rechtsberatung.",
+    "unavailable": "Ich kann gerade nicht antworten. Ihr Ablauf geht normal weiter, und Sie erreichen einen Berater über die Leiste unten am Bildschirm.",
+    "mic": "Mit Manu sprechen",
+    "micStop": "Diktat beenden",
+    "listening": "Ich höre zu…",
+    "micUnsupported": "Spracheingabe ist in diesem Browser nicht verfügbar.",
+    "voiceOn": "Antworten vorlesen",
+    "voiceOff": "Stimme aus",
+    "voiceUnsupported": "Vorlesen ist auf diesem Gerät nicht verfügbar."
+  },
+  "consultant": {
+    "barAria": "Mit einem Berater sprechen",
+    "barQuestion": "Möchten Sie mit einem unserer Berater sprechen?",
+    "barCta": "Hier klicken",
+    "eyebrow": "KEC-Berater",
+    "lead": "Ein echter Mensch, der das Terrain kennt. Wählen Sie Berater und Termin und zahlen Sie ganz einfach.",
+    "hour": "Stunde",
+    "who": "Mit wem?",
+    "when": "Wann?",
+    "what": "Wie lange und worüber?",
+    "duration": "Dauer",
+    "topic": "Thema",
+    "topicPh": "z. B. Gesellschaftervertrag, SARL oder SAS, Gewerbemiete…",
+    "defaultTopic": "Beratungsgespräch",
+    "pickSlot": "Wählen Sie einen Tag und einen freien Termin.",
+    "summary": "{date} um {slot} · {duration} Min.",
+    "bookPay": "Buchen und bezahlen",
+    "payTitle": "Zahlung der Beratung",
+    "payLabel": "Beratung",
+    "confirmedTitle": "Gebucht!",
+    "confirmed": "Ihr Termin mit {name} ist am {date} um {slot} bestätigt. Sie erhalten eine Erinnerung per SMS und WhatsApp.",
+    "speciality": {
+      "corporate": "Gesellschaftsrecht",
+      "tax": "Steuern",
+      "investment": "Investitionen & Diaspora"
+    },
+    "request": {
+      "title": "Was können wir für Sie tun?",
+      "lead": "Sagen Sie uns kurz, was Sie beschäftigt; ein Berater meldet sich in Kürze.",
+      "name": "Vor- und Nachname",
+      "country": "Land",
+      "phone": "Telefon oder WhatsApp",
+      "email": "E-Mail",
+      "need": "Ihr Anliegen, in wenigen Zeilen",
+      "needPh": "Z. B. Ich möchte mit meiner Schwester aus Brüssel ein Geschäft in Dakar eröffnen…",
+      "channel": "Wie möchten Sie kontaktiert werden?",
+      "channels": {
+        "whatsapp": "WhatsApp",
+        "call": "Anruf",
+        "email": "E-Mail"
+      },
+      "consent": "Ich bin einverstanden, dass KEC diese Angaben nutzt, um mich zu kontaktieren.",
+      "hint": "Antwort eines KEC-Beraters innerhalb von 24 Geschäftsstunden. Der Beratungspreis wird vor jeder Verpflichtung genannt.",
+      "send": "Anfrage senden",
+      "sentTitle": "Danke, {name}!",
+      "sent": "Ein KEC-Berater meldet sich innerhalb von 24 Geschäftsstunden per {channel}. Anfragenummer: {ref}.",
+      "fellowHint": "Sie sind angemeldet: Buchen Sie direkt einen Termin mit dem Berater Ihrer Wahl.",
+      "book": "Berater buchen"
+    }
+  },
+  "kopen": {
+    "title": "Haben Sie Vorschläge, wie wir besser werden können?",
+    "lead": "Hinterlassen Sie hier eine Nachricht. Jedes Wort im Briefkasten wird vom Team gelesen: So wachsen wir gemeinsam.",
+    "category": "Art der Nachricht",
+    "placeholder": "Ihre Idee, Ihre Anmerkung, Ihr Lieblingsmoment…",
+    "contact": "Ihre E-Mail oder Telefonnummer (optional)",
+    "contactHint": "Nur wenn Sie eine Antwort wünschen.",
+    "send": "In den Kasten werfen",
+    "tooShort": "Erzählen Sie uns etwas mehr (mindestens 10 Zeichen).",
+    "thanksTitle": "Danke, angekommen.",
+    "thanks": "Ihre Nachricht liegt im Kasten. Wir lesen sie, versprochen.",
+    "anonymous": "Anonym",
+    "categories": {
+      "idea": "Idee",
+      "feature": "Funktion",
+      "content": "Inhalt",
+      "praise": "Ermutigung",
+      "problem": "Problem",
+      "other": "Sonstiges"
+    }
+  },
+  "login": {
+    "email": "E-Mail",
+    "password": "Passwort",
+    "submit": "Eintreten",
+    "toggle": "Passwort anzeigen / verbergen",
+    "demo": "Demo:",
+    "fill": "Ausfüllen",
+    "notFellow": "Noch kein KEC-Kunde?",
+    "joinWaitlist": "Ziehen Sie Ihr Ticket im Warteraum.",
+    "fellow": {
+      "eyebrow": "Connexion",
+      "title": "Mein Bereich",
+      "lead": "Ihre Akte, Ihr Tresor, Ihre Berater und Ihr Fortschritt an einem Ort.",
+      "quote": "Hundertzehn Kaurimuscheln, hundertzehn Unternehmensgeschichten."
+    },
+    "staff": {
+      "eyebrow": "KEC-Team",
+      "title": "Interner Bereich",
+      "lead": "Akten empfangen, die 110 auswählen, Unternehmern antworten.",
+      "quote": "Hinter jeder Akte steht ein Traum, den man sorgsam trägt."
+    },
+    "investor": {
+      "eyebrow": "Kia",
+      "title": "Der Kanal für Investoren",
+      "lead": "Verfolgen Sie Anmeldungen und Zahlungseingänge live auf Ihrem Handy.",
+      "quote": "Den Baum wachsen sehen, Blatt für Blatt."
+    }
+  },
+  "app": {
+    "fellowSpace": "Mein Bereich",
+    "staffSpace": "KEC-Team",
+    "logout": "Abmelden",
+    "nav": {
+      "dashboard": "Start",
+      "company": "Mein Unternehmen",
+      "vault": "Tresor",
+      "consultant": "Berater",
+      "payments": "Zahlungen",
+      "kopen": "Kopen Mind",
+      "overview": "Überblick",
+      "waitlist": "Warteliste",
+      "dossiers": "Akten",
+      "inbox": "Nachrichten",
+      "appointments": "Termine",
+      "manu": "Manu AI",
+      "team": "Team & Rollen"
+    },
+    "fellowOf": "Fellow #{n} / 110"
+  },
+  "cert": {
+    "month": "Monat {n}",
+    "progress": "Monat {n} von {total}",
+    "until": "Zertifizierung voraussichtlich am {date}",
+    "certified": "KEC-zertifiziert",
+    "pending": "Zertifizierung am Programmende",
+    "pendingLong": "Zertifizierungs-Abzeichen nach den 6 Monaten"
+  },
+  "fellow": {
+    "dash": {
+      "eyebrow": "Connexion · Ihr Bereich",
+      "hello": "Akwaba, {name}!",
+      "lead": "So steht es um Ihr Abenteuer. Wir gehen gemeinsam voran, Perle für Perle.",
+      "company": "Mein Unternehmen",
+      "assignee": "Ihre Ansprechpartnerin: {name}",
+      "noCompany": "Sie haben Ihre Akte noch nicht begonnen.",
+      "openDossier": "Meine Akte öffnen",
+      "vault": "Tresor",
+      "vaultLead": "Ihre Dokumente, verschlüsselt und immer griffbereit.",
+      "actionNeeded": "Handlung erforderlich",
+      "openVault": "Tresor öffnen",
+      "consultant": "Berater",
+      "noBooking": "Kein Termin geplant.",
+      "book": "Berater buchen",
+      "payments": "Zahlungen",
+      "paidOf": "von {total} bezahlt",
+      "history": "Verlauf ansehen",
+      "kopen": "Eine Idee, um KEC zu verbessern? Werfen Sie sie in Kopen Mind.",
+      "celebrate": "Kaurimuscheln regnen lassen",
+      "upcomingCount": "{n} bevorstehende Termine",
+      "balanceLeft": "Noch {amount} zu zahlen",
+      "unread": "{n} ungelesen",
+      "messages": "Nachrichten"
+    }
+  },
+  "company": {
+    "eyebrow": "Mein Unternehmen",
+    "title": "Mein Unternehmen gründen",
+    "steps": {
+      "place": "Land & Stadt",
+      "form": "Rechtsform",
+      "details": "Formular",
+      "docs": "Unterlagen",
+      "review": "Absenden"
+    },
+    "country": "Land",
+    "city": "Stadt",
+    "placeLead": "Wo möchten Sie Ihr Unternehmen gründen? Kamerun macht den Anfang; weitere OHADA-Länder folgen.",
+    "formLead": "Wählen Sie eine Rechtsform. Das Gesamtangebot erscheint sofort, vor allen sensiblen Daten.",
+    "formDisclaimer": "Allgemeine Informationen. Welche Form zu Ihrer Situation passt, klärt ein Berater mit Ihnen.",
+    "docsLead": "Fotografieren oder laden Sie Ihre Unterlagen hoch. Das Team prüft die Lesbarkeit und meldet sich, falls etwas fehlt.",
+    "fields": {
+      "companyName": "Firmenname",
+      "sector": "Branche",
+      "activity": "Haupttätigkeit (Unternehmensgegenstand)",
+      "address": "Adresse des Firmensitzes",
+      "capital": "Stammkapital (FCFA)",
+      "capitalHint": "Beliebiger Betrag; wir erklären die üblichen Praktiken.",
+      "manager": "Geschäftsführer·in",
+      "employees": "Geplante Mitarbeiterzahl",
+      "revenue": "Umsatz (Spanne)",
+      "partners": "Gesellschafter und Anteile",
+      "partnerName": "Name des Gesellschafters",
+      "addPartner": "Gesellschafter hinzufügen"
+    },
+    "payer": {
+      "title": "Wer zahlt?",
+      "self": "Ich zahle selbst",
+      "other": "Ein Angehöriger zahlt für mich",
+      "name": "Name des Zahlenden",
+      "relation": "Beziehung (Eltern, Freund…)"
+    },
+    "review": {
+      "place": "Ort",
+      "form": "Rechtsform",
+      "docs": "Hochgeladene Unterlagen",
+      "submittedAt": "Zuletzt eingereicht",
+      "lead": "Mit dem Absenden geht Ihre Akte an Ihre KEC-Ansprechpartnerin. Sie verfolgen jeden Schritt hier, mit voraussichtlichen Terminen."
+    },
+    "submit": "Akte an KEC senden",
+    "resubmit": "Akte aktualisieren",
+    "submitted": "Akte gesendet! Ihre Ansprechpartnerin meldet sich in Kürze.",
+    "titleDossier": "Meine Unternehmensakte",
+    "titleEdit": "Meine Akte bearbeiten",
+    "backToDossier": "Zurück zur Akte"
+  },
+  "quote": {
+    "title": "Ihr Gesamtangebot",
+    "total": "Gesamt",
+    "note": "Richtwerte inkl. Verwaltungsgebühren. Keine Überraschungen: Das Angebot wird vor der Zahlung bestätigt.",
+    "lines": {
+      "kecFee": "KEC-Begleitung",
+      "registry": "Register- & RCCM-Gebühren",
+      "notary": "Notar / Registrierung",
+      "publication": "Amtliche Bekanntmachung"
+    }
+  },
+  "vault": {
+    "eyebrow": "Juristischer Tresor",
+    "title": "Ihre Rechtsgrundlage, sicher verwahrt",
+    "lead": "Ausweise, Satzung, RCCM, Verträge: Alles ist verschlüsselt und jederzeit abrufbar.",
+    "filters": {
+      "all": "Alle",
+      "mine": "Meine Unterlagen",
+      "kec": "Von KEC erstellt"
+    },
+    "add": "Dokument hinzufügen",
+    "empty": "Hier ist noch nichts.",
+    "file": "Datei",
+    "uploaded": "Hochgeladen am",
+    "status": "Status",
+    "reason": "Grund",
+    "confirmDelete": "„{name}“ aus dem Tresor löschen?",
+    "deleted": "Dokument gelöscht."
+  },
+  "payment": {
+    "amount": "Betrag",
+    "method": "Zahlungsart",
+    "bank": "Banküberweisung",
+    "phone": "Mobile-Money-Nummer",
+    "phoneHint": "Sie erhalten auf dieser Nummer eine Bestätigungsanfrage.",
+    "pay": "{amount} bezahlen",
+    "secure": "Sichere Zahlung · sofortige Quittung · Zahler ≠ Begünstigter möglich",
+    "confirmOnPhone": "Bestätigen Sie auf Ihrem Handy",
+    "confirmHint": "Geben Sie Ihre PIN ein. Schließen Sie dieses Fenster nicht.",
+    "transferTitle": "Überweisungsdaten",
+    "beneficiary": "Empfänger",
+    "reference": "Anzugebende Referenz",
+    "transferHint": "Ihre Zahlung wird bei Eingang bestätigt (24-72 Std.). Bitte die Referenz angeben.",
+    "success": "Zahlung erhalten, danke!",
+    "receipt": "Quittung Nr. {n} · Referenz {ref}",
+    "failed": "Die Zahlung ist fehlgeschlagen. Versuchen Sie es erneut oder wählen Sie eine andere Zahlungsart.",
+    "card": "Bankkarte",
+    "phoneHintDemo": "Demo: eine Nummer, die auf 00 endet, simuliert eine fehlgeschlagene Zahlung."
+  },
+  "payments": {
+    "eyebrow": "Zahlungen",
+    "title": "Meine Zahlungen",
+    "history": "Verlauf",
+    "empty": "Noch keine Zahlungen.",
+    "program": "Programm SCALE 110",
+    "balance": "Offener Betrag",
+    "fullyPaid": "Programm vollständig bezahlt. Danke!",
+    "purpose": {
+      "program": "Programm SCALE 110",
+      "consultant": "Beratung"
+    },
+    "planLead": "Programm SCALE 110: {total}, zahlbar in zwei Raten.",
+    "installments": {
+      "deposit": "Anzahlung (50 %)",
+      "balance": "Restbetrag (50 %)",
+      "partial": "Teilzahlung"
+    },
+    "installmentsHint": {
+      "deposit": "Bei der Auswahl, um Ihren Platz zu bestätigen.",
+      "balance": "Vor der Formalisierung Ihres Unternehmens."
+    },
+    "pendingTransfer": "Überweisung von {amount} wartet auf Bestätigung durch das Team.",
+    "receipt": "Beleg",
+    "fullBalance": "Gesamter Restbetrag",
+    "installment": "Rate",
+    "chooseAmount": "Was möchten Sie bezahlen?",
+    "payBalance": "Restbetrag bezahlen",
+    "demoHint": "Demomodus: jede Mobile-Money-Nummer funktioniert, außer solche, die auf 00 enden (simulierter Fehlschlag). Eine Überweisung bleibt „ausstehend“, bis das KEC-Team sie bestätigt."
+  },
+  "bo": {
+    "eyebrow": "KEC-Team",
+    "overview": "Überblick",
+    "kpi": {
+      "waitlist": "Warteliste",
+      "goal": "Ziel {n}",
+      "selected": "Ausgewählte Fellows",
+      "shortlisted": "{n} vorausgewählt",
+      "revenue": "Eingenommen",
+      "payments": "{n} Zahlungen",
+      "diaspora": "Anteil Diaspora"
+    },
+    "tasks": {
+      "docs": "Unterlagen zu prüfen",
+      "tickets": "offene Anfragen",
+      "suggestions": "neue Vorschläge",
+      "seats": "freie Plätze",
+      "threads": "Nachrichten zu bearbeiten",
+      "bookings": "Termine diese Woche",
+      "transfers": "Überweisungen zu bestätigen"
+    },
+    "signups30": "Anmeldungen · letzte 30 Tage",
+    "thisWeek": "{n} diese Woche",
+    "today": "{n} heute",
+    "channels": "Akquisekanäle",
+    "cities": "Gründungsstädte",
+    "liveSignup": "Neue Anmeldung: {name} ({city})",
+    "wl": {
+      "title": "Warteliste & Auswahl",
+      "lead": "Filterphase: Wählen Sie die 110 Fellows der Pilotkohorte.",
+      "seatsTaken": "Plätze vergeben",
+      "search": "Name, Stadt, Projekt suchen…",
+      "sort": "Sortieren",
+      "sortScore": "Bester Score",
+      "sortRecent": "Neueste",
+      "sortOldest": "Zuerst angemeldet",
+      "cols": {
+        "name": "Bewerber·in",
+        "project": "Projekt",
+        "channel": "Kanal",
+        "score": "Score",
+        "status": "Status"
+      },
+      "shortlist": "Vorauswählen",
+      "select": "Auswählen",
+      "reject": "Ablehnen",
+      "registered": "Angemeldet am",
+      "empty": "Keine Ergebnisse.",
+      "updated": "{name}: {status}"
+    },
+    "dossiers": {
+      "title": "Gründungsakten",
+      "empty": "Keine Akten.",
+      "status": "Aktenstatus",
+      "assignee": "Ansprechpartner",
+      "certify": "Konto zertifizieren",
+      "uncertify": "Zertifizierung entziehen",
+      "form": "Formular",
+      "documents": "Unterlagen",
+      "verify": "Bestätigen",
+      "reject": "Ablehnen",
+      "reasonPrompt": "Ablehnungsgrund (für den Unternehmer sichtbar):",
+      "saved": "Akte aktualisiert.",
+      "lead": "{n} betreute Akten · {urgent} erfordern eine Aktion",
+      "search": "Fellow, Unternehmen, Referenz suchen…",
+      "allAssignees": "Alle Ansprechpersonen",
+      "unassigned": "Nicht zugewiesen",
+      "toReview": "Unterlagen zu prüfen",
+      "diaspora": "Diaspora · {country}",
+      "requestDoc": "Unterlage anfordern",
+      "messages": "Dem Fellow schreiben",
+      "tabs": {
+        "dossier": "Akte",
+        "documents": "Unterlagen",
+        "milestones": "Schritte",
+        "bookings": "Termine",
+        "payments": "Zahlungen",
+        "notes": "Notizen"
+      },
+      "reviewedBy": "geprüft von {name}",
+      "milestonesLead": "Haken Sie einen Schritt ab, sobald er erreicht ist: der Fellow sieht es sofort in seiner Akte.",
+      "inProgress": "in Bearbeitung",
+      "notes": "Interne Notizen",
+      "notePh": "Notiz, nur für das Team sichtbar…",
+      "conversations": "Verknüpfte Unterhaltungen",
+      "whichDoc": "Welche Unterlage?",
+      "requestHint": "Die Akte wechselt zu „Unterlagen angefordert“ und der Fellow erhält Ihre Nachricht.",
+      "requestTemplate": "Hallo {name}, um Ihre Akte voranzubringen benötigen wir folgende Unterlage: ",
+      "requested": "Anfrage an den Fellow gesendet."
+    },
+    "inbox": {
+      "title": "Nachrichten",
+      "tickets": "Anfragen",
+      "consultant": "Berater",
+      "new": "Neu",
+      "replyPh": "Ihre Antwort an den Unternehmer…",
+      "reply": "Antworten",
+      "replied": "Antwort gesendet.",
+      "markRead": "Als gelesen markieren",
+      "plan": "Zur Roadmap hinzufügen",
+      "reasons": {
+        "tax": "Steuern",
+        "social": "Arbeitsrecht",
+        "criminal": "Strafrecht",
+        "litigation": "Streitfall",
+        "urgent": "Dringend",
+        "personalAdvice": "Individuelle Beratung",
+        "humanRequested": "Mensch gewünscht",
+        "notUnderstood": "Nicht verstanden",
+        "booking": "Buchung",
+        "consultationRequest": "Beratungsanfrage"
+      },
+      "conversations": "Unterhaltungen",
+      "search": "Name, Betreff, Wort suchen…",
+      "allKinds": "Alle Themen",
+      "everyone": "Ganzes Team",
+      "mine": "Meine",
+      "oneFellow": "Fellow",
+      "breached": "{n} überfällig",
+      "openedAt": "Eröffnet am {date}",
+      "priorityLabel": "Priorität",
+      "statusLabel": "Status",
+      "addTag": "+ Tag",
+      "context": "Kontext",
+      "visitor": "Besucher (nicht angemeldet)",
+      "residence": "Wohnsitz",
+      "paid": "Bezahlt",
+      "nextBookings": "Nächste Termine",
+      "noContext": "Keine Akte mit dieser Unterhaltung verknüpft.",
+      "planned": "geplant"
+    },
+    "pipeline": {
+      "title": "Gründungs-Pipeline",
+      "leadTime": "Ø {n} Tage von Einreichung bis Gründung",
+      "noLead": "Noch keine abgeschlossene Gründung",
+      "certified": "{n} zertifizierte Konten"
+    },
+    "appointments": {
+      "title": "Beratertermine",
+      "lead": "Alle von Fellows angefragten Termine: mit wem, wann, wie lange, zu welchem Thema.",
+      "kpi": {
+        "week": "Diese Woche",
+        "today": "{n} heute",
+        "awaiting": "Zahlung ausstehend",
+        "needSummary": "{n} Zusammenfassung(en) zu schreiben",
+        "hours": "Beratungsstunden",
+        "completed": "{n} abgeschlossen",
+        "revenue": "Beratungsumsatz"
+      },
+      "byConsultant": "Nach Berater",
+      "byTopic": "Nach Fachgebiet",
+      "views": {
+        "upcoming": "Bevorstehend",
+        "past": "Vergangen",
+        "all": "Alle"
+      },
+      "search": "Fellow, Thema suchen…",
+      "allConsultants": "Alle Berater",
+      "empty": "Kein Termin für diese Filter.",
+      "complete": "Zusammenfassung",
+      "reassign": "Neu zuweisen",
+      "openDossier": "Akte öffnen",
+      "modal": {
+        "complete": "Mit Zusammenfassung abschließen",
+        "cancel": "Termin stornieren",
+        "reassign": "Berater wechseln"
+      },
+      "summaryHint": "Für den Fellow in seinem Verlauf sichtbar. Getroffene Entscheidungen, nächste Schritte.",
+      "cancelHint": "Stornierung durch KEC: {amount} werden dem Fellow vollständig gutgeschrieben.",
+      "confirm": "Bestätigen",
+      "saved": "Termin aktualisiert."
+    },
+    "payments": {
+      "title": "Zahlungen",
+      "month": "{amount} in 30 Tagen",
+      "consultations": "Beratungen",
+      "awaiting": "Erwartete Überweisungen",
+      "failed": "Fehlgeschlagen",
+      "toReconcile": "Überweisungen abzugleichen",
+      "reconcileLead": "Prüfen Sie den Kontoauszug und bestätigen Sie: der Fellow erhält seinen Beleg sofort.",
+      "confirm": "Bestätigen",
+      "confirmed": "Überweisung {ref} bestätigt.",
+      "failPrompt": "Grund (für den Fellow sichtbar):",
+      "byMethod": "Nach Zahlungsart",
+      "search": "Zahler, Referenz, Belegnr.…",
+      "cols": {
+        "date": "Datum",
+        "payer": "Zahler",
+        "purpose": "Zweck",
+        "method": "Zahlungsart",
+        "amount": "Betrag",
+        "status": "Status",
+        "ref": "Referenz"
+      },
+      "simulated": "simulierte Zahlung",
+      "totalPaid": "Gesamt eingenommen"
+    },
+    "manu": {
+      "lead": "Alles, was auf dem Assistenten passiert: Volumen, Eskalationen, Sprachen, Einstellungen und Wissensbasis, ohne Neudeployment.",
+      "tabs": {
+        "report": "Bericht",
+        "settings": "Einstellungen",
+        "knowledge": "Wissensbasis",
+        "logs": "Gesprächsprotokoll"
+      },
+      "period": "Zeitraum",
+      "days": "Tage",
+      "kpi": {
+        "messages": "Empfangene Nachrichten",
+        "sessions": "{n} Unterhaltungen",
+        "autonomous": "Von Manu gelöst",
+        "understood": "{n} % verstanden",
+        "escalated": "An einen Menschen eskaliert",
+        "escalationRate": "{n} % der Nachrichten",
+        "humanResponse": "Ø menschliche Antwortzeit",
+        "slaOk": "Ziel < 4 h"
+      },
+      "volume": "Volumen pro Tag",
+      "volumeHint": "Antwort in Ø {ms} ms · {fellow} % der Nachrichten stammen von angemeldeten Fellows",
+      "topIntents": "Meistgefragte Themen",
+      "escalations": "Eskalationsgründe",
+      "languages": "Sprachen",
+      "unanswered": "Nicht verstandene Nachrichten",
+      "unansweredHint": "Fügen Sie in der Wissensbasis Schlüsselwörter oder eine Absicht hinzu, um sie abzudecken.",
+      "saved": "Einstellungen veröffentlicht (Version {v}).",
+      "kbSaved": "Wissensbasis aktualisiert.",
+      "s": {
+        "identity": "Identität",
+        "displayName": "Anzeigename",
+        "tone": "Ton",
+        "tones": {
+          "warm": "Herzlich",
+          "formal": "Formell",
+          "concise": "Knapp"
+        },
+        "greeting": "Begrüßung ({lang})",
+        "greetingHint": "Leer lassen für die Standardnachricht. {'{name}'} wird durch den Vornamen ersetzt.",
+        "guardrails": "Leitplanken",
+        "guardrailsLead": "Manu gibt nie individuelle Rechtsberatung. Wählen Sie die Themen, die eine Übergabe an einen Menschen auslösen.",
+        "extraKeywords": "Zusätzliche sensible Schlüsselwörter",
+        "extraKeywordsHint": "Durch Kommas getrennt. Eine Nachricht, die sie enthält, wird dem Team übergeben.",
+        "misses": "Missverständnisse vor Übergabe",
+        "missesHint": "Nach dieser Anzahl nicht verstandener Antworten übergibt Manu an einen Menschen.",
+        "sla": "Menschliche Antwortzeit (h)",
+        "slaHint": "Das Lastenheft sieht 4 Geschäftsstunden vor. Darüber hinaus wird die Unterhaltung als überfällig markiert.",
+        "behaviour": "Verhalten",
+        "quickReplies": "Schnellantworten anbieten",
+        "teaser": "Einladungsblase auf der Startseite",
+        "offHours": "Außerhalb der Geschäftszeiten auf Öffnungszeiten hinweisen",
+        "degraded": "Eingeschränkter Modus (Manu nicht verfügbar, Entschuldigungsnachricht)",
+        "hours": "Geschäftszeiten",
+        "retention": "Aufbewahrung der Gespräche (Tage)",
+        "retentionHint": "Ältere Protokolle werden automatisch gelöscht (§7).",
+        "updatedBy": "Zuletzt veröffentlicht von {name}, {when}",
+        "note": "Versionshinweis",
+        "notePh": "z. B.: Zoll-Schlüsselwörter ergänzt…",
+        "discard": "Verwerfen",
+        "publish": "Veröffentlichen",
+        "history": "Versionsverlauf"
+      },
+      "k": {
+        "intents": "Absichten",
+        "lead": "Jede Absicht bündelt Schlüsselwörter und eine Antwort pro Sprache. Ihre Änderungen gelten sofort.",
+        "keywords": "Schlüsselwörter",
+        "disabled": "deaktiviert",
+        "edited": "bearbeitet",
+        "rules": "Mitgelieferte Eskalationsregeln",
+        "baseKeywords": "Basis-Schlüsselwörter",
+        "extraKeywords": "Ergänzte Schlüsselwörter",
+        "extraHint": "Durch Kommas getrennt.",
+        "response": "Antwort ({lang})",
+        "responseHint": "Leer lassen, um zur mitgelieferten Antwort zurückzukehren.",
+        "disable": "Diese Absicht deaktivieren",
+        "pick": "Wählen Sie links eine Absicht."
+      },
+      "l": {
+        "search": "Nachrichten durchsuchen…",
+        "escalatedOnly": "Nur eskalierte",
+        "when": "Wann",
+        "who": "Wer",
+        "message": "Nachricht",
+        "intent": "Absicht",
+        "page": "Seite",
+        "fellow": "Fellow",
+        "visitor": "Besucher"
+      },
+      "intents": {
+        "greeting": "Begrüßung",
+        "thanks": "Dank",
+        "human": "Mensch gewünscht",
+        "program": "Programm SCALE 110",
+        "waitlist": "Warteliste",
+        "legalForms": "Rechtsformen",
+        "documents": "Erforderliche Unterlagen",
+        "price": "Preise",
+        "payment": "Zahlung",
+        "timeline": "Fristen",
+        "diaspora": "Diaspora",
+        "vault": "Tresor",
+        "whatIsKec": "Was ist KEC",
+        "country": "Abgedeckte Länder",
+        "kopen": "Kopen Mind",
+        "fallback": "Nicht verstanden",
+        "escalate": "Eskalation",
+        "transfer": "Übergabe an Mensch",
+        "consultation": "Beratungsanfrage"
+      }
+    }
+  },
+  "kia": {
+    "live": "Live",
+    "hello": "Sehr geehrter Investor, hallo {name}.",
+    "lead": "Hier ist der Puls von KEC in Echtzeit: wer den Warteraum betritt, und was eingeht.",
+    "waitlist": "Anmeldungen Warteliste",
+    "today": "heute",
+    "goal": "Ziel vor dem Start: {n}",
+    "revenue": "Eingenommen",
+    "potential": "Potenzial Pilotkohorte: {amount}",
+    "fellows": "Fellows ausgewählt",
+    "payments": "Zahlungen erhalten",
+    "diaspora": "Diaspora",
+    "week": "Anmeldungen diese Woche",
+    "trend": "Anmeldungen · 30 Tage",
+    "channels": "Woher kommen sie?",
+    "feed": "Aktivitäten",
+    "enableNotif": "Benachrichtigungen aktivieren",
+    "feedSignup": "{name} ({city}, aus {residence}) ist dem Warteraum beigetreten",
+    "feedPayment": "Zahlung erhalten: {amount} via {method}",
+    "newSignup": "Neue Anmeldung: {name} · {city}",
+    "newPayment": "Geld eingegangen: {amount}",
+    "newFellow": "{name} gehört jetzt zu den 110!",
+    "mockNote": "Demo-Modus: Simulierte Anmeldungen treffen alle paar Sekunden ein. Öffnen Sie den Warteraum in einem anderen Tab, um Ihre eigenen Anmeldungen hier zu sehen.",
+    "fullName": "Kia · KEC Invest Again"
+  },
+  "validation": {
+    "required": "Pflichtfeld.",
+    "email": "Ungültige E-Mail-Adresse.",
+    "phone": "Ungültige Nummer (z. B. +237 6XX XXX XXX).",
+    "consent": "Ihre Zustimmung ist für die Prüfung Ihrer Bewerbung nötig.",
+    "city": "Wählen Sie eine Stadt.",
+    "legalForm": "Wählen Sie eine Rechtsform.",
+    "shares": "Die Anteile müssen 100 % ergeben (derzeit {n} %)."
+  },
+  "errors": {
+    "generic": "Hoppla, etwas ist schiefgelaufen. Bitte versuchen Sie es gleich noch einmal.",
+    "network": "Instabile Verbindung. Prüfen Sie Ihr Netz und versuchen Sie es erneut.",
+    "invalidCredentials": "E-Mail oder Passwort falsch.",
+    "sessionExpired": "Ihre Sitzung ist abgelaufen, bitte melden Sie sich erneut an.",
+    "alreadyRegistered": "Diese Adresse ist bereits im Warteraum. Ihr Platz ist reserviert!",
+    "fileTooLarge": "Datei zu groß.",
+    "fileType": "Format nicht unterstützt (JPG, PNG, WEBP oder PDF).",
+    "invalidPhone": "Ungültige Mobile-Money-Nummer.",
+    "cohortFull": "Alle 110 Plätze sind vergeben. Geben Sie zuerst einen Platz frei.",
+    "alreadyMember": "Diese Adresse gehört bereits zum Team.",
+    "lastAdmin": "Nicht möglich: mindestens ein aktiver Administrator ist erforderlich.",
+    "accountDisabled": "Dieses Konto wurde deaktiviert. Wenden Sie sich an einen KEC-Administrator."
+  },
+  "notFound": {
+    "text": "Die Kaurimuscheln haben diese Seite nicht gefunden.",
+    "cta": "Zurück nach Hause"
+  },
+  "inbox": {
+    "eyebrow": "Nachrichten",
+    "title": "Meine Nachrichten",
+    "lead": "Ihr Austausch mit dem KEC-Team, Ihren Beratern und Manu. Menschliche Antwort innerhalb von {h} Geschäftsstunden.",
+    "new": "Neue Nachricht",
+    "filters": {
+      "all": "Alle",
+      "open": "Offen",
+      "closed": "Geschlossen"
+    },
+    "kinds": {
+      "manu": "Manu AI",
+      "consultant": "Berater",
+      "dossier": "Meine Akte",
+      "payment": "Zahlung",
+      "support": "Support",
+      "consultation": "Beratungsanfrage"
+    },
+    "status": {
+      "open": "Antwort ausstehend",
+      "pending": "Antwort gesendet",
+      "closed": "Geschlossen"
+    },
+    "priority": {
+      "normal": "Normal",
+      "high": "Hoch",
+      "urgent": "Dringend"
+    },
+    "handledBy": "Betreut von {name}",
+    "unassignedFellow": "Das Team antwortet in Kürze",
+    "pickOne": "Wählen Sie links eine Unterhaltung oder schreiben Sie uns.",
+    "empty": "Noch keine Unterhaltung. Schreiben Sie uns, wir antworten innerhalb von 4 Geschäftsstunden.",
+    "kindLabel": "Thema",
+    "subject": "Betreff",
+    "message": "Ihre Nachricht",
+    "composeHint": "Beschreiben Sie Ihre Frage in wenigen Zeilen: je präziser, desto schneller die Antwort.",
+    "created": "Nachricht gesendet. Wir melden uns sehr bald.",
+    "send": "Senden",
+    "replyPh": "Schreiben Sie Ihre Antwort…",
+    "notePh": "Interne Notiz, für den Fellow unsichtbar…",
+    "internalNote": "Interne Notiz",
+    "addNote": "Notiz hinzufügen",
+    "hint": "Enter zum Senden · Umschalt + Enter für eine neue Zeile",
+    "closedNotice": "Unterhaltung geschlossen. Schreiben Sie, um sie wieder zu öffnen."
+  },
+  "booking": {
+    "mine": "Meine Termine",
+    "book": "Buchen",
+    "today": "Heute",
+    "join": "Beitreten",
+    "summary": "Zusammenfassung",
+    "refund": {
+      "credit": "{amount} Ihrem Konto gutgeschrieben",
+      "refund": "Erstattung von {amount}"
+    },
+    "cancelledReason": "Grund: {reason}",
+    "mode": {
+      "visio": "Videogespräch",
+      "phone": "Telefon",
+      "office": "Im KEC-Büro (Douala)"
+    },
+    "modeLabel": "Format",
+    "notesLabel": "Hinweise für den Berater",
+    "notesHint": "Kontext, bereits vorhandene Unterlagen, konkrete Fragen… (optional)",
+    "status": {
+      "awaiting_payment": "Zahlung ausstehend",
+      "confirmed": "Bestätigt",
+      "completed": "Abgeschlossen",
+      "cancelled": "Storniert"
+    },
+    "statUpcoming": "Bevorstehend",
+    "statDone": "Abgeschlossen",
+    "statHours": "Beratungsstunden",
+    "statSpent": "Investiert",
+    "upcoming": "Nächste Termine",
+    "history": "Verlauf",
+    "noUpcoming": "Kein Termin geplant. Buchen Sie jederzeit einen Slot.",
+    "noHistory": "Kein vergangener Termin.",
+    "payNow": "{amount} bezahlen",
+    "cancel": "Stornieren",
+    "cancelTitle": "Diesen Termin stornieren?",
+    "cancelUnpaid": "Dieser Termin wurde nicht bezahlt: er wird einfach storniert.",
+    "cancelFree": "Mehr als 24 h vor dem Termin: {amount} wird Ihnen vollständig gutgeschrieben.",
+    "cancelLate": "Weniger als 24 h vor dem Termin: 50 % werden einbehalten, {amount} wird gutgeschrieben.",
+    "cancelReason": "Stornierungsgrund",
+    "confirmCancel": "Stornierung bestätigen",
+    "cancelled": "Termin storniert.",
+    "policy": "Kostenlose Stornierung bis {h} h vor dem Termin; danach werden 50 % einbehalten. Das Guthaben kann für Ihre nächste Beratung genutzt werden.",
+    "seeMine": "Meine Termine ansehen"
+  },
+  "dossier": {
+    "yourContact": "Ihre Ansprechperson",
+    "expected": "Gründung voraussichtlich um den {date}",
+    "assigningSoon": "Eine Ansprechperson wird Ihnen in Kürze zugewiesen.",
+    "milestones": "Die sieben Perlen",
+    "progress": "{n} / {total} Schritte erreicht",
+    "doneAt": "erledigt am {date}",
+    "dueAt": "geplant am {date}",
+    "declared": "Angegebene Informationen",
+    "edit": "Meine Akte bearbeiten",
+    "subSector": "Teilbranche",
+    "createdOn": "Akte eröffnet am",
+    "documents": "Unterlagen der Akte",
+    "journal": "Aktenjournal",
+    "write": "An {name} schreiben",
+    "writeTeam": "Dem Team schreiben"
+  },
+  "team": {
+    "title": "Team & Rollen",
+    "lead": "Wer macht was bei KEC: Mitglieder, Rechte pro Rolle, Zwei-Faktor-Authentifizierung und Aktionsprotokoll.",
+    "tabs": {
+      "members": "Mitglieder",
+      "roles": "Rechte pro Rolle",
+      "audit": "Audit-Protokoll"
+    },
+    "roles": {
+      "admin": "Administrator",
+      "manager": "Leitung",
+      "agent": "Sachbearbeitung",
+      "consultant": "Berater",
+      "viewer": "Nur Lesen"
+    },
+    "roleHints": {
+      "admin": "alle Rechte, inkl. Manu und Team",
+      "manager": "steuert Akten, Auswahl und Zahlungen",
+      "agent": "bearbeitet Akten und antwortet den Fellows",
+      "consultant": "eigene Termine und Unterhaltungen",
+      "viewer": "liest ohne zu ändern"
+    },
+    "status": {
+      "active": "Aktiv",
+      "invited": "Eingeladen",
+      "disabled": "Deaktiviert"
+    },
+    "you": "Sie",
+    "lastLogin": "Letzte Anmeldung {when}",
+    "neverLogged": "Nie angemeldet",
+    "invite": "Mitglied einladen",
+    "enable": "Reaktivieren",
+    "disable": "Deaktivieren",
+    "confirmDisable": "Konto von {name} deaktivieren? Die Person kann sich nicht mehr anmelden.",
+    "roleChanged": "{name} ist jetzt {role}.",
+    "invited": "Einladung gesendet.",
+    "matrixLead": "Rechte hängen an der Rolle. Ein Mitglied erbt genau die Rechte seiner Rolle.",
+    "permission": "Recht",
+    "permissions": {
+      "viewWaitlist": "Warteliste einsehen",
+      "selectFellows": "Fellows auswählen",
+      "manageDossiers": "Akten verwalten",
+      "reviewDocuments": "Unterlagen prüfen",
+      "certify": "Konto zertifizieren",
+      "replyMessages": "Nachrichten beantworten",
+      "manageAppointments": "Termine verwalten",
+      "viewPayments": "Zahlungen einsehen",
+      "confirmPayments": "Überweisung bestätigen",
+      "configureManu": "Manu AI konfigurieren",
+      "manageTeam": "Team verwalten",
+      "viewAudit": "Audit-Protokoll lesen"
+    },
+    "auditLead": "Jede sensible Aktion wird protokolliert: wer, wann, was (§12 des Lastenhefts).",
+    "audit": {
+      "when": "Wann",
+      "who": "Wer",
+      "action": "Aktion",
+      "details": "Details"
+    },
+    "form": {
+      "name": "Vollständiger Name",
+      "email": "Geschäftliche E-Mail",
+      "role": "Rolle",
+      "title": "Funktion"
+    },
+    "inviteHint": "Die Person erhält eine E-Mail, um ein Passwort zu setzen und die Zwei-Faktor-Authentifizierung zu aktivieren.",
+    "sendInvite": "Einladung senden"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "KEC — K-Enterprise Counsel",
+  "short_name": "KEC",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1c120c",
+  "theme_color": "#2a1a12",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
