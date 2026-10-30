@@ -17,6 +17,12 @@ const routes = [
     component: () => import('@/layouts/PublicLayout.vue'),
     children: [
       { path: '', name: 'home', component: () => import('@/views/public/HomeView.vue') },
+      { path: 'kec-consulting', name: 'seo-brand', component: () => import('@/views/public/SeoGuideView.vue'), meta: { seoKey: 'brand' } },
+      { path: 'kec-africa', redirect: { name: 'seo-brand' } },
+      { path: 'creation-entreprise-afrique', name: 'seo-create', component: () => import('@/views/public/SeoGuideView.vue'), meta: { seoKey: 'create' } },
+      { path: 'cabinet-juridique-afrique', name: 'seo-legal', component: () => import('@/views/public/SeoGuideView.vue'), meta: { seoKey: 'legal' } },
+      { path: 'investir-en-afrique', name: 'seo-invest', component: () => import('@/views/public/SeoGuideView.vue'), meta: { seoKey: 'invest' } },
+      { path: 'business-afrique', name: 'seo-business', component: () => import('@/views/public/SeoGuideView.vue'), meta: { seoKey: 'business' } },
       { path: 'salle-d-attente', name: 'waiting-room', component: () => import('@/views/public/WaitingRoomView.vue'), meta: { immersive: true } },
       { path: 'kopen-mind', name: 'kopen-mind', component: () => import('@/views/public/KopenMindView.vue') },
       { path: 'connexion', name: 'login', component: () => import('@/views/public/LoginView.vue'), props: { audience: 'fellow' } },

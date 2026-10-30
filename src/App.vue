@@ -4,6 +4,9 @@
  */
 import CowrieRain from '@/components/effects/CowrieRain.vue'
 import KToaster from '@/components/ui/KToaster.vue'
+import { useSeo } from '@/composables/useSeo'
+
+useSeo()
 </script>
 
 <template>

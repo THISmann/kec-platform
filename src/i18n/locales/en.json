@@ -22,7 +22,8 @@
     "menu": "Menu",
     "language": "Language",
     "homeLabel": "Home",
-    "journey": "The journey"
+    "journey": "The journey",
+    "guides": "Guides"
   },
   "footer": {
     "mission": "The digital and legal gateway for African entrepreneurs. Create, formalise, grow, with people by your side.",
@@ -33,14 +34,15 @@
     "team": "KEC team",
     "contact": "Contact",
     "disclaimer": "KEC provides general information and support; no individual legal advice is given online.",
-    "follow": "Follow us"
+    "follow": "Follow us",
+    "guides": "Guides"
   },
   "home": {
     "hero": {
-      "eyebrow": "K-Enterprise Counsel · Africa",
+      "eyebrow": "KEC Consulting · KEC Africa",
       "title1": "Your business, rooted in Africa.",
       "title2": "Open to the world.",
-      "lead": "Create, formalise and grow your company with human support, transparent pricing, and your documents safe in a legal vault.",
+      "lead": "KEC — K-Enterprise Counsel — helps you create, formalise and grow your company in Africa, with a legal firm, transparent pricing, and your documents kept safe.",
       "ctaWaitlist": "Enter the waiting room",
       "ctaProgram": "Discover the programme",
       "waiting": "{n} entrepreneurs are already waiting, coffee in hand",
@@ -127,7 +129,29 @@
       "title": "Home has not forgotten you.",
       "text": "The smell of the earth after the first rain. Morning coffee at grandma's. Voices under the palaver tree. Been away for a long time? Your company can be born here, and bring you a little closer to home.",
       "cta": "Come back through the front door"
+    },
+    "guides": {
+      "eyebrow": "To see clearly",
+      "title": "Create, advise, invest: the continent, one page at a time.",
+      "lead": "One question, one page. KEC Consulting covers company creation in Africa, a legal office, investing, and doing business on the continent.",
+      "read": "Read the guide",
+      "cards": {
+        "create": "OHADA filings, SARL, RCCM: how to create a company in Africa, from the country or the diaspora.",
+        "legal": "A legal firm in Africa that answers: consultants, video, Douala, Yaoundé, Bafoussam.",
+        "invest": "Invest in Africa without the blur: local vehicle, partners, Kia channel.",
+        "business": "Do business in Africa with a clean structure, a network and a vault.",
+        "brand": "KEC, KEC Africa, KEC Consulting: the same firm, kec-africa.com."
+      }
     }
+  },
+  "guides": {
+    "faq": "Frequently asked questions",
+    "related": "More KEC guides",
+    "brand": { "nav": "KEC Consulting" },
+    "create": { "nav": "Start a company in Africa" },
+    "legal": { "nav": "Legal firm in Africa" },
+    "invest": { "nav": "Invest in Africa" },
+    "business": { "nav": "Business in Africa" }
   },
   "waiting": {
     "eyebrow": "Waiting room · pre-pilot",

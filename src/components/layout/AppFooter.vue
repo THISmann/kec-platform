@@ -33,6 +33,14 @@ const ICONS = {
         <RouterLink :to="{ name: 'kopen-mind' }">Kopen Mind</RouterLink>
       </div>
       <div>
+        <h4>{{ $t('footer.guides') }}</h4>
+        <RouterLink :to="{ name: 'seo-create' }">{{ $t('guides.create.nav') }}</RouterLink>
+        <RouterLink :to="{ name: 'seo-legal' }">{{ $t('guides.legal.nav') }}</RouterLink>
+        <RouterLink :to="{ name: 'seo-invest' }">{{ $t('guides.invest.nav') }}</RouterLink>
+        <RouterLink :to="{ name: 'seo-business' }">{{ $t('guides.business.nav') }}</RouterLink>
+        <RouterLink :to="{ name: 'seo-brand' }">{{ $t('guides.brand.nav') }}</RouterLink>
+      </div>
+      <div>
         <h4>{{ $t('footer.spaces') }}</h4>
         <RouterLink :to="{ name: 'login' }">{{ $t('footer.fellows') }}</RouterLink>
         <RouterLink :to="{ name: 'investor-login' }" :title="$t('kia.fullName')">{{ $t('footer.kia') }}</RouterLink>
@@ -69,7 +77,7 @@ const ICONS = {
 .grid-f {
   display: grid; gap: 2rem; grid-template-columns: 1fr;
   @include sm-up { grid-template-columns: 1fr 1fr; }
-  @include md-up { grid-template-columns: 1.6fr 1fr 1fr 1.2fr; }
+  @include md-up { grid-template-columns: 1.4fr 1fr 1fr 1fr 1.1fr; }
   > div { display: flex; flex-direction: column; gap: .5rem; }
   h4 { font-family: var(--font-body); font-size: .78rem; letter-spacing: .2em; text-transform: uppercase; color: var(--kec-gold); margin-bottom: .4rem; }
   .follow { margin-top: .8rem; }

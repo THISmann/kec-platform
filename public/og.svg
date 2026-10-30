@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a110b"/>
+      <stop offset="45%" stop-color="#4a1f10"/>
+      <stop offset="100%" stop-color="#a8401f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#sky)"/>
+  <circle cx="980" cy="160" r="220" fill="rgba(255,225,170,0.22)"/>
+  <text x="80" y="200" fill="#e9c983" font-family="Georgia, serif" font-size="42" letter-spacing="8">KEC AFRICA</text>
+  <text x="80" y="310" fill="#f5ecdb" font-family="Georgia, serif" font-size="64">Créer son entreprise</text>
+  <text x="80" y="390" fill="#d6a548" font-family="Georgia, serif" font-size="64" font-style="italic">en Afrique.</text>
+  <text x="80" y="500" fill="#c9b79c" font-family="Segoe UI, sans-serif" font-size="28">Cabinet juridique · OHADA · KEC Consulting</text>
+  <text x="80" y="555" fill="#efe3c9" font-family="Segoe UI, sans-serif" font-size="22">kec-africa.com</text>
+</svg>
