@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /espace
+Disallow: /equipe
+Disallow: /kia
+Disallow: /connexion
+Disallow: /equipe/connexion
+Disallow: /kia/connexion
+
+Sitemap: https://kec-africa.com/sitemap.xml

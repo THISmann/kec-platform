@@ -28,6 +28,9 @@ import { AFRICA_LIST, countryName, countryFact } from '@/data/africaFacts'
 import { formatNumber } from '@/utils/format'
 import { useCountUp } from '@/composables/useCountUp'
 import { prefersReducedMotion } from '@/composables/useReducedMotion'
+import { GUIDES } from '@/seo/site'
+
+const guideCards = ['create', 'legal', 'invest', 'business', 'brand'].map((k) => GUIDES[k])
 
 const { t, tm, rt, locale } = useI18n()
 const ui = useUiStore()
@@ -199,7 +202,23 @@ function onFormed() {
       </div>
     </section>
 
-    <!-- ═══ 7. KOPEN MIND ═══ -->
+    <!-- ═══ 7. GUIDES SEO : une intention = une page ═══ -->
+    <section id="guides" class="container guides" v-reveal>
+      <header class="sec-head">
+        <span class="eyebrow">{{ $t('home.guides.eyebrow') }}</span>
+        <h2>{{ $t('home.guides.title') }}</h2>
+        <p class="text-muted">{{ $t('home.guides.lead') }}</p>
+      </header>
+      <div class="cards">
+        <article v-for="(g, i) in guideCards" :key="g.name" class="card wood-panel" v-reveal="i * 70">
+          <h3>{{ $t(g.navKey) }}</h3>
+          <p class="text-muted">{{ $t(`home.guides.cards.${g.name.replace('seo-', '')}`) }}</p>
+          <RouterLink :to="{ name: g.name }">{{ $t('home.guides.read') }} →</RouterLink>
+        </article>
+      </div>
+    </section>
+
+    <!-- ═══ 8. KOPEN MIND ═══ -->
     <section class="container kopen" v-reveal>
       <KopenMindBox />
     </section>
@@ -312,4 +331,5 @@ section:not(.hero) { padding-block: clamp(3rem, 6.5vw, 5rem); }
   h2 { font-size: clamp(2rem, 4.4vw, 3.4rem); }
   p { font-size: 1.08rem; color: #f8e9d6; text-shadow: 0 2px 12px rgba(0, 0, 0, .5); } }
 .kopen { padding-top: 3.5rem; }
+.guides .card a { color: var(--kec-gold); font-weight: 700; display: inline-block; margin-top: 1rem; }
 </style>

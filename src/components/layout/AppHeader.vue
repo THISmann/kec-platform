@@ -24,6 +24,13 @@ const SECTIONS = [
   { id: 'parcours', key: 'nav.journey' },
   { id: 'programme', key: 'nav.program' }
 ]
+const GUIDES = [
+  { name: 'seo-create', key: 'guides.create.nav' },
+  { name: 'seo-legal', key: 'guides.legal.nav' },
+  { name: 'seo-invest', key: 'guides.invest.nav' },
+  { name: 'seo-business', key: 'guides.business.nav' },
+  { name: 'seo-brand', key: 'guides.brand.nav' }
+]
 const onHome = computed(() => route.name === 'home')
 
 let spy = null
@@ -68,6 +75,9 @@ const closeNavSoon = () => { clearTimeout(navTimer); navTimer = setTimeout(() =>
           <ul class="drop">
             <li v-for="s in SECTIONS" :key="s.id">
               <RouterLink :to="{ name: 'home', hash: `#${s.id}` }" :class="{ 'is-current': section === s.id }" @click="close">{{ $t(s.key) }}</RouterLink>
+            </li>
+            <li v-for="g in GUIDES" :key="g.name">
+              <RouterLink :to="{ name: g.name }" :class="{ 'is-current': route.name === g.name }" @click="close">{{ $t(g.key) }}</RouterLink>
             </li>
           </ul>
         </div>

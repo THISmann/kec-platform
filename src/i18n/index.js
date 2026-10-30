@@ -15,6 +15,8 @@ const STORAGE_KEY = 'kec.locale'
 const loaders = import.meta.glob('./locales/*.json')
 
 function detectLocale() {
+  const ua = typeof navigator !== 'undefined' ? navigator.userAgent : ''
+  if (/bot|google|bing|slurp|duckduck|yandex|baidu|crawler|spider/i.test(ua)) return APP_CONFIG.defaultLocale
   const saved = (() => { try { return localStorage.getItem(STORAGE_KEY) } catch { return null } })()
   const candidates = [saved, ...(navigator.languages || [navigator.language])].filter(Boolean)
   for (const c of candidates) {

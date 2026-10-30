@@ -22,7 +22,8 @@
     "menu": "Menu",
     "language": "Langue",
     "homeLabel": "Accueil",
-    "journey": "Le parcours"
+    "journey": "Le parcours",
+    "guides": "Guides"
   },
   "footer": {
     "mission": "La porte d'entrée digitale et juridique de l'entrepreneur africain. Créer, formaliser, grandir, accompagné.",
@@ -33,14 +34,15 @@
     "team": "Équipe KEC",
     "contact": "Contact",
     "disclaimer": "KEC fournit des informations générales et un accompagnement ; pas de conseil juridique individualisé en ligne.",
-    "follow": "Nous suivre"
+    "follow": "Nous suivre",
+    "guides": "Guides"
   },
   "home": {
     "hero": {
-      "eyebrow": "K-Enterprise Counsel · Afrique",
+      "eyebrow": "KEC Consulting · KEC Africa",
       "title1": "Votre entreprise, enracinée en Afrique.",
       "title2": "Ouverte au monde.",
-      "lead": "Créer, formaliser puis développer votre entreprise, avec un accompagnement humain, des prix transparents et vos documents à l'abri dans un coffre-fort juridique.",
+      "lead": "KEC — K-Enterprise Counsel — vous aide à créer, formaliser puis développer votre entreprise en Afrique, avec un cabinet juridique, des prix transparents et vos documents à l'abri.",
       "ctaWaitlist": "Entrer dans la salle d'attente",
       "ctaProgram": "Découvrir le programme",
       "waiting": "{n} entrepreneurs attendent déjà, un café à la main",
@@ -127,7 +129,29 @@
       "title": "La maison ne vous a pas oublié.",
       "text": "L'odeur de la terre après la première pluie. Le café du matin chez la grand-mère. Les voix sous l'arbre à palabres. Vous êtes parti depuis longtemps ? Votre entreprise, elle, peut naître ici, et vous ramener un peu chez vous.",
       "cta": "Revenir par la grande porte"
+    },
+    "guides": {
+      "eyebrow": "Pour y voir clair",
+      "title": "Créer, conseiller, investir : le continent, page par page.",
+      "lead": "Une question, une page. KEC Consulting répond à la création d'entreprise en Afrique, au bureau juridique, à l'investissement et au business sur le continent.",
+      "read": "Lire le guide",
+      "cards": {
+        "create": "Formalités OHADA, SARL, RCCM : comment créer son entreprise en Afrique, depuis le pays ou la diaspora.",
+        "legal": "Un cabinet juridique en Afrique qui répond : consultants, visio, Douala, Yaoundé, Bafoussam.",
+        "invest": "Investir en Afrique sans le flou : véhicule local, associés, canal Kia.",
+        "business": "Faire du business en Afrique avec une structure propre, un réseau et un coffre-fort.",
+        "brand": "KEC, KEC Africa, KEC Consulting : le même cabinet, kec-africa.com."
+      }
     }
+  },
+  "guides": {
+    "faq": "Questions fréquentes",
+    "related": "Continuer dans les guides KEC",
+    "brand": { "nav": "KEC Consulting" },
+    "create": { "nav": "Créer une entreprise en Afrique" },
+    "legal": { "nav": "Cabinet juridique en Afrique" },
+    "invest": { "nav": "Investir en Afrique" },
+    "business": { "nav": "Business en Afrique" }
   },
   "waiting": {
     "eyebrow": "Salle d'attente · pré-pilote",
